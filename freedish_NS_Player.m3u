@@ -7,6 +7,49 @@ https://video.frdp6-1.fna.fbcdn.net/v/t39.25447-2/423313563_897407131848910_6413
 http://mag.trexlive.me:80/Michael88/Michael88/42438
 #EXTINF: -1 tvg-id="StarPlus.uk" tvg-logo="http://logo.protv.cc/picons/logos/USTAV-PLUS.png" group-title="INDIA EU", UTSAV PLUS FHD
 http://mag.trexlive.me:80/Michael88/Michael88/267589
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ", Star Jalsha 
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8 
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Jalsha Movies 
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8 
+
+
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Star Jalsha 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=88e557a35fef&e=.m3u8 
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Jalsha Movies 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=23bff287b2d9&e=.m3u8 
+
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Star Plus 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=e767f10e635a&e=.m3u8 
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Star Bharat HD 
+https://uniflixbd.xyz/unuse/notwork/live.php?id=1a89bf385512&e=.m3u8 
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Star Sports 1 
+https://uniflixbd.xyz/unuse/notwork/live.php?id=1a89bf385512&e=.m3u8 
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Star Sports Hindi 
+https://ottbangla.shop/noway/stream.php?id=starhindi&e=.m3u8 
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Star Gold HD 
+ 
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8 
+
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Star Gold Select 
+
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_TV_2016.svg/revision/latest/scale-to-width-down/200?cb=20201201120714" group-title="TVBOOKLIVE ",  Star Movies HD 
+
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
+
 #EXTINF: -1 tvg-id="SonyEntertainmentTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" group-title="INDIA EU", SONY TV
 http://mag.trexlive.me:80/Michael88/Michael88/959
 #EXTINF: -1 tvg-id="SonyEntertainmentTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/sonytv.png" group-title="INDIA EU", SONY TV FHD
