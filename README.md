@@ -5,10 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvbooklive&label=Profile%20views&color=0e75b6&style=flat" alt="tvbooklive" /> </p>
 
-
-- 🔭 **DD FREE DISH Playlist**
-
-- 💬 Ask me about **IPTV, M3U8 PLAYLISTS**
+**DD FREE DISH Playlist**
+**IPTV, M3U8 PLAYLISTS**
 
 <h1 align="center">🎬 How To Play ? </h1>
 
