@@ -9,4 +9,8 @@
 
 - 💬 Ask me about **IPTV,M3U8 PLAYLISTS**
 
+**🎬 How To Play** 
+**Use Ns Player Download On Play Store** 
+**Use This Short Playlist**  https://daem.short.gy/ddfreedish 
 
+**Contact Us On Telegram @tvbooklive**
