@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvbooklive&label=Profile%20views&color=0e75b6&style=flat" alt="tvbooklive" /> </p>
 
 
-- 🔭 I’m currently working on **DD FREE DISH**
+- 🔭 **DD FREE DISH Playlist**
 
-- 💬 Ask me about **IPTV,M3U8 PLAYLISTS**
+- 💬 Ask me about **IPTV, M3U8 PLAYLISTS**
 
 <h1 align="center">🎬 How To Play ? </h1>
 
