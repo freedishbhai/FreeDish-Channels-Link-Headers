@@ -1,1 +1,1337 @@
-
+#EXTM3U 
+#EXTINF: -1 tvg-id="StarPlus.uk" tvg-logo="http://logo.protv.cc/picons/logos/USTAV-PLUS.png" group-title="INDIA EU", UTSAV PLUS
+http://mag.trexlive.me:80/Michael88/Michael88/42438
+#EXTINF: -1 tvg-id="StarPlus.uk" tvg-logo="http://logo.protv.cc/picons/logos/USTAV-PLUS.png" group-title="INDIA EU", UTSAV PLUS FHD
+http://mag.trexlive.me:80/Michael88/Michael88/267589
+#EXTINF: -1 tvg-id="SonyEntertainmentTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" group-title="INDIA EU", SONY TV
+http://mag.trexlive.me:80/Michael88/Michael88/959
+#EXTINF: -1 tvg-id="SonyEntertainmentTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/sonytv.png" group-title="INDIA EU", SONY TV FHD
+http://mag.trexlive.me:80/Michael88/Michael88/163522
+#EXTINF: -1 tvg-id="Colors.uk" tvg-logo="http://logo.protv.cc/picons/logos/colors.png" group-title="INDIA EU", COLORS FHD
+http://mag.trexlive.me:80/Michael88/Michael88/163527
+#EXTINF: -1 tvg-id="Colors.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.colors.png" group-title="INDIA EU", COLORS
+http://mag.trexlive.me:80/Michael88/Michael88/42446
+#EXTINF: -1 tvg-id="Colors.uk" tvg-logo="http://logo.protv.cc/picons/logos/colorshd.png" group-title="INDIA EU", COLORS UK HD
+http://mag.trexlive.me:80/Michael88/Michael88/945588
+#EXTINF: -1 tvg-id="ColorsGujarati.in" tvg-logo="http://logo.protv.cc/picons/logos/COLORS-GUJARATI.png" group-title="INDIA EU", COLORS GUJRATI
+http://mag.trexlive.me:80/Michael88/Michael88/840330
+#EXTINF: -1 tvg-id="StarGold.uk" tvg-logo="http://logo.protv.cc/picons/logos/USTAV-GOLD.jpeg" group-title="INDIA EU", UTSAV GOLD
+http://mag.trexlive.me:80/Michael88/Michael88/3647
+#EXTINF: -1 tvg-id="StarGold.uk" tvg-logo="http://logo.protv.cc/picons/logos/USTAV-GOLD.jpeg" group-title="INDIA EU", UTSAV GOLD FHD
+http://mag.trexlive.me:80/Michael88/Michael88/267600
+#EXTINF: -1 tvg-id="SonyMax.uk" tvg-logo="http://logo.protv.cc/picons/logos/sonymax.png" group-title="INDIA EU", SONY MAX FHD
+http://mag.trexlive.me:80/Michael88/Michael88/163523
+#EXTINF: -1 tvg-id="SonyMax.uk" tvg-logo="http://logo.protv.cc/picons/logos/sonymax.png" group-title="INDIA EU", SONY MAX
+http://mag.trexlive.me:80/Michael88/Michael88/164031
+#EXTINF: -1 tvg-id="SonyMax2.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.Sony_Max_2.png" group-title="INDIA EU", SONY MAX 2
+http://mag.trexlive.me:80/Michael88/Michael88/71912
+#EXTINF: -1 tvg-id="SonySAB.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.Sony_Sab.png" group-title="INDIA EU", SONY SAB
+http://mag.trexlive.me:80/Michael88/Michael88/42460
+#EXTINF: -1 tvg-id="SonySAB.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.Sony_Sab.png" group-title="INDIA EU", SONY SAB (BK)
+http://mag.trexlive.me:80/Michael88/Michael88/546170
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="INDIA EU", NEWS 18 EN
+http://mag.trexlive.me:80/Michael88/Michael88/1021295
+#EXTINF: -1 tvg-id="Pitaara.in" tvg-logo="http://logo.protv.cc/picons/logos/PITAARA.png" group-title="INDIA EU", PITAARA
+http://mag.trexlive.me:80/Michael88/Michael88/660063
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PITAARA.png" group-title="INDIA EU", PITAARA (BK)
+http://mag.trexlive.me:80/Michael88/Michael88/896709
+#EXTINF: -1 tvg-id="StarBharat.uk" tvg-logo="http://logo.protv.cc/picons/logos/USTAV-BHARAT.jpeg" group-title="INDIA EU", UTSAV BHARAT
+http://mag.trexlive.me:80/Michael88/Michael88/57119
+#EXTINF: -1 tvg-id="StarBharat.uk" tvg-logo="http://logo.protv.cc/picons/logos/USTAV-BHARAT.jpeg" group-title="INDIA EU", UTSAV BHARAT (BK)
+http://mag.trexlive.me:80/Michael88/Michael88/697929
+#EXTINF: -1 tvg-id="B4UMovies.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.b4umovies.png" group-title="INDIA EU", B4U MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/42443
+#EXTINF: -1 tvg-id="B4UMusic.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.B4umusic.png" group-title="INDIA EU", B4U MUSIC
+http://mag.trexlive.me:80/Michael88/Michael88/42444
+#EXTINF: -1 tvg-id="B4UPlus.ae" tvg-logo="http://logo.protv.cc/picons/logos/b4uplus.png" group-title="INDIA EU", B4U PLUS
+http://mag.trexlive.me:80/Michael88/Michael88/97108
+#EXTINF: -1 tvg-id="BritAsiaTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.britasiatv.png" group-title="INDIA EU", BRIT ASIA TV
+http://mag.trexlive.me:80/Michael88/Michael88/42445
+#EXTINF: -1 tvg-id="ColorsRishtey.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.rishtey.png" group-title="INDIA EU", COLORS RISHTEY
+http://mag.trexlive.me:80/Michael88/Michael88/42456
+#EXTINF: -1 tvg-id="ColorsBangla.in" tvg-logo="http://logo.protv.cc/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="INDIA EU", COLORS BANGLA UK
+http://mag.trexlive.me:80/Michael88/Michael88/945586
+#EXTINF: -1 tvg-id="ColorsKannada.in" tvg-logo="http://logo.protv.cc/picons/logos/COLORS-KANNADA-HD.jpg" group-title="INDIA EU", COLORS KANNADA UK
+http://mag.trexlive.me:80/Michael88/Michael88/945560
+#EXTINF: -1 tvg-id="ColorsMarathi.in" tvg-logo="http://logo.protv.cc/picons/logos/colorsmarathi.png" group-title="INDIA EU", COLORS MARATHI UK
+http://mag.trexlive.me:80/Michael88/Michael88/945559
+#EXTINF: -1 tvg-id="ZeeTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" group-title="INDIA EU", ZEE TV
+http://mag.trexlive.me:80/Michael88/Michael88/945
+#EXTINF: -1 tvg-id="RishteyCineplex.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.ristheycineplex.png" group-title="INDIA EU", COLORS CINEPLEX
+http://mag.trexlive.me:80/Michael88/Michael88/42457
+#EXTINF: -1 tvg-id="ZeeTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/zeetv.png" group-title="INDIA EU", ZEE TV HD
+http://mag.trexlive.me:80/Michael88/Michael88/945569
+#EXTINF: -1 tvg-id="ZeeCinema.uk" tvg-logo="http://logo.protv.cc/picons/logos/zeecinema.png" group-title="INDIA EU", ZEE CINEMA FHD
+http://mag.trexlive.me:80/Michael88/Michael88/308949
+#EXTINF: -1 tvg-id="ZeeCinema.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.zeecinema.png" group-title="INDIA EU", ZEE CINEMA
+http://mag.trexlive.me:80/Michael88/Michael88/946
+#EXTINF: -1 tvg-id="Zing.nl" tvg-logo="http://logo.protv.cc/picons/logos/in.zing.png" group-title="INDIA EU", ZING
+http://mag.trexlive.me:80/Michael88/Michael88/3646
+#EXTINF: -1 tvg-id="AajTak.in" tvg-logo="http://logo.protv.cc/picons/logos/in.aajtak.png" group-title="INDIA EU", AAJ TAK
+http://mag.trexlive.me:80/Michael88/Michael88/42439
+#EXTINF: -1 tvg-id="ABPNews.in" tvg-logo="http://logo.protv.cc/picons/logos/in.abpnews.png" group-title="INDIA EU", ABP NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/42440
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/in.aastha.png" group-title="INDIA EU", AASTHA
+http://mag.trexlive.me:80/Michael88/Michael88/61600
+#EXTINF: -1 tvg-id="VenusTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/venus.png" group-title="INDIA EU", VENUS TV
+http://mag.trexlive.me:80/Michael88/Michael88/42461
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/foodxp.png" group-title="INDIA EU", FOODXP
+http://mag.trexlive.me:80/Michael88/Michael88/97106
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/matvnational.png" group-title="INDIA EU", MATV NATIONAL
+http://mag.trexlive.me:80/Michael88/Michael88/97104
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/sanskar.png" group-title="INDIA EU", SANSKAR
+http://mag.trexlive.me:80/Michael88/Michael88/97101
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/travelxp.png" group-title="INDIA EU", TRAVELXP
+http://mag.trexlive.me:80/Michael88/Michael88/97100
+#EXTINF: -1 tvg-id="KanshiTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.kanshitv.png" group-title="INDIA EU", KANSHI TV
+http://mag.trexlive.me:80/Michael88/Michael88/42452
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/in.NDTV_24X7.png" group-title="INDIA EU", NDTV 24x7
+http://mag.trexlive.me:80/Michael88/Michael88/42477
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ktv.png" group-title="INDIA EU", KTV
+http://mag.trexlive.me:80/Michael88/Michael88/97105
+#EXTINF: -1 tvg-id="PTCPUNJABI.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.ptcpunjabi.png" group-title="INDIA EU", PTC PUNJABI
+http://mag.trexlive.me:80/Michael88/Michael88/42475
+#EXTINF: -1 tvg-id="Sangat.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.sangat.png" group-title="INDIA EU", SANGAT
+http://mag.trexlive.me:80/Michael88/Michael88/42471
+#EXTINF: -1 tvg-id="SikhChannel.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.Sikh_Channel.png" group-title="INDIA EU", SIKH CHANNEL
+http://mag.trexlive.me:80/Michael88/Michael88/42473
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/in.akaal.png" group-title="INDIA EU", AKAAL
+http://mag.trexlive.me:80/Michael88/Michael88/79495
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/timesnow.png" group-title="INDIA EU", TIMES NOW HD
+http://mag.trexlive.me:80/Michael88/Michael88/156015
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SANKHYA-TV.jpeg" group-title="INDIA EU", SANKHYA TV
+http://mag.trexlive.me:80/Michael88/Michael88/533724
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/ITV-GOLD.png" group-title="INDIA EU", ITV GOLD
+http://mag.trexlive.me:80/Michael88/Michael88/1134063
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ETV_HD.png" group-title="INDIA EU", ETV UK
+http://mag.trexlive.me:80/Michael88/Michael88/945591
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA-NEWS-UP.jpeg" group-title="INDIA EU", INDIA NEWS UP UK
+http://mag.trexlive.me:80/Michael88/Michael88/945590
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/colorscineplex.png" group-title="INDIA EU", COLORS CINEPLEX UK
+http://mag.trexlive.me:80/Michael88/Michael88/945589
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-MAX.jpeg" group-title="INDIA EU", JAYA MAX UK
+http://mag.trexlive.me:80/Michael88/Michael88/945585
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TBO.jpg" group-title="INDIA", TBO
+http://mag.trexlive.me:80/Michael88/Michael88/945549
+#EXTINF: -1 tvg-id="AndTV.in" tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" group-title="INDIA", AND TV HD
+http://mag.trexlive.me:80/Michael88/Michael88/809740
+#EXTINF: -1 tvg-id="ZeeAction.in" tvg-logo="http://logo.protv.cc/picons/logos/zeeaction.jpg" group-title="INDIA", ZEE ACTION
+http://mag.trexlive.me:80/Michael88/Michael88/156139
+#EXTINF: -1 tvg-id="ZeeTV.in" tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" group-title="INDIA", ZEE TV HD
+http://mag.trexlive.me:80/Michael88/Michael88/155974
+#EXTINF: -1 tvg-id="ZeeTV.in" tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" group-title="INDIA", ZEE TV
+http://mag.trexlive.me:80/Michael88/Michael88/280773
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/zeetvhd.png" group-title="INDIA", DINCHAAK 1
+http://mag.trexlive.me:80/Michael88/Michael88/157155
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" group-title="INDIA", DINCHAAK 2
+http://mag.trexlive.me:80/Michael88/Michael88/157158
+#EXTINF: -1 tvg-id="ZeeCinema.in" tvg-logo="http://logo.protv.cc/picons/logos/in.zeecinema.png" group-title="INDIA", ZEE CINEMA HD
+http://mag.trexlive.me:80/Michael88/Michael88/155975
+#EXTINF: -1 tvg-id="ZeeCinema.in" tvg-logo="http://logo.protv.cc/picons/logos/in.zeecinema.png" group-title="INDIA", ZEE CINEMA
+http://mag.trexlive.me:80/Michael88/Michael88/280772
+#EXTINF: -1 tvg-id="ZETCBollywood.in" tvg-logo="http://logo.protv.cc/picons/logos/zeebollywood.jpg" group-title="INDIA", ZEE BOLLWOOD
+http://mag.trexlive.me:80/Michael88/Michael88/311859
+#EXTINF: -1 tvg-id="ZeeClassic.in" tvg-logo="http://logo.protv.cc/picons/logos/zeeclassic.jpg" group-title="INDIA", ZEE CLASSIC
+http://mag.trexlive.me:80/Michael88/Michael88/311858
+#EXTINF: -1 tvg-id="Zing.in" tvg-logo="http://logo.protv.cc/picons/logos/in.zing.png" group-title="INDIA", ZING
+http://mag.trexlive.me:80/Michael88/Michael88/156046
+#EXTINF: -1 tvg-id="Colors.in" tvg-logo="http://logo.protv.cc/picons/logos/colorshd.png" group-title="INDIA", COLORS
+http://mag.trexlive.me:80/Michael88/Michael88/156172
+#EXTINF: -1 tvg-id="Colors.in" tvg-logo="http://logo.protv.cc/picons/logos/in.colors.png" group-title="INDIA", COLORS TV HD
+http://mag.trexlive.me:80/Michael88/Michael88/280774
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/AAPKA-COLORS.png" group-title="INDIA", AAPKA COLORS HD USA
+http://mag.trexlive.me:80/Michael88/Michael88/157161
+#EXTINF: -1 tvg-id="StarGold.in" tvg-logo="http://logo.protv.cc/picons/logos/stargoldhd.png" group-title="INDIA", STAR GOLD HD
+http://mag.trexlive.me:80/Michael88/Michael88/155969
+#EXTINF: -1 tvg-id="StarGold.in" tvg-logo="http://logo.protv.cc/picons/logos/in.stargold.png" group-title="INDIA", STAR GOLD
+http://mag.trexlive.me:80/Michael88/Michael88/280766
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" group-title="INDIA", STAR GOLD 2
+http://mag.trexlive.me:80/Michael88/Michael88/1112132
+#EXTINF: -1 tvg-id="StarGoldSelect.in" tvg-logo="http://logo.protv.cc/picons/logos/stargoldselect.png" group-title="INDIA", STAR GOLD SELECT HD
+http://mag.trexlive.me:80/Michael88/Michael88/155970
+#EXTINF: -1 tvg-id="StarGoldSelect.in" tvg-logo="http://logo.protv.cc/picons/logos/stargoldselect.png" group-title="INDIA", STARGOLD SELECT
+http://mag.trexlive.me:80/Michael88/Michael88/280778
+#EXTINF: -1 tvg-id="StarPlus.in" tvg-logo="http://logo.protv.cc/picons/logos/starplushd.png" group-title="INDIA", STAR PLUS HD
+http://mag.trexlive.me:80/Michael88/Michael88/155971
+#EXTINF: -1 tvg-id="StarPlus.in" tvg-logo="http://logo.protv.cc/picons/logos/in.starplus.png" group-title="INDIA", STAR PLUS
+http://mag.trexlive.me:80/Michael88/Michael88/280767
+#EXTINF: -1 tvg-id="StarBharat.in" tvg-logo="http://logo.protv.cc/picons/logos/starbharathd.jpg" group-title="INDIA", STAR BHARAT HD
+http://mag.trexlive.me:80/Michael88/Michael88/156173
+#EXTINF: -1 tvg-id="StarBharat.in" tvg-logo="http://logo.protv.cc/picons/logos/starbharat.png" group-title="INDIA", STAR BHARAT
+http://mag.trexlive.me:80/Michael88/Michael88/280765
+#EXTINF: -1 tvg-id="StarUtsav.in" tvg-logo="http://logo.protv.cc/picons/logos/starutsav.png" group-title="INDIA", STAR UTSAV
+http://mag.trexlive.me:80/Michael88/Michael88/156163
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STAR-UTSAV-MOVIES.png" group-title="INDIA", STAR UTSAV MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/1112131
+#EXTINF: -1 tvg-id="Sony.in" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" group-title="INDIA", SONY HD
+http://mag.trexlive.me:80/Michael88/Michael88/156170
+#EXTINF: -1 tvg-id="Sony.in" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" group-title="INDIA", SONY HD (Back-Up)
+http://mag.trexlive.me:80/Michael88/Michael88/156104
+#EXTINF: -1 tvg-id="Sony.in" tvg-logo="http://logo.protv.cc/picons/logos/sonytv.png" group-title="INDIA", SONY TV
+http://mag.trexlive.me:80/Michael88/Michael88/280777
+#EXTINF: -1 tvg-id="Sony.in" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" group-title="INDIA", SONY HD USA
+http://mag.trexlive.me:80/Michael88/Michael88/157159
+#EXTINF: -1 tvg-id="SonyMax.in" tvg-logo="http://logo.protv.cc/picons/logos/in.sonymaxhd.png" group-title="INDIA", SONY MAX HD
+http://mag.trexlive.me:80/Michael88/Michael88/156013
+#EXTINF: -1 tvg-id="SonyMax.in" tvg-logo="http://logo.protv.cc/picons/logos/SONY-MAX-HD.png" group-title="INDIA", SONY MAX HD (Back-Up)
+http://mag.trexlive.me:80/Michael88/Michael88/156106
+#EXTINF: -1 tvg-id="SonyMax2.in" tvg-logo="http://logo.protv.cc/picons/logos/sonymax2.png" group-title="INDIA", SONY MAX 2 HD
+http://mag.trexlive.me:80/Michael88/Michael88/280780
+#EXTINF: -1 tvg-id="SonyMax2.in" tvg-logo="http://logo.protv.cc/picons/logos/sonymax2.png" group-title="INDIA", SONY MAX 2
+http://mag.trexlive.me:80/Michael88/Michael88/156118
+#EXTINF: -1 tvg-id="SonySAB.in" tvg-logo="http://logo.protv.cc/picons/logos/sonysabhd.jpg" group-title="INDIA", SONY SAB HD
+http://mag.trexlive.me:80/Michael88/Michael88/156014
+#EXTINF: -1 tvg-id="SonySAB.in" tvg-logo="http://logo.protv.cc/picons/logos/sonysab.png" group-title="INDIA", SONY SAB
+http://mag.trexlive.me:80/Michael88/Michael88/280764
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-MOVIES.png" group-title="INDIA", JAYA MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/945584
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/JAYA-TV.png" group-title="INDIA", JAYA TV
+http://mag.trexlive.me:80/Michael88/Michael88/945583
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PUTHIYA-THALIMURAI.jpg" group-title="INDIA", PUTHIYA THALAIMURAI
+http://mag.trexlive.me:80/Michael88/Michael88/945582
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/KALAINGAR-TV.jpg" group-title="INDIA", KALAIGNAR TV
+http://mag.trexlive.me:80/Michael88/Michael88/945581
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ktv.png" group-title="INDIA", KTV
+http://mag.trexlive.me:80/Michael88/Michael88/945580
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-JALSHA.png" group-title="INDIA", STAR JALSHA
+http://mag.trexlive.me:80/Michael88/Michael88/945575
+#EXTINF: -1 tvg-id="StarPlus.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.starplus.png" group-title="INDIA", UTSAV PLUS
+http://mag.trexlive.me:80/Michael88/Michael88/945574
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/starvijay.png" group-title="INDIA", STAR VIJAY
+http://mag.trexlive.me:80/Michael88/Michael88/945573
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/starpravah.jpg" group-title="INDIA", STAR PRAVAH
+http://mag.trexlive.me:80/Michael88/Michael88/945553
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/starvijay.png" group-title="INDIA", STAR VIJAY
+http://mag.trexlive.me:80/Michael88/Michael88/945552
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/starbharat.png" group-title="INDIA", STAR BHARAT UK
+http://mag.trexlive.me:80/Michael88/Michael88/945579
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MAKKAL-TV.jpeg" group-title="INDIA", MAKKAL TV
+http://mag.trexlive.me:80/Michael88/Michael88/945578
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/POLIMER-TV.jpeg" group-title="INDIA", POLIMER TV
+http://mag.trexlive.me:80/Michael88/Michael88/945577
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/RUPASHI-BANGLA.jpg" group-title="INDIA", RUPASHI BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/945576
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/sunmusic.png" group-title="INDIA", SUN MUSIC
+http://mag.trexlive.me:80/Michael88/Michael88/945572
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/suntv.jpg" group-title="INDIA", SUN TV
+http://mag.trexlive.me:80/Michael88/Michael88/945571
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/VENDHAR-TV.jpeg" group-title="INDIA", VENDHAR TV
+http://mag.trexlive.me:80/Michael88/Michael88/945570
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/BBO-TV.jpeg" group-title="INDIA", BBO
+http://mag.trexlive.me:80/Michael88/Michael88/945568
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/KBO-TV.png" group-title="INDIA", KBO
+http://mag.trexlive.me:80/Michael88/Michael88/945567
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MBO-TV.jpeg" group-title="INDIA", MBO
+http://mag.trexlive.me:80/Michael88/Michael88/945566
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/zoom.jpg" group-title="INDIA", ZOOM
+http://mag.trexlive.me:80/Michael88/Michael88/945564
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ADITHYA-TV.jpeg" group-title="INDIA", ADITHYA TV
+http://mag.trexlive.me:80/Michael88/Michael88/945563
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIANET-PLUS.jpg" group-title="INDIA", ASIANET PLUS
+http://mag.trexlive.me:80/Michael88/Michael88/945562
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIANET-HD.jpg" group-title="INDIA", ASIANET TV
+http://mag.trexlive.me:80/Michael88/Michael88/945561
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/JAIHIND-TV.jpg" group-title="INDIA", JAIHIND TV
+http://mag.trexlive.me:80/Michael88/Michael88/945558
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/JEEVAN-TV.png" group-title="INDIA", JEEVAN TV
+http://mag.trexlive.me:80/Michael88/Michael88/945557
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/KAIRALI-TV.png" group-title="INDIA", KAIRALI TV
+http://mag.trexlive.me:80/Michael88/Michael88/945556
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MAA-MOVIES.jpeg" group-title="INDIA", MAA MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/945555
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MAA-TV.png" group-title="INDIA", MAA TV
+http://mag.trexlive.me:80/Michael88/Michael88/945554
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SUVARNA-TV.jpeg" group-title="INDIA", SUVARNA TV
+http://mag.trexlive.me:80/Michael88/Michael88/945551
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/WE-TV.jpg" group-title="INDIA", WE TV
+http://mag.trexlive.me:80/Michael88/Michael88/945550
+#EXTINF: -1 tvg-id="SonySAB.in" tvg-logo="http://logo.protv.cc/picons/logos/sonysabhd.jpg" group-title="INDIA", SAB TV HD USA
+http://mag.trexlive.me:80/Michael88/Michael88/157162
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/andtv.png" group-title="INDIA", AND EXPLORER HD
+http://mag.trexlive.me:80/Michael88/Michael88/209743
+#EXTINF: -1 tvg-id="SonyPix.in" tvg-logo="http://logo.protv.cc/picons/logos/SONY-PIX-HD.jpeg" group-title="INDIA", SONY PIX HD
+http://mag.trexlive.me:80/Michael88/Michael88/156004
+#EXTINF: -1 tvg-id="SonyPal.in" tvg-logo="http://logo.protv.cc/picons/logos/sonypal.jpg" group-title="INDIA", SONY PAL
+http://mag.trexlive.me:80/Michael88/Michael88/156101
+#EXTINF: -1 tvg-id="SonyWah.in" tvg-logo="http://logo.protv.cc/picons/logos/sonywah.jpg" group-title="INDIA", SONY WAH
+http://mag.trexlive.me:80/Michael88/Michael88/156039
+#EXTINF: -1 tvg-id="SonyYAY.in" tvg-logo="http://logo.protv.cc/picons/logos/SONY-YAY.jpg" group-title="INDIA", SONY YAY
+http://mag.trexlive.me:80/Michael88/Michael88/156089
+#EXTINF: -1 tvg-id="B4UMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/in.b4umovies.png" group-title="INDIA", B4U MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/155987
+#EXTINF: -1 tvg-id="B4UMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/in.b4umovies.png" group-title="INDIA", B4U MOVIES USA
+http://mag.trexlive.me:80/Michael88/Michael88/157163
+#EXTINF: -1 tvg-id="B4UMusic.in" tvg-logo="http://logo.protv.cc/picons/logos/in.B4umusic.png" group-title="INDIA", B4U MUSIC
+http://mag.trexlive.me:80/Michael88/Michael88/156042
+#EXTINF: -1 tvg-id="B4UMusic.in" tvg-logo="http://logo.protv.cc/picons/logos/in.B4umusic.png" group-title="INDIA", B4U MUSIC USA
+http://mag.trexlive.me:80/Michael88/Michael88/157164
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/b4ukadak.jpg" group-title="INDIA", B4U KADAK
+http://mag.trexlive.me:80/Michael88/Michael88/280798
+#EXTINF: -1 tvg-id="B4UMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/in.b4umovies.png" group-title="INDIA", B4U MOVIES INDIA
+http://mag.trexlive.me:80/Michael88/Michael88/280799
+#EXTINF: -1 tvg-id="9XJalwa.in" tvg-logo="http://logo.protv.cc/picons/logos/9xjalwa.jpg" group-title="INDIA", 9X JALWA
+http://mag.trexlive.me:80/Michael88/Michael88/156123
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/9xmusic.png" group-title="INDIA", 9X MUSIC
+http://mag.trexlive.me:80/Michael88/Michael88/156120
+#EXTINF: -1 tvg-id="9XTashan.in" tvg-logo="http://logo.protv.cc/picons/logos/9X-TASHAN.jpeg" group-title="INDIA", 9X TASHAN
+http://mag.trexlive.me:80/Michael88/Michael88/156094
+#EXTINF: -1 tvg-id="9XM.in" tvg-logo="http://logo.protv.cc/picons/logos/9xm.png" group-title="INDIA", 9XM
+http://mag.trexlive.me:80/Michael88/Michael88/280784
+#EXTINF: -1 tvg-id="AajTak.in" tvg-logo="http://logo.protv.cc/picons/logos/aajtakhd.png" group-title="INDIA", AAJ TAK
+http://mag.trexlive.me:80/Michael88/Michael88/156001
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/aajtaktejhd.png" group-title="INDIA", AAJ TAKTEZ HD
+http://mag.trexlive.me:80/Michael88/Michael88/280787
+#EXTINF: -1 tvg-id="AajTak.in" tvg-logo="http://logo.protv.cc/picons/logos/in.aajtak.png" group-title="INDIA", AAJ TAK HD
+http://mag.trexlive.me:80/Michael88/Michael88/280786
+#EXTINF: -1 tvg-id="TEZ.in" tvg-logo="http://logo.protv.cc/picons/logos/in.aajtak.png" group-title="INDIA", AAJ TAK TEZ
+http://mag.trexlive.me:80/Michael88/Michael88/156108
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/DILLI-AAJ-TAKK.png" group-title="INDIA", DILLI AAJ TAKK
+http://mag.trexlive.me:80/Michael88/Michael88/156109
+#EXTINF: -1 tvg-id="Zoom.in" tvg-logo="http://logo.protv.cc/picons/logos/zoomtv.png" group-title="INDIA", ZOOM TV
+http://mag.trexlive.me:80/Michael88/Michael88/156161
+#EXTINF: -1 tvg-id="Aastha.in" tvg-logo="http://logo.protv.cc/picons/logos/in.aastha.png" group-title="INDIA", AASTHA HD
+http://mag.trexlive.me:80/Michael88/Michael88/280789
+#EXTINF: -1 tvg-id="Aastha.in" tvg-logo="http://logo.protv.cc/picons/logos/AASTHA-TV.png" group-title="INDIA", AASTHA
+http://mag.trexlive.me:80/Michael88/Michael88/156030
+#EXTINF: -1 tvg-id="Aastha.in" tvg-logo="http://logo.protv.cc/picons/logos/AASTHA-TV.png" group-title="INDIA", AASTHA TV USA
+http://mag.trexlive.me:80/Michael88/Michael88/157165
+#EXTINF: -1 tvg-id="AasthaBhajan.in" tvg-logo="http://logo.protv.cc/picons/logos/AASTHA-TV.png" group-title="INDIA", AASTHA BHAJAN
+http://mag.trexlive.me:80/Michael88/Michael88/156041
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ZEE-ANMOL.jpg" group-title="INDIA", ZEE ANMOL
+http://mag.trexlive.me:80/Michael88/Michael88/156165
+#EXTINF: -1 tvg-id="ZeeAnmolCinema.in" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-ANMOL-CINEMA.jpg" group-title="INDIA", ZEE ANMOL CINEMA
+http://mag.trexlive.me:80/Michael88/Michael88/156146
+#EXTINF: -1 tvg-id="ZeeBusiness.in" tvg-logo="http://logo.protv.cc/picons/logos/zeebusiness.jpg" group-title="INDIA", ZEE BUSINESS
+http://mag.trexlive.me:80/Michael88/Michael88/156122
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ZEE-ETC-BOLLYWOOD.png" group-title="INDIA", ZEE ETC BOLLYWOOD
+http://mag.trexlive.me:80/Michael88/Michael88/156166
+#EXTINF: -1 tvg-id="ZeeHindustan.in" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-HINDUSTAN.jpg" group-title="INDIA", ZEE HINDUSTAN
+http://mag.trexlive.me:80/Michael88/Michael88/156137
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ZEE-NEWS-BIHAR.jpg" group-title="INDIA", ZEE NEWS BIHAR
+http://mag.trexlive.me:80/Michael88/Michael88/156147
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/zeenews.png" group-title="INDIA", ZEE NEWS MP
+http://mag.trexlive.me:80/Michael88/Michael88/156136
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ZEE-NEWS-MP&CH.jpg" group-title="INDIA", ZEE NEWS MP & CH
+http://mag.trexlive.me:80/Michael88/Michael88/156141
+#EXTINF: -1 tvg-id="ZeeNews.in" tvg-logo="http://logo.protv.cc/picons/logos/zeenews.png" group-title="INDIA", ZEE NEWS UP
+http://mag.trexlive.me:80/Michael88/Michael88/156150
+#EXTINF: -1 tvg-id="ABPNews.in" tvg-logo="http://logo.protv.cc/picons/logos/in.abpnews.png" group-title="INDIA", ABP NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/156044
+#EXTINF: -1 tvg-id="APN.in" tvg-logo="http://logo.protv.cc/picons/logos/apnnews.jpg" group-title="INDIA", APN NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/156144
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/NEWS-24.jpg" group-title="INDIA", E NEWS 24
+http://mag.trexlive.me:80/Michael88/Michael88/156121
+#EXTINF: -1 tvg-id="IndiaNews.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA--NEWS.jpg" group-title="INDIA", INDIA NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/156045
+#EXTINF: -1 tvg-id="IndiaNewsHaryana.in" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-18-PUNJAB-HARYANA.jpg" group-title="INDIA", INDIA NEWS HARYANA
+http://mag.trexlive.me:80/Michael88/Michael88/156059
+#EXTINF: -1 tvg-id="IndiaNewsMPCH.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA-NEWS-MP.jpg" group-title="INDIA", INDIA NEWS MP
+http://mag.trexlive.me:80/Michael88/Michael88/156057
+#EXTINF: -1 tvg-id="IndiaNewsRaj.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA-NEWS-RAJASTHAN.jpeg" group-title="INDIA", INDIA NEWS RAJASTHAN
+http://mag.trexlive.me:80/Michael88/Michael88/156061
+#EXTINF: -1 tvg-id="IndiaNewsUPUK.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA-NEWS-UP.jpeg" group-title="INDIA", INDIA NEWS UP
+http://mag.trexlive.me:80/Michael88/Michael88/156058
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MH1-NEWS.jpeg" group-title="INDIA", MH1 NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/156169
+#EXTINF: -1 tvg-id="News18India.in" tvg-logo="http://logo.protv.cc/picons/logos/news18india.png" group-title="INDIA", NEWS 18 INDIA
+http://mag.trexlive.me:80/Michael88/Michael88/156153
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/NEWS-18-RAJASTHAN.jpeg" group-title="INDIA", NEWS 18 RAJASTHAN
+http://mag.trexlive.me:80/Michael88/Michael88/156113
+#EXTINF: -1 tvg-id="News24.in" tvg-logo="http://logo.protv.cc/picons/logos/news24.png" group-title="INDIA", NEWS 24
+http://mag.trexlive.me:80/Michael88/Michael88/156083
+#EXTINF: -1 tvg-id="NewsNation.in" tvg-logo="http://logo.protv.cc/picons/logos/newsnation.png" group-title="INDIA", NEWS NATION
+http://mag.trexlive.me:80/Michael88/Michael88/156084
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/newsstate.JPG" group-title="INDIA", NEWS STATE
+http://mag.trexlive.me:80/Michael88/Michael88/156081
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/NEWS-X.jpg" group-title="INDIA", NEWS X
+http://mag.trexlive.me:80/Michael88/Michael88/156060
+#EXTINF: -1 tvg-id="REPUBLICTV.in" tvg-logo="http://logo.protv.cc/picons/logos/REPUBLIC-NEWS.png" group-title="INDIA", REPUBLIC NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/156145
+#EXTINF: -1 tvg-id="SudarshanNews.in" tvg-logo="http://logo.protv.cc/picons/logos/SUDARSHAN-NEWS.jpeg" group-title="INDIA", SUDARSHAN NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/156062
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/TEJ-NEWS.jpg" group-title="INDIA", TEJ NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/156159
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SADHNA-NEWS.png" group-title="INDIA", SADHNA PRIME NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/280880
+#EXTINF: -1 tvg-id="NewsStateUPUK.in" tvg-logo="http://logo.protv.cc/picons/logos/newsstate.JPG" group-title="INDIA", NEWS STATE UP UK
+http://mag.trexlive.me:80/Michael88/Michael88/280875
+#EXTINF: -1 tvg-id="News1India.in" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-1-INDIA.png" group-title="INDIA", NEWS 1 INDIA
+http://mag.trexlive.me:80/Michael88/Michael88/280870
+#EXTINF: -1 tvg-id="News11.in" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-11-BHARAT.jpeg" group-title="INDIA", NEWS 11 BHARAT
+http://mag.trexlive.me:80/Michael88/Michael88/280868
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/KNEWS-INDIA.jpg" group-title="INDIA", KNEWS INDIA
+http://mag.trexlive.me:80/Michael88/Michael88/280855
+#EXTINF: -1 tvg-id="ZeeNews.in" tvg-logo="http://logo.protv.cc/picons/logos/zeenews.png" group-title="INDIA", ZEE NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/156051
+#EXTINF: -1 tvg-id="ZeeYuva.in" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-YUVA.jpg" group-title="INDIA", ZEE YUVA
+http://mag.trexlive.me:80/Michael88/Michael88/156151
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ZEE-RAJASTHAN.jpg" group-title="INDIA", ZEE RAJASTHAN
+http://mag.trexlive.me:80/Michael88/Michael88/156098
+#EXTINF: -1 tvg-id="AndFlix.in" tvg-logo="http://logo.protv.cc/picons/logos/AND-FLIX.png" group-title="INDIA", AND FLIX HD
+http://mag.trexlive.me:80/Michael88/Michael88/155990
+#EXTINF: -1 tvg-id="AndPictures.in" tvg-logo="http://logo.protv.cc/picons/logos/andpicture.jpg" group-title="INDIA", AND PICTURES HD
+http://mag.trexlive.me:80/Michael88/Michael88/155997
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/andpicture.jpg" group-title="INDIA", AND PICTURES
+http://mag.trexlive.me:80/Michael88/Michael88/280744
+#EXTINF: -1 tvg-id="AndTV.in" tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" group-title="INDIA", AND TV HD
+http://mag.trexlive.me:80/Michael88/Michael88/155992
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/andtv.png" group-title="INDIA", AND TV
+http://mag.trexlive.me:80/Michael88/Michael88/280745
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" group-title="INDIA", AND TV HD USA
+http://mag.trexlive.me:80/Michael88/Michael88/157160
+#EXTINF: -1 tvg-id="AnimalPlanet.in" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="INDIA", ANIMAL PLANET HD
+http://mag.trexlive.me:80/Michael88/Michael88/156168
+#EXTINF: -1 tvg-id="AnimalPlanet.in" tvg-logo="http://logo.protv.cc/picons/logos/animalplanet.png" group-title="INDIA", ANIMAL PLANET
+http://mag.trexlive.me:80/Michael88/Michael88/280746
+#EXTINF: -1 tvg-id="SonyBBCEarth.in" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="INDIA", BBC EARTH HD
+http://mag.trexlive.me:80/Michael88/Michael88/156012
+#EXTINF: -1 tvg-id="Cineplex.in" tvg-logo="http://logo.protv.cc/picons/logos/cineplexhd.jpg" group-title="INDIA", CINEPLEX HD
+http://mag.trexlive.me:80/Michael88/Michael88/156003
+#EXTINF: -1 tvg-id="Cineplex.in" tvg-logo="http://logo.protv.cc/picons/logos/cineplex.png" group-title="INDIA", CINEPLEX
+http://mag.trexlive.me:80/Michael88/Michael88/280749
+#EXTINF: -1 tvg-id="DDNews.in" tvg-logo="http://logo.protv.cc/picons/logos/ddnews.jpg" group-title="INDIA", DD NEWS HD
+http://mag.trexlive.me:80/Michael88/Michael88/155978
+#EXTINF: -1 tvg-id="DDBihar.in" tvg-logo="http://logo.protv.cc/picons/logos/DD-BIHAR.jpg" group-title="INDIA", DD BIHAR
+http://mag.trexlive.me:80/Michael88/Michael88/156092
+#EXTINF: -1 tvg-id="DDIndia.in" tvg-logo="http://logo.protv.cc/picons/logos/ddindia.png" group-title="INDIA", DD INDIA
+http://mag.trexlive.me:80/Michael88/Michael88/156095
+#EXTINF: -1 tvg-id="DDManipur.in" tvg-logo="http://logo.protv.cc/picons/logos/DD-MP.jpeg" group-title="INDIA", DD MP
+http://mag.trexlive.me:80/Michael88/Michael88/156093
+#EXTINF: -1 tvg-id="DDNational.in" tvg-logo="http://logo.protv.cc/picons/logos/ddnationalhd.jpg" group-title="INDIA", DD NATIONAL HD
+http://mag.trexlive.me:80/Michael88/Michael88/155977
+#EXTINF: -1 tvg-id="DDRajasthan.in" tvg-logo="http://logo.protv.cc/picons/logos/ddrajashtan.jpg" group-title="INDIA", DD RAJASTHAN
+http://mag.trexlive.me:80/Michael88/Michael88/156091
+#EXTINF: -1 tvg-id="DDUttarPradesh.in" tvg-logo="http://logo.protv.cc/picons/logos/DD-UP.png" group-title="INDIA", DD UP
+http://mag.trexlive.me:80/Michael88/Michael88/156090
+#EXTINF: -1 tvg-id="DDUrdu.in" tvg-logo="http://logo.protv.cc/picons/logos/DD-URDU.png" group-title="INDIA", DD URDU
+http://mag.trexlive.me:80/Michael88/Michael88/280827
+#EXTINF: -1 tvg-id="DDSports.in" tvg-logo="http://logo.protv.cc/picons/logos/ddsports.jpg" group-title="INDIA", DD SPORTS
+http://mag.trexlive.me:80/Michael88/Michael88/280825
+#EXTINF: -1 tvg-id="DDKisan.in" tvg-logo="http://logo.protv.cc/picons/logos/DD-KISAN.jpg" group-title="INDIA", DD KISAN
+http://mag.trexlive.me:80/Michael88/Michael88/280820
+#EXTINF: -1 tvg-id="DDBharati.in" tvg-logo="http://logo.protv.cc/picons/logos/DD-BHARTI.png" group-title="INDIA", DD BHARTI
+http://mag.trexlive.me:80/Michael88/Michael88/156126
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HALLA-BOL!.png" group-title="INDIA", HALLA BOL! USA
+http://mag.trexlive.me:80/Michael88/Michael88/157166
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/KATHYANI-TV.jpeg" group-title="INDIA", KATHYANI TV USA
+http://mag.trexlive.me:80/Michael88/Michael88/157169
+#EXTINF: -1 tvg-id="ShubhTV.in" tvg-logo="http://logo.protv.cc/picons/logos/SHUBH-TV.jpg" group-title="INDIA", SHUBH TV USA
+http://mag.trexlive.me:80/Michael88/Michael88/157168
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/TOTAL-TV.png" group-title="INDIA", TOTAL TV USA
+http://mag.trexlive.me:80/Michael88/Michael88/157167
+#EXTINF: -1 tvg-id="FoodFood.in" tvg-logo="http://logo.protv.cc/picons/logos/FOOD-FOOD.jpeg" group-title="INDIA", FOOD FOOD HD
+http://mag.trexlive.me:80/Michael88/Michael88/156105
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/discoveryworld.png" group-title="INDIA", DISCOVERY WORLD HD
+http://mag.trexlive.me:80/Michael88/Michael88/155999
+#EXTINF: -1 tvg-id="DiscoveryJeet.in" tvg-logo="http://logo.protv.cc/picons/logos/discoveryjeet.png" group-title="INDIA", DISCOVERY JEET HD
+http://mag.trexlive.me:80/Michael88/Michael88/156006
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/discovery.png" group-title="INDIA", DISCOVERY
+http://mag.trexlive.me:80/Michael88/Michael88/280754
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="INDIA", HUNGAMA BOL HADIPA
+http://mag.trexlive.me:80/Michael88/Michael88/156162
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="INDIA", HUNGAMA DIL DE HD
+http://mag.trexlive.me:80/Michael88/Michael88/156156
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="INDIA", HUNGAMA KADAK HITS
+http://mag.trexlive.me:80/Michael88/Michael88/156167
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="INDIA", HUNGAMA NAZRANA HD
+http://mag.trexlive.me:80/Michael88/Michael88/156157
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/hungama.jpg" group-title="INDIA", HUNGAMA POP PATAKA
+http://mag.trexlive.me:80/Michael88/Michael88/156171
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/KRISHNA-VANI.png" group-title="INDIA", KRISHNA VANI HD
+http://mag.trexlive.me:80/Michael88/Michael88/156107
+#EXTINF: -1 tvg-id="LivingFoodz.in" tvg-logo="http://logo.protv.cc/picons/logos/livingfoodzhd.png" group-title="INDIA", LIVING FOODZ HD
+http://mag.trexlive.me:80/Michael88/Michael88/156007
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="INDIA", NAT GEO HD
+http://mag.trexlive.me:80/Michael88/Michael88/156011
+#EXTINF: -1 tvg-id="NatGeoWild.in" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="INDIA", NAT GEO WILD HD
+http://mag.trexlive.me:80/Michael88/Michael88/155989
+#EXTINF: -1 tvg-id="UTVAction.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="INDIA", STAR GOLD THRILLS
+http://mag.trexlive.me:80/Michael88/Michael88/155996
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="INDIA", STAR GOLD THRILLS
+http://mag.trexlive.me:80/Michael88/Michael88/1118072
+#EXTINF: -1 tvg-id="UTV.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="INDIA", STAR GOLD THRILLS
+http://mag.trexlive.me:80/Michael88/Michael88/156005
+#EXTINF: -1 tvg-id="UTVMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Star_Gold_Romance.png" group-title="INDIA", STAR GOLD ROMANCE
+http://mag.trexlive.me:80/Michael88/Michael88/156033
+#EXTINF: -1 tvg-id="Arihant.in" tvg-logo="http://logo.protv.cc/picons/logos/arihant.png" group-title="INDIA", ARIHANT
+http://mag.trexlive.me:80/Michael88/Michael88/156035
+#EXTINF: -1 tvg-id="CinemaTV.in" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-TV-INDIA.png" group-title="INDIA", CINEMA TV INDIA
+http://mag.trexlive.me:80/Michael88/Michael88/280811
+#EXTINF: -1 tvg-id="CinemaTV.in" tvg-logo="http://logo.protv.cc/picons/logos/cinematv.jpg" group-title="INDIA", CINEMA TV
+http://mag.trexlive.me:80/Michael88/Michael88/155979
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/comedyactive.png" group-title="INDIA", COMEDY ACTIVE
+http://mag.trexlive.me:80/Michael88/Michael88/155991
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/dabangg.png" group-title="INDIA", DABANGG
+http://mag.trexlive.me:80/Michael88/Michael88/156043
+#EXTINF: -1 tvg-id="Dangal.in" tvg-logo="http://logo.protv.cc/picons/logos/dangal.jpg" group-title="INDIA", DANGAL
+http://mag.trexlive.me:80/Michael88/Michael88/156049
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/DISH-CINE-ACTIVE.png" group-title="INDIA", DISH CINE ACTIVE
+http://mag.trexlive.me:80/Michael88/Michael88/155993
+#EXTINF: -1 tvg-id="DivyavaniTV.in" tvg-logo="http://logo.protv.cc/picons/logos/divya.jpg" group-title="INDIA", DIVYA TV
+http://mag.trexlive.me:80/Michael88/Michael88/156132
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/disney.png" group-title="INDIA", DISNEY SD
+http://mag.trexlive.me:80/Michael88/Michael88/156000
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/disney.png" group-title="INDIA", DISNEY CHANNEL
+http://mag.trexlive.me:80/Michael88/Michael88/1158195
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/DISNEY-JUNIOR-HD.png" group-title="INDIA", DISNEY JUNIOR
+http://mag.trexlive.me:80/Michael88/Michael88/811469
+#EXTINF: -1 tvg-id="Enterr10.in" tvg-logo="http://logo.protv.cc/picons/logos/enterr10.jpg" group-title="INDIA", ENTERR 10
+http://mag.trexlive.me:80/Michael88/Michael88/280834
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ENTER-10-MOVIES.png" group-title="INDIA", ENTER 10 MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/155988
+#EXTINF: -1 tvg-id="EPIC.in" tvg-logo="http://logo.protv.cc/picons/logos/epic.png" group-title="INDIA", EPIC
+http://mag.trexlive.me:80/Michael88/Michael88/280835
+#EXTINF: -1 tvg-id="EPIC.in" tvg-logo="http://logo.protv.cc/picons/logos/epic.png" group-title="INDIA", EPIC HD
+http://mag.trexlive.me:80/Michael88/Michael88/156074
+#EXTINF: -1 tvg-id="ETNOW.in" tvg-logo="http://logo.protv.cc/picons/logos/ET-NOW.png" group-title="INDIA", ET NOW
+http://mag.trexlive.me:80/Michael88/Michael88/156164
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/EVERGREEN-CLASSIC.jpg" group-title="INDIA", EVERGREEN CLASSIC
+http://mag.trexlive.me:80/Michael88/Michael88/155994
+#EXTINF: -1 tvg-id="FOXLife.in" tvg-logo="http://logo.protv.cc/picons/logos/foxlifehd.png" group-title="INDIA", FOX LIFE HD
+http://mag.trexlive.me:80/Michael88/Michael88/156023
+#EXTINF: -1 tvg-id="FOXLife.in" tvg-logo="http://logo.protv.cc/picons/logos/foxlife.png" group-title="INDIA", FOX LIFE
+http://mag.trexlive.me:80/Michael88/Michael88/280755
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ganga.jpg" group-title="INDIA", GANGA
+http://mag.trexlive.me:80/Michael88/Michael88/155981
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/harekrishna.jpg" group-title="INDIA", HARE KRISHNA HD
+http://mag.trexlive.me:80/Michael88/Michael88/156133
+#EXTINF: -1 tvg-id="HistoryTV18.in" tvg-logo="http://logo.protv.cc/picons/logos/historytv18.jpg" group-title="INDIA", HISTORY TV 18 HD
+http://mag.trexlive.me:80/Michael88/Michael88/156018
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/historytv18.jpg" group-title="INDIA", HISTORY TV 18 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1118065
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/housefullaction.jpg" group-title="INDIA", HOUSEFULL ACTION
+http://mag.trexlive.me:80/Michael88/Michael88/156055
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/housefullmovies.jpg" group-title="INDIA", HOUSEFULL MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/156054
+#EXTINF: -1 tvg-id="IBC24.in" tvg-logo="http://logo.protv.cc/picons/logos/IBC-24.jpg" group-title="INDIA", IBC 24
+http://mag.trexlive.me:80/Michael88/Michael88/156082
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/IBN-LOKMAT.png" group-title="INDIA", IDN LOKMAT
+http://mag.trexlive.me:80/Michael88/Michael88/156142
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA-VOICE.jpg" group-title="INDIA", INDIA VOICE
+http://mag.trexlive.me:80/Michael88/Michael88/156143
+#EXTINF: -1 tvg-id="IshwarTV.in" tvg-logo="http://logo.protv.cc/picons/logos/ISHWAR-TV.jpeg" group-title="INDIA", ISHWAR TV
+http://mag.trexlive.me:80/Michael88/Michael88/156036
+#EXTINF: -1 tvg-id="JantaTV.in" tvg-logo="http://logo.protv.cc/picons/logos/jantatv.jpg" group-title="INDIA", JANTA TV
+http://mag.trexlive.me:80/Michael88/Michael88/156119
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MAHA-MOVIES.jpeg" group-title="INDIA", MAHA MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/155986
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MAHA-MOVIES.jpeg" group-title="INDIA", MAHA MOVIE
+http://mag.trexlive.me:80/Michael88/Michael88/156063
+#EXTINF: -1 tvg-id="Mastiii.in" tvg-logo="http://logo.protv.cc/picons/logos/MASTII-.png" group-title="INDIA", MASTII
+http://mag.trexlive.me:80/Michael88/Michael88/156050
+#EXTINF: -1 tvg-id="Miniplex.in" tvg-logo="http://logo.protv.cc/picons/logos/miniplex.png" group-title="INDIA", MINIPLEX HD
+http://mag.trexlive.me:80/Michael88/Michael88/156020
+#EXTINF: -1 tvg-id="MirrorNow.in" tvg-logo="http://logo.protv.cc/picons/logos/Mirror_Now.png" group-title="INDIA", MIRROR NOW
+http://mag.trexlive.me:80/Michael88/Michael88/156160
+#EXTINF: -1 tvg-id="MNPlus.in" tvg-logo="http://logo.protv.cc/picons/logos/mn_plus.png" group-title="INDIA", MN PLUS HD
+http://mag.trexlive.me:80/Michael88/Michael88/156025
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/mnx_hd.png" group-title="INDIA", MNX HD
+http://mag.trexlive.me:80/Michael88/Michael88/156021
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MOVIE-HOUSE.jpg" group-title="INDIA", MOVIE HOUSE
+http://mag.trexlive.me:80/Michael88/Michael88/155980
+#EXTINF: -1 tvg-id="HDMoviesNow.in" tvg-logo="http://logo.protv.cc/picons/logos/MOVIES-NOW-HD.jpg" group-title="INDIA", MOVIES NOW HD
+http://mag.trexlive.me:80/Michael88/Michael88/156022
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MTUNES-.png" group-title="INDIA", MTUNES PLUS
+http://mag.trexlive.me:80/Michael88/Michael88/156076
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MULTIPLEX-.jpeg" group-title="INDIA", MULTIPLEX MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/156077
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/mtvbeats.png" group-title="INDIA", MTV BEATS FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1118070
+#EXTINF: -1 tvg-id="MTVBeats.in" tvg-logo="http://logo.protv.cc/picons/logos/mtvbeats.jpg" group-title="INDIA", MTV BEATS HD
+http://mag.trexlive.me:80/Michael88/Michael88/156031
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/mtvplus.jpg" group-title="INDIA", MTV PLUS HD
+http://mag.trexlive.me:80/Michael88/Michael88/156002
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MTV-HD.png" group-title="INDIA", MTV HD
+http://mag.trexlive.me:80/Michael88/Michael88/1118066
+#EXTINF: -1 tvg-id="MTVIndia.mu" tvg-logo="http://logo.protv.cc/picons/logos/mtv.png" group-title="INDIA", MTV
+http://mag.trexlive.me:80/Michael88/Michael88/280760
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/musicindia.png" group-title="INDIA", MUSIC INDIA
+http://mag.trexlive.me:80/Michael88/Michael88/156056
+#EXTINF: -1 tvg-id="NDTV24x7.in" tvg-logo="http://logo.protv.cc/picons/logos/ndtv24x7.png" group-title="INDIA", NDTV 24x7
+http://mag.trexlive.me:80/Michael88/Michael88/156116
+#EXTINF: -1 tvg-id="NDTVGoodTimes.in" tvg-logo="http://logo.protv.cc/picons/logos/ndtvgoodtimes.png" group-title="INDIA", NDTV GOOD TIMES
+http://mag.trexlive.me:80/Michael88/Michael88/156075
+#EXTINF: -1 tvg-id="NDTVIndia.in" tvg-logo="http://logo.protv.cc/picons/logos/ndtvindia.png" group-title="INDIA", NDTV INDIA
+http://mag.trexlive.me:80/Michael88/Michael88/156052
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/NDTV-PROFIT.jpeg" group-title="INDIA", NDTV PROFIT
+http://mag.trexlive.me:80/Michael88/Michael88/156114
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/OM-SHANTI.jpg" group-title="INDIA", OM SHANTI
+http://mag.trexlive.me:80/Michael88/Michael88/156080
+#EXTINF: -1 tvg-id="ParasTV.in" tvg-logo="http://logo.protv.cc/picons/logos/parastv.jpg" group-title="INDIA", PARAS TV
+http://mag.trexlive.me:80/Michael88/Michael88/156158
+#EXTINF: -1 tvg-id="PeaceofMind.in" tvg-logo="http://logo.protv.cc/picons/logos/peaceofmind.jpg" group-title="INDIA", PEACE OF MIND
+http://mag.trexlive.me:80/Michael88/Michael88/156078
+#EXTINF: -1 tvg-id="Pogo.in" tvg-logo="http://logo.protv.cc/picons/logos/POGO-KIDS.jpg" group-title="INDIA", POGO KIDS
+http://mag.trexlive.me:80/Michael88/Michael88/156128
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PRARTHANA-BHAWAN.jpeg" group-title="INDIA", PRARTHANA BHAWAN
+http://mag.trexlive.me:80/Michael88/Michael88/156149
+#EXTINF: -1 tvg-id="PatrikaTVRajasthan.in" tvg-logo="http://logo.protv.cc/picons/logos/PATRIKA-TV.jpg" group-title="INDIA", PATRIKA TV
+http://mag.trexlive.me:80/Michael88/Michael88/280876
+#EXTINF: -1 tvg-id="PatrikaTVRajasthan.in" tvg-logo="http://logo.protv.cc/picons/logos/RAJASTHAN-PATRIKA.jpeg" group-title="INDIA", RAJASTHAN PATRIKA
+http://mag.trexlive.me:80/Michael88/Michael88/156148
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/REPUBLIC-BHARAT.jpg" group-title="INDIA", REPUBLIC BHARAT
+http://mag.trexlive.me:80/Michael88/Michael88/156040
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/saharaone.jpg" group-title="INDIA", SAHARA ONE
+http://mag.trexlive.me:80/Michael88/Michael88/156065
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SAHARA-SAMAY-ALAMI.jpg" group-title="INDIA", SAHARA SAMAY ALAMI
+http://mag.trexlive.me:80/Michael88/Michael88/156071
+#EXTINF: -1 tvg-id="SanskarTV.in" tvg-logo="http://logo.protv.cc/picons/logos/sanskartv.png" group-title="INDIA", SANSKAR TV
+http://mag.trexlive.me:80/Michael88/Michael88/156124
+#EXTINF: -1 tvg-id="Satsang.in" tvg-logo="http://logo.protv.cc/picons/logos/SATSANG-TV.png" group-title="INDIA", SATSANG TV
+http://mag.trexlive.me:80/Michael88/Michael88/156125
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SHOWBOX.png" group-title="INDIA", SHOWBOX
+http://mag.trexlive.me:80/Michael88/Michael88/156134
+#EXTINF: -1 tvg-id="ShubhTV.in" tvg-logo="http://logo.protv.cc/picons/logos/SHUBH-TV.jpg" group-title="INDIA", SHUBH TV
+http://mag.trexlive.me:80/Michael88/Michael88/156096
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/sohamtv.jpg" group-title="INDIA", SOHAM TV
+http://mag.trexlive.me:80/Michael88/Michael88/156079
+#EXTINF: -1 tvg-id="TataSkyBollywoodPremiere.in" tvg-logo="http://logo.protv.cc/picons/logos/TATA-SKY.png" group-title="INDIA", TATA SKY BOLLYWOOD HD
+http://mag.trexlive.me:80/Michael88/Michael88/156028
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/theqyou.png" group-title="INDIA", THE Q YOU HD
+http://mag.trexlive.me:80/Michael88/Michael88/156131
+#EXTINF: -1 tvg-id="Vedic.in" tvg-logo="http://logo.protv.cc/picons/logos/VEDIC-TV.jpeg" group-title="INDIA", VEDIC TV
+http://mag.trexlive.me:80/Michael88/Michael88/156085
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/WARNER-BROS.png" group-title="INDIA", WARNER BROS
+http://mag.trexlive.me:80/Michael88/Michael88/155998
+#EXTINF: -1 tvg-id="WOWCinema.in" tvg-logo="http://logo.protv.cc/picons/logos/WOW-CINEMA-ONE.jpeg" group-title="INDIA", WOW CINEMA ONE
+http://mag.trexlive.me:80/Michael88/Michael88/280910
+#EXTINF: -1 tvg-id="TV9.in" tvg-logo="http://logo.protv.cc/picons/logos/TV9-BHARATVARSH.png" group-title="INDIA", TV9 BHARATVARSH
+http://mag.trexlive.me:80/Michael88/Michael88/280908
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/THEQ-.png" group-title="INDIA", THEQ
+http://mag.trexlive.me:80/Michael88/Michael88/280906
+#EXTINF: -1 tvg-id="SuryaMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/SURYA-MOVIES.jpeg" group-title="INDIA", SURYA CINEMA
+http://mag.trexlive.me:80/Michael88/Michael88/280905
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SHEMAROO-TV.jpg" group-title="INDIA", SHEMAROO TV
+http://mag.trexlive.me:80/Michael88/Michael88/280897
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/NATION-FIRST.png" group-title="INDIA", NATION FIRST
+http://mag.trexlive.me:80/Michael88/Michael88/280867
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MANORANJAN-TV.jpg" group-title="INDIA", MANORANJAN
+http://mag.trexlive.me:80/Michael88/Michael88/280860
+#EXTINF: -1 tvg-id="LokSabhaTV.in" tvg-logo="http://logo.protv.cc/picons/logos/LOK-SABHA.jpg" group-title="INDIA", LOK SABHA
+http://mag.trexlive.me:80/Michael88/Michael88/280856
+#EXTINF: -1 tvg-id="HindiKhabar.in" tvg-logo="http://logo.protv.cc/picons/logos/HINDI-KHABAR.jpeg" group-title="INDIA", HINDI KHABAR
+http://mag.trexlive.me:80/Michael88/Michael88/156073
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INH-24X7.png" group-title="INDIA", INH 24X7
+http://mag.trexlive.me:80/Michael88/Michael88/280848
+#EXTINF: -1 tvg-id="IndiaTV.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA-TV.png" group-title="INDIA", INDIA TV
+http://mag.trexlive.me:80/Michael88/Michael88/156047
+#EXTINF: -1 tvg-id="E24.in" tvg-logo="http://logo.protv.cc/picons/logos/e24.png" group-title="INDIA", E24
+http://mag.trexlive.me:80/Michael88/Michael88/280833
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/dhamaal.jpg" group-title="INDIA", DHAMAAL
+http://mag.trexlive.me:80/Michael88/Michael88/280828
+#EXTINF: -1 tvg-id="DDGyanDarshan.in" tvg-logo="http://logo.protv.cc/picons/logos/darshan24.png" group-title="INDIA", DARSHAN 24
+http://mag.trexlive.me:80/Michael88/Michael88/280815
+#EXTINF: -1 tvg-id="CNBCAwaaz.in" tvg-logo="http://logo.protv.cc/picons/logos/CNBC-AAWAZ.png" group-title="INDIA", CNBC AWAAZ
+http://mag.trexlive.me:80/Michael88/Michael88/280812
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/boxcinema.png" group-title="INDIA", BOX CINEMA
+http://mag.trexlive.me:80/Michael88/Michael88/280810
+#EXTINF: -1 tvg-id="BflixMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/BFLIX-MOVIE.png" group-title="INDIA", BFLIX MOVIE
+http://mag.trexlive.me:80/Michael88/Michael88/280803
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/TOTAL-HARYANA.png" group-title="INDIA", TOTAL HARYANA
+http://mag.trexlive.me:80/Michael88/Michael88/1112153
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SHUBH-TV.jpg" group-title="INDIA", SHUBH CINEMA
+http://mag.trexlive.me:80/Michael88/Michael88/1112150
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Colors-Cineplex.png" group-title="INDIA", COLORS CINEPLEX BOLLYWOOD
+http://mag.trexlive.me:80/Michael88/Michael88/946375
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/MOVIE-PLUS.png" group-title="INDIA", MOVIE PLUS
+http://mag.trexlive.me:80/Michael88/Michael88/1112148
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/IND-24.jpg" group-title="INDIA", IND 24
+http://mag.trexlive.me:80/Michael88/Michael88/1112145
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/dillagi.jpg" group-title="INDIA", DILLAGII
+http://mag.trexlive.me:80/Michael88/Michael88/1112143
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/DDINDIA.png" group-title="INDIA", DD BHARATI
+http://mag.trexlive.me:80/Michael88/Michael88/1112142
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ANB-.jpg" group-title="INDIA", ANB NEWS
+http://mag.trexlive.me:80/Michael88/Michael88/1112141
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/9X-JALWA.png" group-title="INDIA", 9X JALWA
+http://mag.trexlive.me:80/Michael88/Michael88/1112137
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/ZEENEWSBIHAR.png" group-title="INDIA", ZEE BIHAR JHARKHAND
+http://mag.trexlive.me:80/Michael88/Michael88/1112136
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/THEATER.png" group-title="INDIA", THEATER
+http://mag.trexlive.me:80/Michael88/Michael88/1112128
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ID-HD.jpeg" group-title="INDIA", ID
+http://mag.trexlive.me:80/Michael88/Michael88/1112127
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/THE-Q-KAHANIYAN.png" group-title="INDIA", ADHBUT KAHANIYAN
+http://mag.trexlive.me:80/Michael88/Michael88/1112124
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ABP-GANGA.jpg" group-title="INDIA", ABP GANGA
+http://mag.trexlive.me:80/Michael88/Michael88/280791
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/SONYBBCEARTHHD.png" group-title="INDIA", BBC EARTH FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1118064
+#EXTINF: -1 tvg-id="SonyMax.in" tvg-logo="http://logo.protv.cc/picons/logos/MAX-TV.png" group-title="INDIA", MAX
+http://mag.trexlive.me:80/Michael88/Michael88/280759
+#EXTINF: -1 tvg-id="CartoonNetwork.in" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetwork.png" group-title="INDIA", CARTOON NETWORK
+http://mag.trexlive.me:80/Michael88/Michael88/280748
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SPORTS-18-WCUP.png" group-title="SPORTS", SPORTS 18 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1057243
+#EXTINF: -1 tvg-id="ARYFamily.pk" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/a-sport.png" group-title="SPORTS", A SPORTS HD
+http://mag.trexlive.me:80/Michael88/Michael88/281100
+#EXTINF: -1 tvg-id="DDSports.in" tvg-logo="http://logo.protv.cc/picons/logos/D-SPORTS-HD.jpg" group-title="SPORTS", D SPORTS HD
+http://mag.trexlive.me:80/Michael88/Michael88/156027
+#EXTINF: -1 tvg-id="DDSports.in" tvg-logo="http://logo.protv.cc/picons/logos/ddsports.jpg" group-title="SPORTS", DD SPORTS
+http://mag.trexlive.me:80/Michael88/Michael88/155983
+#EXTINF: -1 tvg-id="StarCricket.sg" tvg-logo="http://logo.protv.cc/picons/logos/astrotv.png" group-title="SPORTS", ASTRO CRICKET HD
+http://mag.trexlive.me:80/Michael88/Michael88/315181
+#EXTINF: -1 tvg-id="SonySIX.in" tvg-logo="http://logo.protv.cc/picons/logos/SONY-SIX.png" group-title="SPORTS", SONY SIX HD
+http://mag.trexlive.me:80/Michael88/Michael88/156016
+#EXTINF: -1 tvg-id="SonySIX.in" tvg-logo="http://logo.protv.cc/picons/logos/SONY-SIX.png" group-title="SPORTS", STAR SPORTS KANNADA
+http://mag.trexlive.me:80/Michael88/Michael88/156102
+#EXTINF: -1 tvg-id="StarSports1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" group-title="SPORTS", STAR SPORTS 1 ENGLISH HD
+http://mag.trexlive.me:80/Michael88/Michael88/155968
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="SPORTS", STAR SPORTS HINDI 1 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1114582
+#EXTINF: -1 tvg-id="StarSports1Hindi.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="SPORTS", STAR SPORTS 1 HINDI HD
+http://mag.trexlive.me:80/Michael88/Michael88/155967
+#EXTINF: -1 tvg-id="StarSports1Hindi.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="SPORTS", STAR SPORTS HINDI 1
+http://mag.trexlive.me:80/Michael88/Michael88/282674
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.png" group-title="SPORTS", STAR SPORTS 1 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1114580
+#EXTINF: -1 tvg-id="StarSports1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" group-title="SPORTS", STAR SPORTS 1
+http://mag.trexlive.me:80/Michael88/Michael88/282677
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-title="SPORTS", STAR SPORTS 2 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1114581
+#EXTINF: -1 tvg-id="StarSports2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-title="SPORTS", STAR SPORTS 2 HD
+http://mag.trexlive.me:80/Michael88/Michael88/155966
+#EXTINF: -1 tvg-id="StarSports2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-title="SPORTS", STAR SPORTS 2
+http://mag.trexlive.me:80/Michael88/Michael88/282673
+#EXTINF: -1 tvg-id="StarSports3.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-3.jpeg" group-title="SPORTS", STAR SPORTS 3
+http://mag.trexlive.me:80/Michael88/Michael88/155976
+#EXTINF: -1 tvg-id="StarSports3.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-3-HD.jpeg" group-title="SPORTS", STAR SPORTS 3
+http://mag.trexlive.me:80/Michael88/Michael88/282678
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 1 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1114583
+#EXTINF: -1 tvg-id="StarSportsSelect1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 1 HD
+http://mag.trexlive.me:80/Michael88/Michael88/155972
+#EXTINF: -1 tvg-id="StarSportsSelect1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 1
+http://mag.trexlive.me:80/Michael88/Michael88/282675
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 2 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1114584
+#EXTINF: -1 tvg-id="StarSportsSelect2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 2 HD
+http://mag.trexlive.me:80/Michael88/Michael88/155973
+#EXTINF: -1 tvg-id="StarSportsSelect2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 2
+http://mag.trexlive.me:80/Michael88/Michael88/282676
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-TAMIL.jpg" group-title="SPORTS", STAR SPORTS TAMIL
+http://mag.trexlive.me:80/Michael88/Michael88/155873
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-1.png" group-title="SPORTS", TEN 1 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1114576
+#EXTINF: -1 tvg-id="SonyTEN1.in" tvg-logo="http://logo.protv.cc/picons/logos/TEN-1-HD.png" group-title="SPORTS", TEN 1 HD
+http://mag.trexlive.me:80/Michael88/Michael88/156017
+#EXTINF: -1 tvg-id="SonyTEN1.in" tvg-logo="http://logo.protv.cc/picons/logos/TEN-1-HD.png" group-title="SPORTS", TEN 1
+http://mag.trexlive.me:80/Michael88/Michael88/282670
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-2.jpeg" group-title="SPORTS", TEN 2 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1114577
+#EXTINF: -1 tvg-id="SonyTEN2.in" tvg-logo="http://logo.protv.cc/picons/logos/TEN-2-HD.png" group-title="SPORTS", TEN 2 HD
+http://mag.trexlive.me:80/Michael88/Michael88/156010
+#EXTINF: -1 tvg-id="SonyTEN2.in" tvg-logo="http://logo.protv.cc/picons/logos/TEN-2-HD.png" group-title="SPORTS", TEN 2
+http://mag.trexlive.me:80/Michael88/Michael88/282671
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-3.png" group-title="SPORTS", TEN 3 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1114578
+#EXTINF: -1 tvg-id="SonyTEN3.in" tvg-logo="http://logo.protv.cc/picons/logos/TEN-3-HD.jpeg" group-title="SPORTS", TEN 3 HD
+http://mag.trexlive.me:80/Michael88/Michael88/156024
+#EXTINF: -1 tvg-id="SonyTEN3.in" tvg-logo="http://logo.protv.cc/picons/logos/TEN-3-HD.jpeg" group-title="SPORTS", TEN 3
+http://mag.trexlive.me:80/Michael88/Michael88/282672
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-4.jpeg" group-title="SPORTS", TEN 4 FHD
+http://mag.trexlive.me:80/Michael88/Michael88/1114579
+#EXTINF: -1 tvg-id="NowSports1En.hk" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="SPORTS", HK NOW SPORTS 1 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110615
+#EXTINF: -1 tvg-id="NowSports2En.hk" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="SPORTS", HK NOW SPORTS 2 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110616
+#EXTINF: -1 tvg-id="NowSports3En.hk" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="SPORTS", HK NOW SPORTS 3 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110617
+#EXTINF: -1 tvg-id="NowSports4En.hk" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="SPORTS", HK NOW SPORTS 4 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110618
+#EXTINF: -1 tvg-id="NowSports5En.hk" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="SPORTS", HK NOW SPORTS 5 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110619
+#EXTINF: -1 tvg-id="NowSports6En.hk" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="SPORTS", HK NOW SPORTS 6 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110620
+#EXTINF: -1 tvg-id="NowSports7En.hk" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="SPORTS", HK NOW SPORTS 7 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110621
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="SPORTS", HK NOW PREMIER SPORTS 1 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110622
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-1.png" group-title="SPORTS", HUB SPORTS 1 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110667
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-2.png" group-title="SPORTS", HUB SPORTS 2 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110666
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-3.png" group-title="SPORTS", HUB SPORTS 3 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1110665
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/supersport1.png" group-title="SPORTS", MY SUPERSPORTS 1 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1111034
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/supersport2.png" group-title="SPORTS", MY SUPERSPORTS 2 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1111033
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/supersport3.png" group-title="SPORTS", MY SUPERSPORTS 3 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1111032
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/supersport4.png" group-title="SPORTS", MY SUPERSPORTS 4 HD
+http://mag.trexlive.me:80/Michael88/Michael88/1111031
+#EXTINF: -1 tvg-id="ZeeBangla.in" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-BANGLA-HD.jpeg" group-title="BENGALI/BANGLA", ZEE BANGLA HD
+http://mag.trexlive.me:80/Michael88/Michael88/155774
+#EXTINF: -1 tvg-id="ZeeBanglaCinema.in" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-BANGLA-CINEMA.png" group-title="BENGALI/BANGLA", ZEE BANGLA CINEMA
+http://mag.trexlive.me:80/Michael88/Michael88/155782
+#EXTINF: -1 tvg-id="ColorsBangla.in" tvg-logo="http://logo.protv.cc/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="BENGALI/BANGLA", COLORS BANGLA HD
+http://mag.trexlive.me:80/Michael88/Michael88/155773
+#EXTINF: -1 tvg-id="ColorsBangla.in" tvg-logo="http://logo.protv.cc/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="BENGALI/BANGLA", COLORS BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/282063
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-JALSHA-MOVIES-HD.png" group-title="BENGALI/BANGLA", STAR JALSHA MOVIES HD
+http://mag.trexlive.me:80/Michael88/Michael88/155771
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARJALSHAMOVIES.png" group-title="BENGALI/BANGLA", STAR JALSHA MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/1118058
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/starjalsha.png" group-title="BENGALI/BANGLA", STAR JALSHA HD
+http://mag.trexlive.me:80/Michael88/Michael88/155770
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARJALSHA.png" group-title="BENGALI/BANGLA", STAR JALSHA
+http://mag.trexlive.me:80/Michael88/Michael88/1118057
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/RPLUS-.jpeg" group-title="BENGALI/BANGLA", RPLUS
+http://mag.trexlive.me:80/Michael88/Michael88/282082
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ENTER-10-BANGLA.jpeg" group-title="BENGALI/BANGLA", ENTER 10 BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/282074
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/AAKASH-BANGLA.png" group-title="BENGALI/BANGLA", AAKAASH BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/282065
+#EXTINF: -1 tvg-id="24Ghante.in" tvg-logo="http://logo.protv.cc/picons/logos/24-GHANTA.png" group-title="BENGALI/BANGLA", 24 GHANTA
+http://mag.trexlive.me:80/Michael88/Michael88/155781
+#EXTINF: -1 tvg-id="ABPAnanda.in" tvg-logo="http://logo.protv.cc/picons/logos/ABP-ANANDA.jpeg" group-title="BENGALI/BANGLA", ABP ANANDA
+http://mag.trexlive.me:80/Michael88/Michael88/155780
+#EXTINF: -1 tvg-id="DDBangla.in" tvg-logo="http://logo.protv.cc/picons/logos/DD-BANGLA.jpg" group-title="BENGALI/BANGLA", DD BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/155776
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="BENGALI/BANGLA", NAT GEO BENGALI HD
+http://mag.trexlive.me:80/Michael88/Michael88/155772
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/DISCOVERYWORLDHD.png" group-title="BENGALI/BANGLA", DISCOVERY WORLD
+http://mag.trexlive.me:80/Michael88/Michael88/1112201
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/FOXLIFE.png" group-title="BENGALI/BANGLA", FOX LIFE
+http://mag.trexlive.me:80/Michael88/Michael88/1112200
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/SUNTV.png" group-title="BENGALI/BANGLA", SUN BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/1112198
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/SonyAath.png" group-title="BENGALI/BANGLA", SONY AATH
+http://mag.trexlive.me:80/Michael88/Michael88/1112197
+#EXTINF: -1 tvg-id="SangeetBangla.in" tvg-logo="http://logo.protv.cc/picons/logos/SANGEET-BANGLA.png" group-title="BENGALI/BANGLA", SANGEET BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/155777
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ENTER-10-BANGLA.jpeg" group-title="BENGALI/BANGLA", BAN| ENTER 10 BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/155784
+#EXTINF: -1 tvg-id="167" tvg-name="ZEE TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", ZEE TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+#EXTINF: -1 tvg-id="1351" tvg-name="ZEE TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment", ZEE TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
+#EXTINF: -1 tvg-id="472" tvg-name="And TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+#EXTINF: -1 tvg-id="2024" tvg-name="And TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+#EXTINF: -1 tvg-id="1360" tvg-name="Zee Marathi HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment", Zee Marathi HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+#EXTINF: -1 tvg-id="445" tvg-name="Zee Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Entertainment", Zee Marathi
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
+#EXTINF: -1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Entertainment", Zee Tamil
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+#EXTINF: -1 tvg-id="689" tvg-name="Zee Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Entertainment", Zee Kannada
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+#EXTINF: -1 tvg-id="1977" tvg-name="Zee Bengali HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="Entertainment", Zee Bengali HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+#EXTINF: -1 tvg-id="625" tvg-name="Zee Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Entertainment", Zee Bengali
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+#EXTINF: -1 tvg-id="473" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment", Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+#EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Entertainment", Zee Sarthak
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesarthak/default/index.m3u8
+#EXTINF: -1 tvg-id="728" tvg-name="Zee Salaam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Entertainment", Zee Salaam
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
+#EXTINF: -1 tvg-id="685" tvg-name="Zee Bangla Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Movies", Zee Bangla Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+#EXTINF: -1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", And Pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#EXTINF: -1 tvg-id="1839" tvg-name="And Pictures" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", And Pictures
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
+#EXTINF: -1 tvg-id="488" tvg-name="Zee Action" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies", Zee Action
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF: -1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF: -1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies", Zee Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+#EXTINF: -1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies", Zee Cinemalu
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+#EXTINF: -1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies", Zee Talkies HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
+#EXTINF: -1 tvg-id="153" tvg-name="Zee Talkies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Movies", Zee Talkies
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
+#EXTINF: -1 tvg-id="657" tvg-name="Zee Business" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Business", Zee Business
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
+#EXTINF: -1 tvg-id="259" tvg-name="NDTV Profit" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business", NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+#EXTINF: -1 tvg-id="652" tvg-name="Zee Hindustan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News", Zee Hindustan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
+#EXTINF: -1 tvg-id="661" tvg-name="Zee Bihar Jharkhand" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="News", Zee Bihar Jharkhand
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/index.m3u8
+#EXTINF: -1 tvg-id="173" tvg-name="Aaj Tak HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News", Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF: -1 tvg-id="177" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News", ABP News India
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF: -1 tvg-id="504" tvg-name="Zee News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News", Zee News
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
+#EXTINF: -1 tvg-id="918" tvg-name="Bharat Samachar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" group-title="News", Bharat Samachar
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF: -1 tvg-id="231" tvg-name="News 18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News 18 India
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB/DenverIsAlive.m3u8
+#EXTINF: -1 tvg-id="858" tvg-name="Republic English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News", Republic English
+https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.m3u8#DenverIsAlive
+#EXTINF: -1 tvg-id="858" tvg-name="Republic Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News", Republic Hindi
+https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/master.m3u8#DenverIsAlive
+#EXTINF: -1 tvg-id="530" tvg-name="News18 UP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="News", News18 UP
+https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB/DenverIsAlive.m3u8
+#EXTINF: -1 tvg-id="501" tvg-name="News 24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News", News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF: -1 tvg-id="518" tvg-name="Sudarshan News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="News", Sudarshan News
+https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
+#EXTINF: -1 tvg-id="258" tvg-name="NDTV India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News", NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF: -1 tvg-id="255" tvg-name="NDTV 24x7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News", NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Sab HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Marathi
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Pal
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony AATH
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Max HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Max 2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Wah
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 4 HD
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Pix HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Crackle
+https://crackle-plex.amagi.tv/playlist720p.m3u8
+#EXTINF: -1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="Kids Cartoon", IN: Cartoon Network
+http://xtv.ooo:8080/214535413/121315126/150478
+#EXTINF: -1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="Kids Cartoon", IN: Nick
+http://xtv.ooo:8080/214535413/121315126/150482
+#EXTINF: -1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="Kids Cartoon", IN: Pogo
+http://xtv.ooo:8080/214535413/121315126/150483
+#EXTINF: -1 tvg-name="IN | Sony yay (Hindi)" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="Kids Cartoon", IN | Sony yay (Hindi)
+http://xtv.ooo:8080/214535413/121315126/26187
+#EXTINF: -1 tvg-name="IN: NICK SONIC" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="Kids Cartoon", IN: NICK SONIC
+http://xtv.ooo:8080/214535413/121315126/34011
+#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="Kids Cartoon", NICK HD+ [FHD]
+http://xtv.ooo:8080/214535413/121315126/76722
+#EXTINF: -1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="Kids Cartoon", Discovery kids
+http://xtv.ooo:8080/214535413/121315126/76723
+#EXTINF: -1 tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids Cartoon", IN: Disney Junior
+http://xtv.ooo:8080/214535413/121315126/153175
+#EXTINF: -1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids Cartoon", IN | DISNEY
+http://xtv.ooo:8080/214535413/121315126/167551
+#EXTINF: -1 tvg-name="KIDS: Chutti Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Kushi_TV_logo.jpg" group-title="Kids Cartoon", KIDS: Chutti Tv
+http://xtv.ooo:8080/214535413/121315126/150479
+#EXTINF: -1 tvg-name="IN: Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="Kids Cartoon", IN: Hungama
+http://xtv.ooo:8080/214535413/121315126/150480
+#EXTINF: -1 tvg-name="IN: Hungama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1438uYn_kYxEZnIpNNjbKfAhK9YV40BkVg&usqp=CAU" group-title="Kids Cartoon", Backup: SUPER Hungama
+https://sangamp94.github.io/filmaxxplay/filmaxxlivehungama.m3u8
+#EXTINF: -1 tvg-name="Ind-Kids: Marvel Hq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Marvel_HQ_India_logo.jpg/800px-Marvel_HQ_India_logo.jpg" group-title="Kids Cartoon", Ind-Kids: Marvel Hq
+http://xtv.ooo:8080/214535413/121315126/150484
+#EXTINF: -1 tvg-name="IN: Cartoon Network HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="Kids Cartoon", IN: Cartoon Network HD+
+http://xtv.ooo:8080/214535413/121315126/153154
+#EXTINF: -1 tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="Kids Cartoon", IND: Nick Junior
+http://xtv.ooo:8080/214535413/121315126/153156
+#EXTINF: -1 tvg-name="IND: Jio Kids" group-title="Kids Cartoon", IND: Jio Kids
+http://xtv.ooo:8080/214535413/121315126/153157
+#EXTINF: -1 tvg-name="24/7 Kids: All Hail King Julien_ Exiled" group-title="Kids Cartoon", 24/7 Kids: All Hail King Julien_ Exiled
+http://xtv.ooo:8080/214535413/121315126/301504
+#EXTINF: -1 tvg-name="24/7 Kids: Rick And Morty" group-title="Kids Cartoon", 24/7 Kids: Rick And Morty
+http://xtv.ooo:8080/214535413/121315126/301505
+#EXTINF: -1 tvg-name="24/7 Kids: Masha and the Bear" group-title="Kids Cartoon", 24/7 Kids: Masha and the Bear
+http://xtv.ooo:8080/214535413/121315126/301506
+#EXTINF: -1 tvg-name="24/7 Kids: Little Baby Bum" group-title="Kids Cartoon", 24/7 Kids: Little Baby Bum
+http://xtv.ooo:8080/214535413/121315126/301507
+#EXTINF: -1 tvg-name="24/7 Kids: The Boss Baby_ Back in Business" group-title="Kids Cartoon", 24/7 Kids: The Boss Baby_ Back in Business
+http://xtv.ooo:8080/214535413/121315126/301508
+#EXTINF: -1 tvg-name="24/7 Kids: Peppa Pig" group-title="Kids Cartoon", 24/7 Kids: Peppa Pig
+http://xtv.ooo:8080/214535413/121315126/301509
+#EXTINF: -1 tvg-name="24/7 Kids: Blippi" group-title="Kids Cartoon", 24/7 Kids: Blippi
+http://xtv.ooo:8080/214535413/121315126/301510
+#EXTINF: -1 tvg-name="24/7 Kids: Kids: Gabby_s Dollhouse" group-title="Kids Cartoon", 24/7 Kids: Kids: Gabby_s Dollhouse
+http://xtv.ooo:8080/214535413/121315126/301511
+#EXTINF: -1 tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="Kids Cartoon", 24/7 MOTU PATLU 01
+http://xtv.ooo:8080/214535413/121315126/307079
+#EXTINF: -1 tvg-name="Oggy and the Cockroaches Hindi" group-title="Kids Cartoon", Oggy and the Cockroaches Hindi
+http://xtv.ooo:8080/214535413/121315126/308282
+#EXTINF: -1 tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="Kids Cartoon", 24/7 MOTU PATLU 02
+http://xtv.ooo:8080/214535413/121315126/311373
+#EXTINF: -1 tvg-name="24/7 Chacha Bhatija" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFlODk2ZmEtMWE5MC00Nzg5LWE3ODMtMzViYTRhNjdjMjgzXkEyXkFqcGdeQXVyNjEyNjM1MjY@._V1_.jpg" group-title="Kids Cartoon", 24/7 Chacha Bhatija
+http://xtv.ooo:8080/214535413/121315126/311774
+#EXTINF: -1 tvg-name="24/7 Wow Kids Action" tvg-logo="http://logo.opplextv.com/logo/WowKidsAction.png" group-title="Kids Cartoon", 24/7 Wow Kids Action
+http://xtv.ooo:8080/214535413/121315126/314753
+#EXTINF: -1 tvg-name="24/7 Vir The Robot Boy" tvg-logo="http://logo.opplextv.com/logo/VirTheRobotBoy.png" group-title="Kids Cartoon", 24/7 Vir The Robot Boy
+http://xtv.ooo:8080/214535413/121315126/314754
+#EXTINF: -1 tvg-name="24/7 Chhota Bheem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg" group-title="Kids Cartoon", 24/7 Chhota Bheem
+http://xtv.ooo:8080/214535413/121315126/315401
+#EXTINF: -1 tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="Kids Cartoon", 24/7 Tom & Jerry
+http://xtv.ooo:8080/214535413/121315126/329247
+#EXTINF: -1 tvg-name="24/7 Scooby-Doo" tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png" group-title="Kids Cartoon", 24/7 Scooby-Doo
+http://xtv.ooo:8080/214535413/121315126/329248
+#EXTINF: -1 tvg-name="24/7 KIDS SONGS HINDI" group-title="Kids Cartoon", 24/7 KIDS SONGS HINDI
+http://xtv.ooo:8080/214535413/121315126/340802
+#EXTINF: -1 tvg-name="24/7 BEN 10 ENG" group-title="Kids Cartoon", 24/7 BEN 10 ENG
+http://xtv.ooo:8080/214535413/121315126/340803
+#EXTINF: -1 tvg-name="24/7 BEN 10 HINDI" group-title="Kids Cartoon", 24/7 BEN 10 HINDI
+http://xtv.ooo:8080/214535413/121315126/340804
+#EXTINF: -1 tvg-name="24/7 CHUCHU TV " group-title="Kids Cartoon", 24/7 CHUCHU TV
+http://xtv.ooo:8080/214535413/121315126/340807
+#EXTINF: -1 tvg-name="24/7 Baal Veer " group-title="Kids Cartoon", 24/7 Baal Veer
+http://xtv.ooo:8080/214535413/121315126/340809
+#EXTINF: -1 tvg-name="24/7 SHIVA" tvg-logo="https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png" group-title="Kids Cartoon", 24/7 SHIVA
+http://xtv.ooo:8080/214535413/121315126/342074
+#EXTINF: -1 tvg-id="13Kids.cl" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Kids", 13 Kids (1080p)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF: -1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids", Afarin TV (720p) [Not 24/7]
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF: -1 tvg-id="AghapyKids.us" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="Kids", Aghapy Kids (1080p)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF: -1 tvg-id="AkaramKidz.in" tvg-logo="https://i.imgur.com/ENImp3R.png" group-title="Kids", Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF: -1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="Kids", Ani
+http://streaming.tv-teleport.ru/Ani/index.m3u8
+#EXTINF: -1 tvg-id="Aqlvoy.uz" tvg-logo="https://i.imgur.com/ekF5cAi.png" group-title="Kids", Aqlvoy (480p)
+http://gohoski.fvds.ru:3000/mediabay/645/playlist.m3u8
+#EXTINF: -1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="Kids", ARB GÃ¼nÉ™ÅŸ [Geo-blocked]
+http://149.255.152.199/arbgunes.m3u8
+#EXTINF: -1 tvg-id="AtfalMawahebTV.sa" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids", Atfal & Mawaheb TV (1080p)
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF: -1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids", Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids", BabyFirst
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
+#EXTINF: -1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="Kids", Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF: -1 tvg-id="BatteryPopXUMO.us" tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="Kids", Battery Pop (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF: -1 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Kids", Biznet Kids (480p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF: -1 tvg-id="Bobleponge.fr" tvg-logo="https://i.imgur.com/ITwU1yZ.png" group-title="Kids", Bob l'Ã©ponge+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609a33d06972da0007748ecf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc9fd0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195dd54b-932b-4f28-be70-7e736585335a
+#EXTINF: -1 tvg-id="Boing.it" tvg-logo="https://i.imgur.com/rabKj9i.png" group-title="Kids", Boing Italy [Geo-blocked]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF: -1 tvg-id="Boomerang.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids", Boomerang France (720p)
+http://51.81.185.2/BOOMERANG/index.m3u8
+#EXTINF: -1 tvg-id="Boomerang.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids", Boomerang Thailand (720p)
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+#EXTINF: -1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids", Brat TV (1080p)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids", Camp Spoopy (576p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF: -1 tvg-id="CBBC.uk" tvg-logo="https://i.imgur.com/tk8G4CU.png" group-title="Kids", CBBC HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="CBeebies.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids", CBeebies (Poland) (576p)
+https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="CBeebies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids", CBeebies HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="ChinolaTV.do" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids", Chinola TV (480p)
+https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
+#EXTINF: -1 tvg-id="Clan.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids", Clan TVE (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF: -1 tvg-id="Cocoro.us" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids", Cocoro (1080p)
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF: -1 tvg-id="Cula4.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cula4_Purple_2022_%281%29.svg/512px-Cula4_Purple_2022_%281%29.svg.png" group-title="Kids", CÃºla4 (1080p)
+https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
+#EXTINF: -1 tvg-id="DiscoveryKidsLive.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids", Discovery Kids FreeLive Brazil (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+#EXTINF: -1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids", Discovery Kids FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+#EXTINF: -1 tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="Kids", Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF: -1 tvg-id="DisneyJunior.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids", Disney Junior (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF: -1 tvg-id="DisneyJunior.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids", Disney Junior (576p)
+https://cdn-main.lolokoko.tv/DisneyJunior.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="DisneyXD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD (576p)
+https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="ducktv.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids", Duck TV (720p)
+https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="EBCYOYO.tw" tvg-logo="https://i.imgur.com/k4fhcPl.png" group-title="Kids", EBC YOYO (720p)
+https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
+#EXTINF: -1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids", EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF: -1 tvg-id="Eureka.co" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Kids", Eureka (1080p)
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+#EXTINF: -1 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids", France 4
+http://livetv.ktv.zone/116/play.m3u8
+#EXTINF: -1 tvg-id="GEMJunior.ir" tvg-logo="https://i.imgur.com/jK8yzj2.png" group-title="Kids", GEM Junior (480p)
+https://hd.90minlive.online/live/gemjunior/playlist.m3u8
+#EXTINF: -1 tvg-id="GEMKids.ir" tvg-logo="https://i.imgur.com/ArkjaFk.png" group-title="Kids", GEM Kids (480p)
+https://hd.90minlive.online/live/gemkids/playlist.m3u8
+#EXTINF: -1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids", Gulli
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTINF: -1 tvg-id="GulliBilArabi.fr" tvg-logo="https://i.imgur.com/34Vcc7u.png" group-title="Kids", Gulli Bil Arabi (1080p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF: -1 tvg-id="GulliGirl.ru" tvg-logo="https://i.imgur.com/lbViDuC.png" group-title="Kids", Gulli Girl
+http://135.181.115.81/russia/gulli_girl/playlist.m3u8
+#EXTINF: -1 tvg-id="HalaLondonTVCartoon.uk" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="Kids", Hala London TV Cartoon (720p)
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8
+#EXTINF: -1 tvg-id="HappyKids.us" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids", HappyKids (720p)
+https://happykids-vizio.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="HappyKidsJunior.us" tvg-logo="https://i.imgur.com/GSlfL8u.png" group-title="Kids", HappyKids Junior (720p)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="Kids", Horee! (720p) [Geo-blocked]
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF: -1 tvg-id="Jojko.sk" tvg-logo="https://i.imgur.com/JBB1n1Z.png" group-title="Kids", Jojko (1080p)
+https://st01-2.iptv.joj.sk/104-tv-pc.m3u8
+#EXTINF: -1 tvg-id="kabillion.us" tvg-logo="https://i.imgur.com/8CaZXh5.png" group-title="Kids", kabillion (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF: -1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids", Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids", KBS Kids (480p)
+https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+#EXTINF: -1 tvg-id="KetnetJunior.be" tvg-logo="https://i.imgur.com/eDYaphB.png" group-title="Kids", Ketnet Junior (720p)
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF: -1 tvg-id="KidoodleTV.ca" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids", Kidoodle TV
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/pb94kIk.png" group-title="Kids", Kids Station (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF: -1 tvg-id="KidsClick.us" tvg-logo="https://i.imgur.com/yg7MHn9.png" group-title="Kids", KidsClick (720p) [Geo-blocked]
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+#EXTINF: -1 tvg-id="KidsFlix.us" tvg-logo="https://i.imgur.com/4Pn0ADQ.png" group-title="Kids", KidsFlix (1080p) [Not 24/7]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF: -1 tvg-id="Kidz.es" tvg-logo="https://i.imgur.com/iBgsCOV.png" group-title="Kids", Kidz Atresmedia (720p) [Geo-blocked]
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+#EXTINF: -1 tvg-id="KiKA.de" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="Kids", KiKA (1080p) [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF: -1 tvg-id="KoogiTV.eg" tvg-logo="https://i.imgur.com/zojMTP9.png" group-title="Kids", Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="LegoChannel.us" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids", LEGO Channel (720p)
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="LogosTVKids.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Kids", Logos TV Kids (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF: -1 tvg-id="LollyKids.uk" tvg-logo="https://i.imgur.com/DOpgaBe.png" group-title="Kids", Lolly Kids (480p)
+http://45.225.95.170:8000/play/a0ei/index.m3u8
+#EXTINF: -1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="Kids", M-Net Kids (720p)
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF: -1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids", Majid TV (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF: -1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids", MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF: -1 tvg-id="MondoKids.it" tvg-logo="https://i.imgur.com/g7GXmFY.png" group-title="Kids", Mondo TV Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids", Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="Kids", My Kidz (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF: -1 tvg-id="NewKidTV.us" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Kids", New Kid TV (1080p)
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon.de" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids", Nick Germany (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF: -1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids", Nick HD+ (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids", Nick Jr India (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids", Nick Jr. (576p)
+https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids", Nickelodeon
+http://135.181.115.81/russia/nickelodeon/playlist.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids", Nickelodeon (576p)
+https://cdn-main.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon.au" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids", Nickelodeon Australia (576p)
+http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
+#EXTINF: -1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids", Nickelodeon Sonic Hindi (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids", Nicktoons
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF: -1 tvg-id="Nicktoons.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids", Nicktoons (720p)
+https://cdn-main.lolokoko.tv/Nicktoons.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="NicktoonsScandinavia.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids", Nicktoons Scandinavia
+http://89.254.128.5:22280/nicktoons/video.m3u8
+#EXTINF: -1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids", Pakapaka (720p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF: -1 tvg-id="PlanetaJuniorTV.es" tvg-logo="https://i.imgur.com/EaYYKb7.png" group-title="Kids", Planeta Junior TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://i.imgur.com/v5zkh4T.png" group-title="Kids", PlanetaTV Kids (1080p)
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF: -1 tvg-id="PlutoTVAnimakids.es" tvg-logo="https://i.imgur.com/MSGZ3S9.png" group-title="Kids", Pluto TV Animakids (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="BeybladeBurst.de" tvg-logo="https://i.imgur.com/yaHE8Uj.png" group-title="Kids", Pluto TV Beyblade Burst Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="BlazeunddieMonsterMaschinenNick.de" tvg-logo="https://i.imgur.com/mMj4wOj.png" group-title="Kids", Pluto TV Blaze Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="BluesClues.de" tvg-logo="https://i.imgur.com/sHRHnzf.png" group-title="Kids", Pluto TV Blue's Clues Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="Kids", Pluto TV Bob Esponja (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="PlutoTVBubbleGuppies.us" tvg-logo="https://i.imgur.com/qMrbuXb.png" group-title="Kids", Pluto TV Bubble Guppies (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c631817-0713-11eb-9df2-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="Kids", Pluto TV Classic Nick (Brazil) (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF: -1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids", Pluto TV Dora TV (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e43c344b54fe800093552f4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c28ebf75-0713-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="iCarly.de" tvg-logo="https://i.imgur.com/EHLHuNo.png" group-title="Kids", Pluto TV iCarly (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c53d6ac-a6d2-4c2c-9403-6101f770b205&terminate=false&userId=
+#EXTINF: -1 tvg-id="iCarly.fr" tvg-logo="https://i.imgur.com/R6jWcqz.png" group-title="Kids", Pluto TV iCarly (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF: -1 tvg-id="iCarlyPlus.de" tvg-logo="https://i.imgur.com/Wy73ywD.png" group-title="Kids", Pluto TV iCarly+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2cb9f5b291000773807a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c128fa6-7ec2-4a50-a81b-37f9e8c1e48f&terminate=false&userId=
+#EXTINF: -1 tvg-id="PlutoTVJunior.fr" tvg-logo="https://i.imgur.com/7sApMZS.png" group-title="Kids", Pluto TV Junior (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF: -1 tvg-id="PlutoTVKids.es" tvg-logo="https://i.imgur.com/eilI830.png" group-title="Kids", Pluto TV Kids (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="PlutoTVKidsAnimation.fr" tvg-logo="https://i.imgur.com/xYYJwTz.png" group-title="Kids", Pluto TV Kids Animation (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="PlutoTVKidsAnimation.us" tvg-logo="https://i.imgur.com/l1d9j4d.png" group-title="Kids", Pluto TV Kids Animation (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="PlutoTVKidsCollection.us" tvg-logo="https://i.imgur.com/ZDFtuOT.png" group-title="Kids", Pluto TV Kids Collection (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF: -1 tvg-id="PlutoTVKidsSeries.fr" tvg-logo="https://i.imgur.com/twXueoi.png" group-title="Kids", Pluto TV Kids SÃ©ries (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="NickPlutoTV.us" tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Kids", Pluto TV Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede448d3d50590007a4419e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=fbbb3638-0714-11eb-aeab-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="NickClasico.us" tvg-logo="https://i.imgur.com/yxOuiqj.png" group-title="Kids", Pluto TV Nick ClÃ¡sico (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF: -1 tvg-id="EmmaeinfachmagischNick.de" tvg-logo="https://i.imgur.com/AYlN745.png" group-title="Kids", Pluto TV Nick Emma einfach magisch! (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f4796368174910007756454&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Kids", Pluto TV Nick Jr. (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede45451dce190007ef9ff2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=d1d4cf70-0714-11eb-a59f-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="NickJrClub.br" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="Kids", Pluto TV Nick Jr. Club (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF: -1 tvg-id="NickJrenEspanol.us" tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="Kids", Pluto TV Nick Latino (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
+#EXTINF: -1 tvg-id="PlutoTVRetroToons.us" tvg-logo="https://i.imgur.com/YUQL0ki.png" group-title="Kids", Pluto TV Retro Toons (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1c669094e0e80009b22ab8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=886c7aee-0585-11eb-8b9f-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="PlutoTVRugrats.us" tvg-logo="https://i.imgur.com/ZVtPBXM.png" group-title="Kids", Pluto TV Rugrats (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="PlutoTVRugratsCrecidos.us" tvg-logo="https://i.imgur.com/nvstEkP.png" group-title="Kids", Pluto TV Rugrats Crecidos (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF: -1 tvg-id="PlutoTVSamCat.us" tvg-logo="https://i.imgur.com/0lL09lW.png" group-title="Kids", Pluto TV Sam & Cat (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="PlutoTVSpongeBobSchwammkopf.de" tvg-logo="https://i.imgur.com/8gR5jPf.png" group-title="Kids", Pluto TV SpongeBob Schwammkopf (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="PlutoTVTeen.us" tvg-logo="https://i.imgur.com/lNJ5p5e.png" group-title="Kids", Pluto TV Teen (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF: -1 tvg-id="PlutoTVTeenStars.es" tvg-logo="https://i.imgur.com/f0FXTXJ.png" group-title="Kids", Pluto TV Teen Stars (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="TeenNick.de" tvg-logo="https://i.imgur.com/VTWleRc.png" group-title="Kids", Pluto TV TeenNick (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids", Pluto TV Toons ClÃ¡sico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF: -1 tvg-id="TotallyTurtles.us" tvg-logo="https://i.imgur.com/1gIpagY.png" group-title="Kids", Pluto TV Totally Turtles (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d6792bd6be2998ad0ccce30&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ca4dc680-0715-11eb-aeab-0242ac110002&terminate=false&userId=
+#EXTINF: -1 tvg-id="PlutoTVTween.us" tvg-logo="https://i.imgur.com/VMiuJqG.png" group-title="Kids", Pluto TV Tween (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=
+#EXTINF: -1 tvg-id="pocketwatch.us" tvg-logo="https://i.imgur.com/T0V90Lz.png" group-title="Kids", pocket.watch (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
+#EXTINF: -1 tvg-id="RaiYoyo.it" tvg-logo="https://i.imgur.com/9gCxiDy.png" group-title="Kids", Rai YoYo (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF: -1 tvg-id="RotanaKids.sa" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="Kids", Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF: -1 tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Kids", Ryan and Friends
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-id="Sat7Kids.cy" tvg-logo="https://i.imgur.com/M0ik0i2.png" group-title="Kids", Sat 7 Kids (1080p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF: -1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Kids", SEO TV 2 Kids (1080p)
+https://live.seo.tv.bo/live/SEO-2.m3u8
+#EXTINF: -1 tvg-id="SkwadPlay.us" tvg-logo="https://i.imgur.com/cP56PrG.png" group-title="Kids", SKWAD (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF: -1 tvg-id="SuperBrothersandSisters.it" tvg-logo="https://i.imgur.com/t4mepW4.png" group-title="Kids", Super! Brothers and Sisters Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF: -1 tvg-id="SuperEroi.it" tvg-logo="https://i.imgur.com/7GId79m.png" group-title="Kids", Super! Eroi Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF: -1 tvg-id="SuperiCarly.it" tvg-logo="https://i.imgur.com/IWcQfF2.png" group-title="Kids", Super! iCarly Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF: -1 tvg-id="SuperPop.it" tvg-logo="https://i.imgur.com/2FfREQE.png" group-title="Kids", Super! Pop Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF: -1 tvg-id="SuperSpongeBob.it" tvg-logo="https://i.imgur.com/65wxNn4.png" group-title="Kids", Super! SpongeBob Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfed9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF: -1 tvg-id="SuperStar.it" tvg-logo="https://i.imgur.com/b4ck4Fg.png" group-title="Kids", Super! Star Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF: -1 tvg-id="SuperToons.bg" tvg-logo="https://i.imgur.com/e5fdQZl.png" group-title="Kids", Supertoons TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="TahaTV.lb" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids", Taha TV (360p) [Not 24/7]
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF: -1 tvg-id="Teletubbies.uk" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids", Teletubbies
+https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="Kids", TiJi
+http://135.181.115.81/russia/tiji/playlist.m3u8
+#EXTINF: -1 tvg-id="TiJi.fr" tvg-logo="https://i.imgur.com/ZjsfAGb.png" group-title="Kids", Tiji (1080p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF: -1 tvg-id="TNTKidsTV.ba" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Kids", TNT Kids (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF: -1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Kids", Toon Goggles en Espanol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF: -1 tvg-id="ToonmaxTV.cn" tvg-logo="https://i.imgur.com/Uhwv1il.png" group-title="Kids", Toonmax TV (576p)
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+#EXTINF: -1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids", TRT Ã‡ocuk (720p)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF: -1 tvg-id="TV2Kids.hu" tvg-logo="https://i.imgur.com/Zltlezm.png" group-title="Kids", TV2 Kids (576p)
+http://146.59.85.40:89/tv2kids/index.m3u8
+#EXTINF: -1 tvg-id="TVArberia3Femije.xk" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Kids", TV ArbÃ«ria 3 FÃ«mijÃ« (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+#EXTINF: -1 tvg-id="TVGCativos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Kids", TVG Cativ@s (720p)
+https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-id="TVGInfantil.es" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Kids", TVG Infantil (720p)
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-id="TVGMocinos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Kids", TVG MociÃ±@s (720p)
+https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-id="TVGPequerrechos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Kids", TVG Pequerrech@s (720p)
+https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="Kids", TVS Hi Tops (720p)
+https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF: -1 tvg-id="TVSPinballNetwork.us" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="Kids", TVS Pinball Network (480p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF: -1 tvg-id="WatchitKID.us" tvg-logo="https://i.imgur.com/YNx0j1b.png" group-title="Kids", Watch It Kid (486p)
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF: -1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids", Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="Vgostyakhuskazki.ru" tvg-logo="https://i.imgur.com/jNJkLHl.png" group-title="Kids", Ð’ Ð“Ð¾ÑÑ‚ÑÑ… Ñƒ ÑÐºÐ°Ð·ÐºÐ¸ (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF: -1 tvg-id="Detskimir.ru" tvg-logo="https://i.imgur.com/bBVEP0S.png" group-title="Kids", Ð”ÐµÑ‚ÑÐºÐ¸Ð¹ Ð¼Ð¸Ñ€
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF: -1 tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="Kids", ÐšÐ°Ñ€ÑƒÑÐµÐ»ÑŒ
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+#EXTINF: -1 tvg-id="Leva.ru" tvg-logo="https://i.imgur.com/lQzgmpz.png" group-title="Kids", Ð›Ñ‘Ð²Ð° (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF: -1 tvg-id="Mama.ru" tvg-logo="https://i.imgur.com/kmMIjjf.png" group-title="Kids", ÐœÐ°Ð¼Ð°
+https://edge02.odtv.az/o2/mamatv/playlist.m3u8
+#EXTINF: -1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="Kids", ÐœÑƒÐ»ÑŒÑ‚
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF: -1 tvg-id="MultHD.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="Kids", ÐœÑƒÐ»ÑŒÑ‚ HD
+http://moobl.ru/hls/Mult_hd.m3u8
+#EXTINF: -1 tvg-id="Multilandia.ru" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Kids", ÐœÑƒÐ»ÑŒÑ‚Ð¸Ð»Ð°Ð½Ð´Ð¸Ñ (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF: -1 tvg-id="Multimuzyka.ru" tvg-logo="https://i.imgur.com/SYt6BZP.png" group-title="Kids", ÐœÑƒÐ»ÑŒÑ‚Ð¸Ð¼ÑƒÐ·Ñ‹ÐºÐ°
+http://moobl.ru/hls/Multimuzyka.m3u8
+#EXTINF: -1 tvg-id="RadostMoya.ru" tvg-logo="https://i.imgur.com/B5FA62o.png" group-title="Kids", Ð Ð°Ð´Ð¾ÑÑ‚ÑŒ Ð¼Ð¾Ñ
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF: -1 tvg-id="Ryzhiy.ru" tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="Kids", Ð Ñ‹Ð¶Ð¸Ð¹ (480p)
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF: -1 tvg-id="STSkids.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Kids", Ð¡Ð¢Ð¡ Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+#EXTINF: -1 tvg-id="Tamyr.ru" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids", Ð¢Ð°Ð¼Ñ‹Ñ€ (Ð£Ñ„Ð°) (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF: -1 tvg-id="Balastan.kg" tvg-logo="https://i.imgur.com/D5ylCiX.png" group-title="Kids", Ð£Ð¢Ð Ðš Ð‘Ð°Ð»Ð°ÑÑ‚Ð°Ð½ (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
+#EXTINF: -1 tvg-id="ShandongTVChildrensChannel.cn" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="Kids", å±±ä¸œå°‘å„¿ (406p) [Geo-blocked]
+http://livealone302.iqilu.com/iqilu/sepd.m3u8
+#EXTINF: -1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids", æµ™æ±Ÿå°‘å„¿ (1080p)
+https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF: -1 tvg-id="BilimIlim.kg" tvg-logo="https://i.imgur.com/HxCNE57.png" group-title="General;Kids", Ð­Ð»Ð¢Ð  Ð‘Ð¸Ð»Ð¸Ð¼ Ð˜Ð»Ð¸Ð¼ (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
