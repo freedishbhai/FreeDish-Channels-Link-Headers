@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm TVBOOKLIVE</h1>
 <h3 align="center">DD FREE DISH M3U8 PLAYLIST FTA CHANNELS</h3>
-(img align="right" alt="Coding" width="400" src="https://selectra.in/sites/selectra.in/files/dth/logo/dd-free-dish.png")
+
+<p img align="right" alt="Coding" width="400" src="https://selectra.in/sites/selectra.in/files/dth/logo/dd-free-dish.png"<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvbooklive&label=Profile%20views&color=0e75b6&style=flat" alt="tvbooklive" /> </p>
 
