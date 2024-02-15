@@ -100,3 +100,25 @@ https://bdtubelive.xyz/shemaroo.m3u8?id=chumbak-tv
 
 #EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", Sun Bangla Cinema 
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+
+#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", Animal Planet Hindi 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=52d1df2fdb80&e=.m3u8
+
+#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", FOX LIFE 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=4e0d46e917a8&e=.m3u8 
+
+#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", Sony Yah Bangla 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=edf7ba617dc5&e=.m3u8 
+
+#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", Bein Sports 
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", Movie Club Hindi 
+https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8 
+
+#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", Zoom 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8 
+
+#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", DUNKI MOVIE 
+https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Dunki.2023.720p.Hindi.WEB-DL%20ottbangla.shop.mkv
+
