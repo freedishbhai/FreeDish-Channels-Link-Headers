@@ -125,4 +125,8 @@ https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Dunki.2023.720p.Hindi.WEB-D
 #EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", Dukkhito Bongo BD 
 https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Dukkhito.2024.720p.BongoBD.mkv
 
-#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", 
+#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", TEN SPORTS 
+http://176.119.29.52/live/00:1A:79:92:98:E5/SN_1697176356/301.m3u8 
+
+#EXTINF:-1 group-title="UNIFLIX BD- TVBOOKLIVE", Star Sports 1 
+http://41.205.93.154/STARSPORTS1/index.m3u8
