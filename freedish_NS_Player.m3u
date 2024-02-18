@@ -154,6 +154,146 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8 
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/mOkjjo5Rzcpk7BsHrsLWnqVadUK1FlLd2-UlQvYkLL4E9A0LpyODNIQinXPfUMjUrbE=w480-h960-rw" group-title="TVBOOKLIVE ",  ShowBox 
 https://epiconvh.s.llnwi.net/showbox/master.m3u8 
+#EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqI6vOVaqZPzrNF7px8Sv1inUEg-tOGJ8uD_be9GzBw&s" group-title="SonyLIV - DDFREEEDISH",SET HD
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009246&e=.m3u8 
+
+#EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/998px-Sony_SAB.svg.png" group-title="SonyLIV - DDFREEEDISH",Sony SAB HD
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009248&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009273" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmiwJy7-mtVLeMElMtDN8HkTy2E7BCPydZQ&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony PAL
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009273&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="SonyLIV - DDFREEEDISH",Sony YAY
+
+https://cdn-tv.co.in/myweb/watch.php?id=100000971&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwMimv_wMXC5rMynSsHuDG7EZ2sE6IcoABJvmvK1W2g&s" group-title="SonyLIV - DDFREEEDISH",Sony AATH
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009255&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkosazvi10qDAuTe1daTuIjUWneOtQDh85BOSCwZcxg&s" group-title="SonyLIV - DDFREEEDISH",Sony MAX HD
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009247&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2TazB9MuZECamSWZ02D-f47aIz889JjlxA&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony WAH
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009253&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000044878" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SonyLIV - DDFREEEDISH",Sony MAX2
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="SonyLIV - DDFREEEDISH",Sony BBC Earth HD 
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="SonyLIV - DDFREEEDISH",Sony TEN 1
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009280&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848" group-title="SonyLIV - DDFREEEDISH",Sony TEN 2
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009279&e=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV - TVBOOKLIVE",SET HD
+
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLIV - TVBOOKLIVE",Sony SAB HD
+
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLIV - TVBOOKLIVE",Sony PAL
+
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLIV - TVBOOKLIVE",Sony YAY
+
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLIV - TVBOOKLIVE",Sony Marathi
+
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLIV - TVBOOKLIVE",Sony AATH
+
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLIV - TVBOOKLIVE",Sony MAX HD
+
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLIV - TVBOOKLIVE",Sony MAX
+
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLIV - TVBOOKLIVE",Sony WAH
+
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLIV - TVBOOKLIVE",Sony MAX2
+
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLIV - TVBOOKLIVE",Sony PIX HD
+
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLIV - TVBOOKLIVE",Sony BBC Earth HD
+
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 1
+
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 2
+
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 3
+
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 4
+
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 5
+
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 1 HD
+
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",SonyÂ  TEN 2 HD
+
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 3 HD
+
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 4 HD
+
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 5 HD
+
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SonyLIV - TVBOOKLIVE",Sony Kal
+
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF: -1 tvg-id="SonyEntertainmentTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" group-title="INDIA EU", SONY TV
 http://mag.trexlive.me:80/Michael88/Michael88/959
 #EXTINF: -1 tvg-id="SonyEntertainmentTV.uk" tvg-logo="http://logo.protv.cc/picons/logos/sonytv.png" group-title="INDIA EU", SONY TV FHD
@@ -1038,49 +1178,3 @@ https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF: -1 tvg-id="255" tvg-name="NDTV 24x7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News", NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", SET HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Sab HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Marathi
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Pal
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony AATH
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Max HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Max 2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Wah
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 4 HD
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Ten 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Pix HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF: -1 group-title="VT OTT | Sony Liv", Sony Crackle
-https://crackle-plex.amagi.tv/playlist720p.m3u8
