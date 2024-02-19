@@ -500,4 +500,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Colors-Bangla-320x280.jpg/revision/latest?cb=20171125150548" group-title="TVBOOKLIVE ",  Colors Bangla HD 
 https://uniflixbd.xyz/unuse/payplay/live.php?id=cb074ae82cd0&e=.m3u8
 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Colors-Bangla-320x280.jpg/revision/latest?cb=20171125150548" group-title="TVBOOKLIVE ",  Colors Bangla Cinema [Bioscope]
+https://edge4.bioscopelive.com/hls/anonymous/MGDT4go_YBrPDd-gFtYlLg/1708322978/live3-colors-bangla-cinema.m3u8
+
 
