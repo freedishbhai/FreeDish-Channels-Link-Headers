@@ -304,7 +304,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/157158
 http://mag.trexlive.me:80/Michael88/Michael88/155969
 #EXTINF: -1 tvg-id="StarGold.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Star_Gold_2020_Avatar.jpg/revision/latest?cb=20200131185357" group-title="INDIA", STAR GOLD
 http://mag.trexlive.me:80/Michael88/Michael88/280766
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="INDIA", STAR GOLD 2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1376px-Star_Gold_2.svg.png" group-title="INDIA", STAR GOLD 2
 http://mag.trexlive.me:80/Michael88/Michael88/1112132
 #EXTINF: -1 tvg-id="StarGoldSelect.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iwxMxXyV.png" group-title="INDIA", STAR GOLD SELECT HD
 http://mag.trexlive.me:80/Michael88/Michael88/155970
@@ -335,9 +335,6 @@ http://mag.trexlive.me:80/Michael88/Michael88/156044
 
 #EXTINF: -1 tvg-id="News18India.in" tvg-logo="http://logo.protv.cc/picons/logos/news18india.png" group-title="INDIA", NEWS 18 INDIA
 http://mag.trexlive.me:80/Michael88/Michael88/156153
-
-#EXTINF: -1 tvg-id="News1India.in" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-1-INDIA.png" group-title="INDIA", NEWS 1 INDIA
-http://mag.trexlive.me:80/Michael88/Michael88/280870
 
 #EXTINF: -1 tvg-id="ZeeNews.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T4jA4k1h.png" group-title="INDIA", ZEE NEWS
 http://mag.trexlive.me:80/Michael88/Michael88/156051
@@ -412,10 +409,8 @@ http://mag.trexlive.me:80/Michael88/Michael88/280748
 http://mag.trexlive.me:80/Michael88/Michael88/1057243
 #EXTINF: -1 tvg-id="ARYFamily.pk" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/a-sport.png" group-title="SPORTS", A SPORTS HD
 http://mag.trexlive.me:80/Michael88/Michael88/281100
-#EXTINF: -1 tvg-id="DDSports.in" tvg-logo="http://logo.protv.cc/picons/logos/ddsports.jpg" group-title="SPORTS", DD SPORTS
+#EXTINF: -1 tvg-id="DDSports.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6_4B_tXPGZdbZfrONNNLsRprCiUEmb3Kbw&usqp=CAU" grouhttp://logo.protv.cc/picons/logos/ddsports.jpgp-title="SPORTS", DD SPORTS
 http://mag.trexlive.me:80/Michael88/Michael88/155983
-#EXTINF: -1 tvg-id="StarCricket.sg" tvg-logo="http://logo.protv.cc/picons/logos/astrotv.png" group-title="SPORTS", ASTRO CRICKET HD
-http://mag.trexlive.me:80/Michael88/Michael88/315181
 
 #EXTINF: -1 tvg-id="StarSports1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" group-title="SPORTS", STAR SPORTS 1  HD
 http://mag.trexlive.me:80/Michael88/Michael88/155968
@@ -481,7 +476,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155781
 http://mag.trexlive.me:80/Michael88/Michael88/155780
 #EXTINF: -1 tvg-id="DDBangla.in" tvg-logo="http://logo.protv.cc/picons/logos/DD-BANGLA.jpg" group-title="BENGALI/BANGLA", DD BANGLA
 http://mag.trexlive.me:80/Michael88/Michael88/155776
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/National_Geographic_Channel_HD_%28Old%29.svg/revision/latest?cb=20201220105516" group-tithttp://logo.protv.cc/picons/logos/natgeohd.pngle="BENGALI/BANGLA", NAT GEO BENGALI HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-tithttp://logo.protv.cc/picons/logos/natgeohd.pngle="BENGALI/BANGLA", NAT GEO BENGALI HD
 http://mag.trexlive.me:80/Michael88/Michael88/155772
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="BENGALI/BANGLA", SUN BANGLA
