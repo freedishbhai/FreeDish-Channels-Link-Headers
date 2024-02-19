@@ -487,3 +487,9 @@ http://mag.trexlive.me:80/Michael88/Michael88/1112197
 http://mag.trexlive.me:80/Michael88/Michael88/155777
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="BENGALI/BANGLA", BAN| ENTER 10 BANGLA
 http://mag.trexlive.me:80/Michael88/Michael88/155784
+#EXTINF: -1 tvg-logo= "https://mhdtvmax.com/delta/discovery/api/Discovery_Bangla.m3u8", Discovery Bangla  
+#EXTINF: -1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1024px-Nick.svg.png", Nick Bangla 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=fd1444ce2617&e=.m3u8 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDzXIG4JYcil17hZWeOS8nMMdT9YeA5OmsNA&s" ,Sony Yay Bangla 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=edf7ba617dc5&e=.m3u8 
+
