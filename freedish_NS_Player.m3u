@@ -231,15 +231,6 @@ https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
 
 https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="SonyLIV - DDFREEEDISH",Sony TEN 1
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009280&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848" group-title="SonyLIV - DDFREEEDISH",Sony TEN 2
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009279&e=.m3u8
-
-
 
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV - TVBOOKLIVE",SET HD
 
@@ -295,39 +286,6 @@ https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
 #EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 2
 
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 3
-
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 4
-
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 5
-
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 1 HD
-
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",SonyÂ  TEN 2 HD
-
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 3 HD
-
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 4 HD
-
-https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 5 HD
-
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SonyLIV - TVBOOKLIVE",Sony Kal
 
@@ -386,6 +344,47 @@ http://mag.trexlive.me:80/Michael88/Michael88/1114584
 http://mag.trexlive.me:80/Michael88/Michael88/155973
 #EXTINF: -1 tvg-id="StarSportsSelect2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 2
 http://mag.trexlive.me:80/Michael88/Michael88/282676
+
+#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="SonyLIV - DDFREEEDISH",Sony TEN 1 
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009280&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848" group-title="SonyLIV - DDFREEEDISH",Sony TEN 2 
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009279&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="sony1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 3 SD 
+
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 4 SD
+
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 5 SD
+
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 1 HD
+
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",SonyÂ  TEN 2 HD
+
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 3 HD
+
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 4 HD
+
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 5 HD
+
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 
 #EXTINF: -1 tvg-id="ZeeBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Zee_Bangla_HD_2016.jpg/revision/latest?cb=20190707171603" http://logo.protv.cc/picons/logos/ZEE-BANGLA-HD.jpeggroup-title="BENGALI/BANGLA", ZEE BANGLA HD 
