@@ -285,52 +285,52 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="INDIA EU", NEWS 18 EN
 http://mag.trexlive.me:80/Michael88/Michael88/1021295
-#EXTINF: -1 tvg-id="B4UMovies.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.b4umovies.png" group-title="INDIA EU", B4U MOVIES
+#EXTINF: -1 tvg-id="B4UMovies.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="INDIA EU", B4U MOVIES
 http://mag.trexlive.me:80/Michael88/Michael88/42443
-#EXTINF: -1 tvg-id="B4UMusic.uk" tvg-logo="http://logo.protv.cc/picons/logos/in.B4umusic.png" group-title="INDIA EU", B4U MUSIC
+#EXTINF: -1 tvg-id="B4UMusic.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/B4U_MUSIC_2014.png/revision/latest?cb=20190708072015" group-title="INDIA EU", B4U MUSIC
 http://mag.trexlive.me:80/Michael88/Michael88/42444
-#EXTINF: -1 tvg-id="B4UPlus.ae" tvg-logo="http://logo.protv.cc/picons/logos/b4uplus.png" group-title="INDIA EU", B4U PLUS
+#EXTINF: -1 tvg-id="B4UPlus.ae" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/B4U_Plus.jpeg/revision/latest?cb=20200225090223" group-title="INDIA EU", B4U PLUS
 http://mag.trexlive.me:80/Michael88/Michael88/97108
 
-#EXTINF: -1 tvg-id="ABPNews.in" tvg-logo="http://logo.protv.cc/picons/logos/in.abpnews.png" group-title="INDIA EU", ABP NEWS
+#EXTINF: -1 tvg-id="ABPNews.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/ABP_News_2017.png/revision/latest?cb=20201222100717" group-title="INDIA EU", ABP NEWS
 http://mag.trexlive.me:80/Michael88/Michael88/42440
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/zeetvhd.png" group-title="INDIA", GOLDMINES 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png/revision/latest?cb=20230126170355" group-title="INDIA", GOLDMINES 
 http://mag.trexlive.me:80/Michael88/Michael88/157155
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" group-title="INDIA", GOLDMINES 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png/revision/latest?cb=20230126170355" group-title="INDIA", GOLDMINES 
 http://mag.trexlive.me:80/Michael88/Michael88/157158
 
-#EXTINF: -1 tvg-id="StarGold.in" tvg-logo="http://logo.protv.cc/picons/logos/stargoldhd.png" group-title="INDIA", STAR GOLD HD
+#EXTINF: -1 tvg-id="StarGold.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Star_Gold_2020_Avatar.jpg/revision/latest?cb=20200131185357" group-title="INDIA", STAR GOLD HD
 http://mag.trexlive.me:80/Michael88/Michael88/155969
-#EXTINF: -1 tvg-id="StarGold.in" tvg-logo="http://logo.protv.cc/picons/logos/in.stargold.png" group-title="INDIA", STAR GOLD
+#EXTINF: -1 tvg-id="StarGold.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Star_Gold_2020_Avatar.jpg/revision/latest?cb=20200131185357" group-title="INDIA", STAR GOLD
 http://mag.trexlive.me:80/Michael88/Michael88/280766
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" group-title="INDIA", STAR GOLD 2
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="INDIA", STAR GOLD 2
 http://mag.trexlive.me:80/Michael88/Michael88/1112132
-#EXTINF: -1 tvg-id="StarGoldSelect.in" tvg-logo="http://logo.protv.cc/picons/logos/stargoldselect.png" group-title="INDIA", STAR GOLD SELECT HD
+#EXTINF: -1 tvg-id="StarGoldSelect.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iwxMxXyV.png" group-title="INDIA", STAR GOLD SELECT HD
 http://mag.trexlive.me:80/Michael88/Michael88/155970
-#EXTINF: -1 tvg-id="StarGoldSelect.in" tvg-logo="http://logo.protv.cc/picons/logos/stargoldselect.png" group-title="INDIA", STARGOLD SELECT
+#EXTINF: -1 tvg-id="StarGoldSelect.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iwxMxXyV.png" group-title="INDIA", STARGOLD SELECT
 http://mag.trexlive.me:80/Michael88/Michael88/280778
-#EXTINF: -1 tvg-id="StarPlus.in" tvg-logo="http://logo.protv.cc/picons/logos/starplushd.png" group-title="INDIA", STAR PLUS HD
+#EXTINF: -1 tvg-id="StarPlus.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BgWI5SWG.png" group-title="INDIA", STAR PLUS HD
 http://mag.trexlive.me:80/Michael88/Michael88/155971
-#EXTINF: -1 tvg-id="StarPlus.in" tvg-logo="http://logo.protv.cc/picons/logos/in.starplus.png" group-title="INDIA", STAR PLUS
+#EXTINF: -1 tvg-id="StarPlus.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BgWI5SWG.png" group-title="INDIA", STAR PLUS
 http://mag.trexlive.me:80/Michael88/Michael88/280767
-#EXTINF: -1 tvg-id="StarBharat.in" tvg-logo="http://logo.protv.cc/picons/logos/starbharathd.jpg" group-title="INDIA", STAR BHARAT HD
+#EXTINF: -1 tvg-id="StarBharat.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UXQdlYE.png" group-title="INDIA", STAR BHARAT HD
 http://mag.trexlive.me:80/Michael88/Michael88/156173
-#EXTINF: -1 tvg-id="StarBharat.in" tvg-logo="http://logo.protv.cc/picons/logos/starbharat.png" group-title="INDIA", STAR BHARAT
+#EXTINF: -1 tvg-id="StarBharat.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UXQdlYE.png" group-title="INDIA", STAR BHARAT
 http://mag.trexlive.me:80/Michael88/Michael88/280765
-#EXTINF: -1 tvg-id="StarUtsav.in" tvg-logo="http://logo.protv.cc/picons/logos/starutsav.png" group-title="INDIA", STAR UTSAV
+#EXTINF: -1 tvg-id="StarUtsav.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XQMx6uVj.png" group-title="INDIA", STAR UTSAV
 http://mag.trexlive.me:80/Michael88/Michael88/156163
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STAR-UTSAV-MOVIES.png" group-title="INDIA", STAR UTSAV MOVIES
+#EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cV57fNkg.png" group-title="INDIA", STAR UTSAV MOVIES
 http://mag.trexlive.me:80/Michael88/Michael88/1112131
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/b4ukadak.jpg" group-title="INDIA", B4U KADAK
+#EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zdkmQbLP.png" group-title="INDIA", B4U KADAK
 http://mag.trexlive.me:80/Michael88/Michael88/280798
-#EXTINF: -1 tvg-id="B4UMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/in.b4umovies.png" group-title="INDIA", B4U MOVIES INDIA
+#EXTINF: -1 tvg-id="B4UMovies.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/kxs2pmLg.png" group-title="INDIA", B4U MOVIES INDIA
 http://mag.trexlive.me:80/Michael88/Michael88/280799
 
-#EXTINF: -1 tvg-id="Zoom.in" tvg-logo="http://logo.protv.cc/picons/logos/zoomtv.png" group-title="INDIA", ZOOM Music 
+#EXTINF: -1 tvg-id="Zoom.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rjKh2jqQ.png" group-title="INDIA", ZOOM Music 
 http://mag.trexlive.me:80/Michael88/Michael88/156161
-#EXTINF: -1 tvg-id="ABPNews.in" tvg-logo="http://logo.protv.cc/picons/logos/in.abpnews.png" group-title="INDIA", ABP NEWS
+#EXTINF: -1 tvg-id="ABPNews.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/JGEnmp5V.png" group-title="INDIA", ABP NEWS
 http://mag.trexlive.me:80/Michael88/Michael88/156044
 
 #EXTINF: -1 tvg-id="News18India.in" tvg-logo="http://logo.protv.cc/picons/logos/news18india.png" group-title="INDIA", NEWS 18 INDIA
@@ -339,14 +339,14 @@ http://mag.trexlive.me:80/Michael88/Michael88/156153
 #EXTINF: -1 tvg-id="News1India.in" tvg-logo="http://logo.protv.cc/picons/logos/NEWS-1-INDIA.png" group-title="INDIA", NEWS 1 INDIA
 http://mag.trexlive.me:80/Michael88/Michael88/280870
 
-#EXTINF: -1 tvg-id="ZeeNews.in" tvg-logo="http://logo.protv.cc/picons/logos/zeenews.png" group-title="INDIA", ZEE NEWS
+#EXTINF: -1 tvg-id="ZeeNews.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T4jA4k1h.png" group-title="INDIA", ZEE NEWS
 http://mag.trexlive.me:80/Michael88/Michael88/156051
 
-#EXTINF: -1 tvg-id="AnimalPlanet.in" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="INDIA", ANIMAL PLANET HD
+#EXTINF: -1 tvg-id="AnimalPlanet.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/e9ald2VE.png" group-title="INDIA", ANIMAL PLANET HD
 http://mag.trexlive.me:80/Michael88/Michael88/156168
-#EXTINF: -1 tvg-id="AnimalPlanet.in" tvg-logo="http://logo.protv.cc/picons/logos/animalplanet.png" group-title="INDIA", ANIMAL PLANET
+#EXTINF: -1 tvg-id="AnimalPlanet.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/e9ald2VE.png" group-title="INDIA", ANIMAL PLANET
 http://mag.trexlive.me:80/Michael88/Michael88/280746
-#EXTINF: -1 tvg-id="SonyBBCEarth.in" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="INDIA", BBC EARTH HD
+#EXTINF: -1 tvg-id="SonyBBCEarth.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" group-title="INDIA", BBC EARTH HD
 http://mag.trexlive.me:80/Michael88/Michael88/156012
 #EXTINF: -1 tvg-id="Cineplex.in" tvg-logo="http://logo.protv.cc/picons/logos/cineplexhd.jpg" group-title="INDIA",  Colors CINEPLEX HD
 http://mag.trexlive.me:80/Michael88/Michael88/156003
