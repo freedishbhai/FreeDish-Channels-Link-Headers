@@ -54,6 +54,9 @@ http://mag.trexlive.me:80/Michael88/Michael88/280897
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Manoranjan_TV.jpeg/revision/latest?cb=20200103190536" group-title="INDIA", MANORANJAN
 http://mag.trexlive.me:80/Michael88/Michael88/280860 
 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjUTgX7cI9e716CFyM5UVBkhnrINjFzbLiag&usqp=CAU" , Bollywood Movies 
+https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+
 
 
 
@@ -296,8 +299,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155983
 
 #EXTINF: -1 tvg-id="StarSports1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" group-title="SPORTS", STAR SPORTS 1  HD
 http://mag.trexlive.me:80/Michael88/Michael88/155968
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="SPORTS", STAR SPORTS HINDI
-http://mag.trexlive.me:80/Michael88/Michael88/1114582
+
 #EXTINF: -1 tvg-id="StarSports1Hindi.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="SPORTS", STAR SPORTS 1 HINDI 
 http://mag.trexlive.me:80/Michael88/Michael88/155967
 
@@ -305,19 +307,11 @@ http://mag.trexlive.me:80/Michael88/Michael88/155967
 http://mag.trexlive.me:80/Michael88/Michael88/1114581
 #EXTINF: -1 tvg-id="StarSports2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-title="SPORTS", STAR SPORTS 2 HD
 http://mag.trexlive.me:80/Michael88/Michael88/155966
-#EXTINF: -1 tvg-id="StarSports2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-title="SPORTS", STAR SPORTS 2
-http://mag.trexlive.me:80/Michael88/Michael88/282673
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 1 FHD
-http://mag.trexlive.me:80/Michael88/Michael88/1114583
-#EXTINF: -1 tvg-id="StarSportsSelect1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 1 HD
-http://mag.trexlive.me:80/Michael88/Michael88/155972
+
 #EXTINF: -1 tvg-id="StarSportsSelect1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 1
 http://mag.trexlive.me:80/Michael88/Michael88/282675
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 2 FHD
-http://mag.trexlive.me:80/Michael88/Michael88/1114584
-#EXTINF: -1 tvg-id="StarSportsSelect2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 2 HD
-http://mag.trexlive.me:80/Michael88/Michael88/155973
+
 #EXTINF: -1 tvg-id="StarSportsSelect2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 2
 http://mag.trexlive.me:80/Michael88/Michael88/282676
 
@@ -389,9 +383,6 @@ http://mag.trexlive.me:80/Michael88/Michael88/1112198
 http://mag.trexlive.me:80/Michael88/Michael88/1112197
 #EXTINF: -1 tvg-id="SangeetBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Sangeet_bangla.jpg/revision/latest?cb=20191217192449" group-title="BENGALI/BANGLA", SANGEET BANGLA
 http://mag.trexlive.me:80/Michael88/Michael88/155777
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjUTgX7cI9e716CFyM5UVBkhnrINjFzbLiag&usqp=CAU" , Bollywood Movies 
-https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 
 
 
