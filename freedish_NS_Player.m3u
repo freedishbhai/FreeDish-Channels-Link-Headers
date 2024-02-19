@@ -269,38 +269,25 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 1
-
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 2
-
-
-#EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SonyLIV - TVBOOKLIVE",Sony Kal
-
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="AnimalPlanet.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/e9ald2VE.png" group-title="India", ANIMAL PLANET HD
 http://mag.trexlive.me:80/Michael88/Michael88/156168
 #EXTINF: -1 tvg-id="AnimalPlanet.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/e9ald2VE.png" group-title="INDIA", ANIMAL PLANET
-http://mag.trexlive.me:80/Michael88/Michael88/280746
-#EXTINF: -1 tvg-id="SonyBBCEarth.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" group-title="INDIA", BBC EARTH HD
-http://mag.trexlive.me:80/Michael88/Michael88/156012
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/discovery.png" group-title="INDIA", Discovery Hindi 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMW9u75tcOia_WC0R7-0S3wKB2c8tp6GALg&s" group-thttp://logo.protv.cc/picons/logos/discovery.pngitle="INDIA", Discovery Hindi 
 http://mag.trexlive.me:80/Michael88/Michael88/280754
-#EXTINF: -1 tvg-id="NatGeoWild.in" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="INDIA", NAT GEO WILD HD
+#EXTINF: -1 tvg-id="NatGeoWild.in" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/nat-geo-wild-hd.gif" group-title="INDIA", NAT GEO WILD HD
 http://mag.trexlive.me:80/Michael88/Michael88/155989
 
 
 
-#EXTINF: -1 tvg-id="Pogo.in" tvg-logo="http://logo.protv.cc/picons/logos/POGO-KIDS.jpg" group-title="INDIA", POGO 
+#EXTINF: -1 tvg-id="Pogo.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAd2AslBd1F_9KqY07mReYehzowG6YB85ilhde4Op7&s" group-title="INDIA", POGO 
 http://mag.trexlive.me:80/Michael88/Michael88/156128
 
-#EXTINF: -1 tvg-id="CartoonNetwork.in" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetwork.png" group-title="INDIA", CARTOON NETWORK
+#EXTINF: -1 tvg-id="CartoonNetwork.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrdiCbx-awQzUAm9OAsyneCbTwi-LyRGR4A&s" group-title="INDIA", CARTOON NETWORK
 http://mag.trexlive.me:80/Michael88/Michael88/280748
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SPORTS-18-WCUP.png" group-title="SPORTS", SPORTS 18 1 HD
+#EXTINF: -1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="SPORTS", SPORTS 18 1 HD
 http://mag.trexlive.me:80/Michael88/Michael88/1057243
 #EXTINF: -1 tvg-id="ARYFamily.pk" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/a-sport.png" group-title="SPORTS", A SPORTS HD
 http://mag.trexlive.me:80/Michael88/Michael88/281100
