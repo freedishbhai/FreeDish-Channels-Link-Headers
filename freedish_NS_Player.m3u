@@ -62,6 +62,72 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg/revision/latest?cb=20200114073641",TV9 Bharatvarsh 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 
+#EXTINF: -1 tvg-id="ZeeBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Zee_Bangla_HD_2016.jpg/revision/latest?cb=20190707171603" http://logo.protv.cc/picons/logos/ZEE-BANGLA-HD.jpeggroup-title="BENGALI/BANGLA", ZEE BANGLA HD 
+http://mag.trexlive.me:80/Michael88/Michael88/155774
+#EXTINF: -1 tvg-id="ZeeBanglaCinema.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Zee_Bangla_Cinema_2012.jpg/revision/latest?cb=20180711080504" group-title="BENGALI/BANGLA", ZEE BANGLA CINEMA
+http://mag.trexlive.me:80/Michael88/Michael88/155782
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="BENGALI/BANGLA",  JALSHA MOVIES HD
+http://mag.trexlive.me:80/Michael88/Michael88/155771
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="BENGALI/BANGLA", JALSHA MOVIES
+http://mag.trexlive.me:80/Michael88/Michael88/1118058
+
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/AAKASH-BANGLA.png" group-title="BENGALI/BANGLA", Akash Aath 
+http://mag.trexlive.me:80/Michael88/Michael88/282065
+#EXTINF: -1 tvg-id="24Ghante.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/24_Ghanta.png/revision/latest?cb=20171123072749" group-title="BENGALI/BANGLA", 24 GHANTA
+http://mag.trexlive.me:80/Michael88/Michael88/155781
+#EXTINF: -1 tvg-id="ABPAnanda.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ABP_Ananda.jpg/revision/latest?cb=20120724011213" group-title="BENGALI/BANGLA", ABP ANANDA
+http://mag.trexlive.me:80/Michael88/Michael88/155780
+
+#EXTINF: -1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/nat-geo-wild-hd.gif" group-tithttp://logo.protv.cc/picons/logos/natgeohd.pngle="BENGALI/BANGLA", NAT GEO BENGALI HD
+http://mag.trexlive.me:80/Michael88/Michael88/155772
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="BENGALI/BANGLA", SUN BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/1112198
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Channel_8.jpeg/revision/latest?cb=20191219072148" group-title="BENGALI/BANGLA", SONY AATH
+http://mag.trexlive.me:80/Michael88/Michael88/1112197
+#EXTINF: -1 tvg-id="SangeetBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Sangeet_bangla.jpg/revision/latest?cb=20191217192449" group-title="BENGALI/BANGLA", SANGEET BANGLA
+http://mag.trexlive.me:80/Michael88/Michael88/155777
+
+#EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqI6vOVaqZPzrNF7px8Sv1inUEg-tOGJ8uD_be9GzBw&s" group-title="SonyLIV - DDFREEEDISH",SET HD
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009246&e=.m3u8 
+
+#EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/998px-Sony_SAB.svg.png" group-title="SonyLIV - DDFREEEDISH",Sony SAB HD
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009248&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009273" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmiwJy7-mtVLeMElMtDN8HkTy2E7BCPydZQ&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony PAL
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009273&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="SonyLIV - DDFREEEDISH",Sony YAY
+
+https://cdn-tv.co.in/myweb/watch.php?id=100000971&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwMimv_wMXC5rMynSsHuDG7EZ2sE6IcoABJvmvK1W2g&s" group-title="SonyLIV - DDFREEEDISH",Sony AATH
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009255&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkosazvi10qDAuTe1daTuIjUWneOtQDh85BOSCwZcxg&s" group-title="SonyLIV - DDFREEEDISH",Sony MAX HD
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009247&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2TazB9MuZECamSWZ02D-f47aIz889JjlxA&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony WAH
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009253&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000044878" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SonyLIV - DDFREEEDISH",Sony MAX2
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="SonyLIV - DDFREEEDISH",Sony BBC Earth HD 
+
+https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
+
+
 
 
 
@@ -188,43 +254,6 @@ https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/master.m3u8#De
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
 
-#EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqI6vOVaqZPzrNF7px8Sv1inUEg-tOGJ8uD_be9GzBw&s" group-title="SonyLIV - DDFREEEDISH",SET HD
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009246&e=.m3u8 
-
-#EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/998px-Sony_SAB.svg.png" group-title="SonyLIV - DDFREEEDISH",Sony SAB HD
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009248&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009273" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmiwJy7-mtVLeMElMtDN8HkTy2E7BCPydZQ&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony PAL
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009273&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="SonyLIV - DDFREEEDISH",Sony YAY
-
-https://cdn-tv.co.in/myweb/watch.php?id=100000971&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwMimv_wMXC5rMynSsHuDG7EZ2sE6IcoABJvmvK1W2g&s" group-title="SonyLIV - DDFREEEDISH",Sony AATH
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009255&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkosazvi10qDAuTe1daTuIjUWneOtQDh85BOSCwZcxg&s" group-title="SonyLIV - DDFREEEDISH",Sony MAX HD
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009247&e=.m3u8
-
-
-#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2TazB9MuZECamSWZ02D-f47aIz889JjlxA&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony WAH
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009253&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000044878" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SonyLIV - DDFREEEDISH",Sony MAX2
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
-
-
-#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="SonyLIV - DDFREEEDISH",Sony BBC Earth HD 
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV - TVBOOKLIVE",SET HD
@@ -358,34 +387,5 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 5 HD
 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
-
-#EXTINF: -1 tvg-id="ZeeBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Zee_Bangla_HD_2016.jpg/revision/latest?cb=20190707171603" http://logo.protv.cc/picons/logos/ZEE-BANGLA-HD.jpeggroup-title="BENGALI/BANGLA", ZEE BANGLA HD 
-http://mag.trexlive.me:80/Michael88/Michael88/155774
-#EXTINF: -1 tvg-id="ZeeBanglaCinema.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Zee_Bangla_Cinema_2012.jpg/revision/latest?cb=20180711080504" group-title="BENGALI/BANGLA", ZEE BANGLA CINEMA
-http://mag.trexlive.me:80/Michael88/Michael88/155782
-
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="BENGALI/BANGLA",  JALSHA MOVIES HD
-http://mag.trexlive.me:80/Michael88/Michael88/155771
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="BENGALI/BANGLA", JALSHA MOVIES
-http://mag.trexlive.me:80/Michael88/Michael88/1118058
-
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/AAKASH-BANGLA.png" group-title="BENGALI/BANGLA", Akash Aath 
-http://mag.trexlive.me:80/Michael88/Michael88/282065
-#EXTINF: -1 tvg-id="24Ghante.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/24_Ghanta.png/revision/latest?cb=20171123072749" group-title="BENGALI/BANGLA", 24 GHANTA
-http://mag.trexlive.me:80/Michael88/Michael88/155781
-#EXTINF: -1 tvg-id="ABPAnanda.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ABP_Ananda.jpg/revision/latest?cb=20120724011213" group-title="BENGALI/BANGLA", ABP ANANDA
-http://mag.trexlive.me:80/Michael88/Michael88/155780
-
-#EXTINF: -1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/nat-geo-wild-hd.gif" group-tithttp://logo.protv.cc/picons/logos/natgeohd.pngle="BENGALI/BANGLA", NAT GEO BENGALI HD
-http://mag.trexlive.me:80/Michael88/Michael88/155772
-
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="BENGALI/BANGLA", SUN BANGLA
-http://mag.trexlive.me:80/Michael88/Michael88/1112198
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Channel_8.jpeg/revision/latest?cb=20191219072148" group-title="BENGALI/BANGLA", SONY AATH
-http://mag.trexlive.me:80/Michael88/Michael88/1112197
-#EXTINF: -1 tvg-id="SangeetBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Sangeet_bangla.jpg/revision/latest?cb=20191217192449" group-title="BENGALI/BANGLA", SANGEET BANGLA
-http://mag.trexlive.me:80/Michael88/Michael88/155777
-
 
 
