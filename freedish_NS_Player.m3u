@@ -461,27 +461,27 @@ http://mag.trexlive.me:80/Michael88/Michael88/282672
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-4.jpeg" group-title="SPORTS", TEN 4 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114579
 
-#EXTINF: -1 tvg-id="ZeeBangla.in" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-BANGLA-HD.jpeg" group-title="BENGALI/BANGLA", ZEE BANGLA HD
+#EXTINF: -1 tvg-id="ZeeBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Zee_Bangla_HD_2016.jpg/revision/latest?cb=20190707171603" http://logo.protv.cc/picons/logos/ZEE-BANGLA-HD.jpeggroup-title="BENGALI/BANGLA", ZEE BANGLA HD
 http://mag.trexlive.me:80/Michael88/Michael88/155774
-#EXTINF: -1 tvg-id="ZeeBanglaCinema.in" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-BANGLA-CINEMA.png" group-title="BENGALI/BANGLA", ZEE BANGLA CINEMA
+#EXTINF: -1 tvg-id="ZeeBanglaCinema.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Zee_Bangla_Cinema_2012.jpg/revision/latest?cb=20180711080504" group-title="BENGALI/BANGLA", ZEE BANGLA CINEMA
 http://mag.trexlive.me:80/Michael88/Michael88/155782
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-JALSHA-MOVIES-HD.png" group-title="BENGALI/BANGLA", STAR JALSHA MOVIES HD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="BENGALI/BANGLA",  JALSHA MOVIES HD
 http://mag.trexlive.me:80/Michael88/Michael88/155771
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARJALSHAMOVIES.png" group-title="BENGALI/BANGLA", STAR JALSHA MOVIES
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="BENGALI/BANGLA", JALSHA MOVIES
 http://mag.trexlive.me:80/Michael88/Michael88/1118058
 
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ENTER-10-BANGLA.jpeg" group-title="BENGALI/BANGLA", ENTER 10 BANGLA
 http://mag.trexlive.me:80/Michael88/Michael88/282074
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/AAKASH-BANGLA.png" group-title="BENGALI/BANGLA", AAKAASH BANGLA
 http://mag.trexlive.me:80/Michael88/Michael88/282065
-#EXTINF: -1 tvg-id="24Ghante.in" tvg-logo="http://logo.protv.cc/picons/logos/24-GHANTA.png" group-title="BENGALI/BANGLA", 24 GHANTA
+#EXTINF: -1 tvg-id="24Ghante.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/24_Ghanta.png/revision/latest?cb=20171123072749" group-title="BENGALI/BANGLA", 24 GHANTA
 http://mag.trexlive.me:80/Michael88/Michael88/155781
-#EXTINF: -1 tvg-id="ABPAnanda.in" tvg-logo="http://logo.protv.cc/picons/logos/ABP-ANANDA.jpeg" group-title="BENGALI/BANGLA", ABP ANANDA
+#EXTINF: -1 tvg-id="ABPAnanda.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ABP_Ananda.jpg/revision/latest?cb=20120724011213" group-title="BENGALI/BANGLA", ABP ANANDA
 http://mag.trexlive.me:80/Michael88/Michael88/155780
 #EXTINF: -1 tvg-id="DDBangla.in" tvg-logo="http://logo.protv.cc/picons/logos/DD-BANGLA.jpg" group-title="BENGALI/BANGLA", DD BANGLA
 http://mag.trexlive.me:80/Michael88/Michael88/155776
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="BENGALI/BANGLA", NAT GEO BENGALI HD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/National_Geographic_Channel_HD_%28Old%29.svg/revision/latest?cb=20201220105516" group-tithttp://logo.protv.cc/picons/logos/natgeohd.pngle="BENGALI/BANGLA", NAT GEO BENGALI HD
 http://mag.trexlive.me:80/Michael88/Michael88/155772
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="BENGALI/BANGLA", SUN BANGLA
