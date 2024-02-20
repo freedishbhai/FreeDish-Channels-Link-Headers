@@ -429,10 +429,7 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/3885.jpg" group-title="BANGLA", ZEE BANGLA
-http://testing.denver1769.in/51.php?id=8078
-#EXTINF: -1 tvg-id="in_zeebangla.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1920.jpg" group-title="BANGLA", ZEE BANGLA
-http://testing.denver1769.in/51.php?id=7616
+
 #EXTINF: -1 tvg-id="in_starjalsha.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/3886.jpg" group-title="BANGLA", STAR JALSHA 
 http://testing.denver1769.in/51.php?id=11123
 #EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5592.jpg" group-title="BANGLA", STAR  JAlSHA BANLA  
@@ -445,7 +442,7 @@ http://testing.denver1769.in/51.php?id=10932
 http://testing.denver1769.in/51.php?id=10933
 #EXTINF: -1 tvg-id="in_zeebanglacinema.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ZEE BANGLA Cinema 
 http://testing.denver1769.in/51.php?id=7842
-#EXTINF: -1 tvg-id="in_	zbanglacinema.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", Zee Cinema Bangla HD
+#EXTINF: -1 tvg-id="in_	zbanglacinema.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", Zee Cinema Bangla 
 http://testing.denver1769.in/51.php?id=7642
 
 #EXTINF: -1 tvg-id="in_zeetvhdplus1.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1319.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV
