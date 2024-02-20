@@ -371,22 +371,22 @@ http://mag.trexlive.me:80/Michael88/Michael88/281100
 #EXTINF: -1 tvg-id="DDSports.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6_4B_tXPGZdbZfrONNNLsRprCiUEmb3Kbw&usqp=CAU" grouhttp://logo.protv.cc/picons/logos/ddsports.jpgp-title="SPORTS", DD SPORTS
 http://mag.trexlive.me:80/Michael88/Michael88/155983
 
-#EXTINF: -1 tvg-id="StarSports1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" group-title="SPORTS", STAR SPORTS 1  HD
+#EXTINF: -1 tvg-id="StarSports1.in" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="SPORTS", STAR SPORTS 1  HD
 http://mag.trexlive.me:80/Michael88/Michael88/155968
 
-#EXTINF: -1 tvg-id="StarSports1Hindi.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="SPORTS", STAR SPORTS 1 HINDI 
+#EXTINF: -1 tvg-id="StarSports1Hindi.in" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="SPORTS", STAR SPORTS 1 HINDI 
 http://mag.trexlive.me:80/Michael88/Michael88/155967
 
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-title="SPORTS", STAR SPORTS 2 FHD
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="SPORTS", STAR SPORTS 2 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114581
-#EXTINF: -1 tvg-id="StarSports2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" group-title="SPORTS", STAR SPORTS 2 HD
+#EXTINF: -1 tvg-id="StarSports2.in" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="SPORTS", STAR SPORTS 2 HD
 http://mag.trexlive.me:80/Michael88/Michael88/155966
 
 
-#EXTINF: -1 tvg-id="StarSportsSelect1.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 1
+#EXTINF: -1 tvg-id="StarSportsSelect1.in" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg" group-title="SPORTS", STAR SPORTS SELECT 1
 http://mag.trexlive.me:80/Michael88/Michael88/282675
 
-#EXTINF: -1 tvg-id="StarSportsSelect2.in" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="SPORTS", STAR SPORTS SELECT 2
+#EXTINF: -1 tvg-id="StarSportsSelect2.in" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg" group-title="SPORTS", STAR SPORTS SELECT 2
 http://mag.trexlive.me:80/Michael88/Michael88/282676
 
 #EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="SonyLIV - DDFREEEDISH",Sony TEN 1 
