@@ -441,9 +441,9 @@ http://testing.denver1769.in/51.php?id=10932
 #EXTINF: -1 tvg-id="in_colorsbangla.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1855.jpg" group-title="BANGLA", COLORS BANGLA 
 http://testing.denver1769.in/51.php?id=10933
 #EXTINF: -1 tvg-id="in_zeebanglacinema.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Zee_Bangla_Cinema_2012.jpg/revision/latest?cb=20180711080504" group-title="BANGLA", ZEE BANGLA Cinema 
-http://testing.denver1769.in/51.php?id=7842
+http://pgplex.net:8080/ZeeBanglaCinema/index.fmp4.m3u8?token=5fe0460e59685c11d4af04e3d41d799fff4c9c73-38f059609194779751683d110397df9e-1708457967-1708447167
 #EXTINF: -1 tvg-id="in_	zbanglacinema.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Zee_Bangla_Cinema_2012.jpg/revision/latest?cb=20180711080504" group-title="BANGLA", Zee Cinema Bangla 
-http://testing.denver1769.in/51.php?id=7642
+http://pgplex.net:8080/ZeeBanglaCinema/index.fmp4.m3u8?token=5fe0460e59685c11d4af04e3d41d799fff4c9c73-38f059609194779751683d110397df9e-1708457967-1708447167
 
 #EXTINF: -1 tvg-id="in_zeetvhdplus1.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1319.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV
 http://testing.denver1769.in/51.php?id=10578
