@@ -429,182 +429,63 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-#EXTM3U 
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="Music", B4U MUSIC INDIA HD
-http://testing.denver1769.in/51.php?id=7969
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="Music", MTV MUSIC_FHD
-http://testing.denver1769.in/51.php?id=10820
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/3885.jpg" group-title="BANGLA", ZEE BANGLA_4K
+#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/3885.jpg" group-title="BANGLA", ZEE BANGLA
 http://testing.denver1769.in/51.php?id=8078
-#EXTINF: -1 tvg-id="in_zeebangla.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1920.jpg" group-title="BANGLA", ZEE BANGLA 4K
+#EXTINF: -1 tvg-id="in_zeebangla.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1920.jpg" group-title="BANGLA", ZEE BANGLA
 http://testing.denver1769.in/51.php?id=7616
-#EXTINF: -1 tvg-id="in_starjalsha.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/3886.jpg" group-title="BANGLA", STAR JALSHA BANGLA 4K (S)
+#EXTINF: -1 tvg-id="in_starjalsha.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/3886.jpg" group-title="BANGLA", STAR JALSHA 
 http://testing.denver1769.in/51.php?id=11123
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5592.jpg" group-title="BANGLA", STAR  JAlSHA BANLA  HD (S)
+#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5592.jpg" group-title="BANGLA", STAR  JAlSHA BANLA  
 http://testing.denver1769.in/51.php?id=11433
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6380.png" group-title="BANGLA", AAKAASH BANGKA _HD
+#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6380.png" group-title="BANGLA", AKASH Aath
 http://testing.denver1769.in/51.php?id=11146
-#EXTINF: -1 tvg-id="in_colorsbangla.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/3884.jpg" group-title="BANGLA", COLORS BANGLA  _4K   (S)
+#EXTINF: -1 tvg-id="in_colorsbangla.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/3884.jpg" group-title="BANGLA", COLORS BANGLA 
 http://testing.denver1769.in/51.php?id=10932
-#EXTINF: -1 tvg-id="in_colorsbangla.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1855.jpg" group-title="BANGLA", COLORS BANGLA _4K   (S)
+#EXTINF: -1 tvg-id="in_colorsbangla.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1855.jpg" group-title="BANGLA", COLORS BANGLA 
 http://testing.denver1769.in/51.php?id=10933
-#EXTINF: -1 tvg-id="in_zeebanglacinema.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ZEE BANGLA Cinema_ FHD
+#EXTINF: -1 tvg-id="in_zeebanglacinema.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ZEE BANGLA Cinema 
 http://testing.denver1769.in/51.php?id=7842
 #EXTINF: -1 tvg-id="in_	zbanglacinema.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", Zee Cinema Bangla HD
 http://testing.denver1769.in/51.php?id=7642
-#EXTINF: -1 tvg-id="in_jalshamovies.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", STAR JALSHA MOVIES _4k
+#EXTINF: -1 tvg-id="in_jalshamovies.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", STAR JALSHA MOVIES
 http://testing.denver1769.in/51.php?id=10756
 #EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BANGLA ENTER 10 HD
 http://testing.denver1769.in/51.php?id=10698
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", REPUBLIC BANGLA  NEWS_HD
+#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", REPUBLIC BANGLA 
 http://testing.denver1769.in/51.php?id=10760
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", NEWS 18 BANGLA _FHD
+#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", NEWS 18 BANGLA 
 http://testing.denver1769.in/51.php?id=10758
 #EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", Calcutta News HD
 http://testing.denver1769.in/51.php?id=8655
-#EXTINF: -1 tvg-id="in_24ghante.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ZEE 24 GHANTA NEWS HD
+#EXTINF: -1 tvg-id="in_24ghante.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ZEE 24 GHANTA 
 http://testing.denver1769.in/51.php?id=5457
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD_SANGEET MUSIC HD
+#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", SANGEET Bangla
 http://testing.denver1769.in/51.php?id=7437
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", SONY 8 BANGLA HD
+#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", SONY Aath 
 http://testing.denver1769.in/51.php?id=6917
-#EXTINF: -1 tvg-id="in_abpananda.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ABP ANANDA HD
+#EXTINF: -1 tvg-id="in_abpananda.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ABP ANANDA 
 http://testing.denver1769.in/51.php?id=5686
 #EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", PEACE TV BANGLA HD
 http://testing.denver1769.in/51.php?id=3388
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", DBC NEWS HD
-http://testing.denver1769.in/51.php?id=6922
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ATN BANGLA HD (Bangla Time)
-http://testing.denver1769.in/51.php?id=8422
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ATN BANGLA  HD
-http://testing.denver1769.in/51.php?id=2771
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", ATN BANGLA NEWS HD
-http://testing.denver1769.in/51.php?id=5687
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", CHANNEL 9 SD
-http://testing.denver1769.in/51.php?id=6913
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD_BOISAKHI HD
-http://testing.denver1769.in/51.php?id=10903
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD_Ghazi TV HD
-http://testing.denver1769.in/51.php?id=6919
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD_NTV _FHD (Bangla Time)
-http://testing.denver1769.in/51.php?id=8413
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", NTV BANGLA HD
-http://testing.denver1769.in/51.php?id=10793
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD_CHANNEL I FHD_ (Bangla Time)
-http://testing.denver1769.in/51.php?id=8414
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD_ETV  18 NEWS FHD
-http://testing.denver1769.in/51.php?id=7385
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:DEEPTO TV HD
-http://testing.denver1769.in/51.php?id=8384
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:ASIAN TV HD
-http://testing.denver1769.in/51.php?id=8385
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD: VIJOY TV HD
-http://testing.denver1769.in/51.php?id=8388
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:RTV HD
-http://testing.denver1769.in/51.php?id=8389
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:MOHONA TV HD
-http://testing.denver1769.in/51.php?id=8390
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:Independent TV _4K (S)
-http://testing.denver1769.in/51.php?id=8391
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:MY TV HD
-http://testing.denver1769.in/51.php?id=8392
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:Ekattor tv HD
-http://testing.denver1769.in/51.php?id=8393
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:Jamuna tv HD
-http://testing.denver1769.in/51.php?id=8395
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:CHANNEL 24 HD
-http://testing.denver1769.in/51.php?id=8396
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:Gaan Bangla HD
-http://testing.denver1769.in/51.php?id=8397
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:BTV BD HD
-http://testing.denver1769.in/51.php?id=8399
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:Somoy news HD
-http://testing.denver1769.in/51.php?id=8400
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD:NEWS 24 HD
-http://testing.denver1769.in/51.php?id=8424
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD: DesheBideshe TV HD
-http://testing.denver1769.in/51.php?id=8425
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA", BD: SOMOY NEWS TV HD
-http://testing.denver1769.in/51.php?id=11013
-#EXTINF: -1 tvg-id="in_zeetvhdplus1.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1319.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV _4K  INDIA
+
+#EXTINF: -1 tvg-id="in_zeetvhdplus1.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1319.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV
 http://testing.denver1769.in/51.php?id=10578
-#EXTINF: -1 tvg-id="in_zeetvhdplus1.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4777.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV _HD INDIA  (J4U)
+#EXTINF: -1 tvg-id="in_zeetvhdplus1.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4777.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV
 http://testing.denver1769.in/51.php?id=10834
-#EXTINF: -1 tvg-id="uka_zeetv.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1211.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV UK _HD
+#EXTINF: -1 tvg-id="uka_zeetv.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1211.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV UK 
 http://testing.denver1769.in/51.php?id=7561
-#EXTINF: -1 tvg-id="ca_zeetv.ca" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2961.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV _HD  (Canada)
+#EXTINF: -1 tvg-id="ca_zeetv.ca" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2961.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV 
 http://testing.denver1769.in/51.php?id=10583
-#EXTINF: -1 tvg-id="ca_zeetv.ca" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5311.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV_ FHD (USA)
+#EXTINF: -1 tvg-id="ca_zeetv.ca" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5311.jpg" group-title="INDIAN  ENTERAINMENT", ZEE TV 
 http://testing.denver1769.in/51.php?id=9245
-#EXTINF: -1 tvg-id="in_colorshd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5581.png" group-title="INDIAN  ENTERAINMENT", COLORS _4K
+#EXTINF: -1 tvg-id="in_colorshd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5581.png" group-title="INDIAN  ENTERAINMENT", COLORS 
 http://testing.denver1769.in/51.php?id=10579
-#EXTINF: -1 tvg-id="in_colorshd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4348.png" group-title="INDIAN  ENTERAINMENT", COLORS _HD ( J4U)
+#EXTINF: -1 tvg-id="in_colorshd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4348.png" group-title="INDIAN  ENTERAINMENT", COLORS
 http://testing.denver1769.in/51.php?id=10743
-#EXTINF: -1 tvg-id="in_colorshd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1329.png" group-title="INDIAN  ENTERAINMENT", COLORS _ 4K
+#EXTINF: -1 tvg-id="in_colorshd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1329.png" group-title="INDIAN  ENTERAINMENT", COLORS
 http://testing.denver1769.in/51.php?id=10742
-#EXTINF: -1 tvg-id="uka_colors.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1321.jpg" group-title="INDIAN  ENTERAINMENT", COLORS _HD_ UK
+#EXTINF: -1 tvg-id="uka_colors.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1321.jpg" group-title="INDIAN  ENTERAINMENT", COLORS 
 http://testing.denver1769.in/51.php?id=7423
-#EXTINF: -1 tvg-id="ca_atncolors.ca" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1322.jpg" group-title="INDIAN  ENTERAINMENT", Aapka Colors _USA_ HD
-http://testing.denver1769.in/51.php?id=8135
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5859.jpg" group-title="INDIAN  ENTERAINMENT", COLORS RISHTEY TV_HD_UK
-http://testing.denver1769.in/51.php?id=9981
-#EXTINF: -1 tvg-id="in_sony.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6091.png" group-title="INDIAN  ENTERAINMENT", SONY TV _ 4K (S)
-http://testing.denver1769.in/51.php?id=10836
-#EXTINF: -1 tvg-id="in_sony.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/3298.png" group-title="INDIAN  ENTERAINMENT", SONY TV _HD (S)
-http://testing.denver1769.in/51.php?id=11191
-#EXTINF: -1 tvg-id="uka_sonytv.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1327.jpg" group-title="INDIAN  ENTERAINMENT", SONY TV _FHD UK
-http://testing.denver1769.in/51.php?id=7874
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="INDIAN  ENTERAINMENT", SONY TV UK HD (BACK UP)
-http://testing.denver1769.in/51.php?id=11185
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5312.jpg" group-title="INDIAN  ENTERAINMENT", SONY TV US_FHD
-http://testing.denver1769.in/51.php?id=9246
-#EXTINF: -1 tvg-id="in_sonypal.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4667.jpg" group-title="INDIAN  ENTERAINMENT", SONY PAL _HD
-http://testing.denver1769.in/51.php?id=10892
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5583.jpg" group-title="INDIAN  ENTERAINMENT", SONY SAB _4k
-http://testing.denver1769.in/51.php?id=10557
-#EXTINF: -1 tvg-id="in_sonysab.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1331.jpg" group-title="INDIAN  ENTERAINMENT", SONY SAB _FHD (J4U)
-http://testing.denver1769.in/51.php?id=10586
-#EXTINF: -1 tvg-id="in_starplus.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6087.jpg" group-title="INDIAN  ENTERAINMENT", STAR PLUS_4K (S)
-http://testing.denver1769.in/51.php?id=10975
-#EXTINF: -1 tvg-id="in_starplus.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4361.jpg" group-title="INDIAN  ENTERAINMENT", STAR PLUS_HD (J4U)
-http://testing.denver1769.in/51.php?id=8159
-#EXTINF: -1 tvg-id="uka_starplus.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2632.jpg" group-title="INDIAN  ENTERAINMENT", STAR PLUS UK
-http://testing.denver1769.in/51.php?id=9248
-#EXTINF: -1 tvg-id="in_andtvhd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/87.jpg" group-title="INDIAN  ENTERAINMENT", &TV _4K
-http://testing.denver1769.in/51.php?id=10589
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1334.jpg" group-title="INDIAN  ENTERAINMENT", &TV_HD
-http://testing.denver1769.in/51.php?id=7325
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5314.jpg" group-title="INDIAN  ENTERAINMENT", &TV UK_FHD
-http://testing.denver1769.in/51.php?id=11145
-#EXTINF: -1 tvg-id="in_starbharathd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1335.jpg" group-title="INDIAN  ENTERAINMENT", STAR BHARAT_4K
-http://testing.denver1769.in/51.php?id=11063
-#EXTINF: -1 tvg-id="in_starbharathd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/86.jpg" group-title="INDIAN  ENTERAINMENT", STAR BHARAT_ 4K (J4u)
-http://testing.denver1769.in/51.php?id=11064
-#EXTINF: -1 tvg-id="in_ddnational.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/85.jpg" group-title="INDIAN  ENTERAINMENT", DD NATIONAL _4K
-http://testing.denver1769.in/51.php?id=10587
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6239.jpg" group-title="INDIAN  ENTERAINMENT", MTV BEATS _4K
-http://testing.denver1769.in/51.php?id=10889
-#EXTINF: -1 tvg-id="in_mtv.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/896.jpg" group-title="INDIAN  ENTERAINMENT", MTV BEATS _HD
-http://testing.denver1769.in/51.php?id=10888
-#EXTINF: -1 tvg-id="in_mtv.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1251.jpg" group-title="INDIAN  ENTERAINMENT", MTV INDIA HD
-http://testing.denver1769.in/51.php?id=5432
-#EXTINF: -1 tvg-id="in_b4umusic.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1514.png" group-title="INDIAN  ENTERAINMENT", B4U MUSIC_HD
-http://testing.denver1769.in/51.php?id=5423
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2435.jpg" group-title="INDIAN  ENTERAINMENT", MASTII MUSIC HD
-http://testing.denver1769.in/51.php?id=8133
-#EXTINF: -1 tvg-id="uka_zing.uk" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1505.jpg" group-title="INDIAN  ENTERAINMENT", ZING_ HD
-http://testing.denver1769.in/51.php?id=5429
+
 #EXTINF: -1 tvg-id="in_zeeetcbollywood.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1509.jpg" group-title="INDIAN  ENTERAINMENT", IN : ZEE MUSIC  HD
 http://testing.denver1769.in/51.php?id=5426
-#EXTINF: -1 tvg-id="in_zoom.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1515.jpg" group-title="INDIAN  ENTERAINMENT", ZOOM INDIA _HD
-http://testing.denver1769.in/51.php?id=5424
-#EXTINF: -1 tvg-id="in_musicindia.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1506.jpg" group-title="INDIAN  ENTERAINMENT", BALLE BALLE HD
-http://testing.denver1769.in/51.php?id=4764
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1504.jpg" group-title="INDIAN  ENTERAINMENT", 9X M_HD
-http://testing.denver1769.in/51.php?id=5430
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1996.jpg" group-title="INDIAN  ENTERAINMENT", 9X_JALWA _HD
-http://testing.denver1769.in/51.php?id=11068
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1997.png" group-title="INDIAN  ENTERAINMENT", IN : 9X_TASHAN _HD
-http://testing.denver1769.in/51.php?id=7731
-#EXTINF: -1 tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2140.jpg" group-title="INDIAN KIDS", SONIC_HINDI HD
-http://testing.denver1769.in/51.php?id=7614
