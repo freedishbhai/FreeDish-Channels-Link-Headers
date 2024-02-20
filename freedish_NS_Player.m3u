@@ -240,6 +240,19 @@ http://mag.trexlive.me:80/Michael88/Michael88/155996
 
 #EXTINF: -1 tvg-id="UTVMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Star_Gold_Romance.png" group-title="INDIA", STAR GOLD ROMANCE
 http://mag.trexlive.me:80/Michael88/Michael88/156033
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="VOOT - DD FREE DISH",Sports18 1 HD [Voot]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="VOOT - DD FREE DISH",MTV HD Plus [Voot]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT - freedish",MTV Beats HD
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="VOOT - freedish",Nick [Voot ]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Nick_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/900709.png" group-title="VOOT - freedish",Nick HD Plus [Voot]
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="TVBOOKLIVE ",  Colors HD [VOOT] 
 
