@@ -379,6 +379,8 @@ http://mag.trexlive.me:80/Michael88/Michael88/280754
 #EXTINF: -1 tvg-id="NatGeoWild.in" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/nat-geo-wild-hd.gif" group-title="INDIA", NAT GEO WILD HD
 http://mag.trexlive.me:80/Michael88/Michael88/155989
 
+#EXTINF: -1 tvg-id="Pogo.in" tvg-logo="https://static-wikia-nocookie-net.translate.goog/logopedia/images/6/61/Hungama_TV_Logo.svg/revision/latest?cb=20211018041832&_x_tr_sl=en&_x_tr_tl=hi&_x_tr_hl=hi&_x_tr_pto=tc" group-title="INDIA", POGO 
+http://54.39.100.215/IN__KG/index.m3u8?token=923c84e1a7fcb067888ee78a9395fa50
 
 
 #EXTINF: -1 tvg-id="Pogo.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAd2AslBd1F_9KqY07mReYehzowG6YB85ilhde4Op7&s" group-title="INDIA", POGO 
