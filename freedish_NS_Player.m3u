@@ -81,13 +81,9 @@ http://mag.trexlive.me:80/Michael88/Michael88/155772
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="BENGALI/BANGLA", SUN BANGLA
 http://mag.trexlive.me:80/Michael88/Michael88/1112198
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Channel_8.jpeg/revision/latest?cb=20191219072148" group-title="BENGALI/BANGLA", SONY AATH
-http://mag.trexlive.me:80/Michael88/Michael88/1112197
-#EXTINF: -1 tvg-id="SangeetBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Sangeet_bangla.jpg/revision/latest?cb=20191217192449" group-title="BENGALI/BANGLA", SANGEET BANGLA
-http://mag.trexlive.me:80/Michael88/Michael88/155777
 
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png",T Sports HD 
 
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png",T Sports HD [Credit Sajib Bhai]
 https://api.bongohub.pw/apix/tsportsbds.php?m3u8=https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-name="BTV National" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png",  BTV National 
 https://uniflixbd.xyz/ottbanglas/live.php?id=1f8dba1d7e05&e=.m3u8 
