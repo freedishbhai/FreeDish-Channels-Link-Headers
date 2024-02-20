@@ -99,11 +99,11 @@ https://api.bongohub.pw/apix/tsportsbds.php?m3u8=https://live-cdn.tsports.com/li
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png",  Ekushey TV 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://cdn.ottbangla.com/uploads/tv_image/depto-tv.png",  Deepto TV 
+#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://cdn.ottbangla.com/uploads/tv_image/depto-tv.png",  Deepto 
 
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8 
 
-#EXTINF:-1 tvg-name="ARY Digital Asia HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg", ARY Digital 
+#EXTINF:-1 tvg-name="ARY Digital Asia HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg", ARY Digital HD
 http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuesDRY-nLsrvd1sy5UkOFabbBl7FJuIPuSQ&usqp=CAU", Abp Ananda 
