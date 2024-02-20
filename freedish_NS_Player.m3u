@@ -40,10 +40,19 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/
 https://epiconvh.s.llnwi.net/showbox/master.m3u8 
 
 #EXTINF: -1 tvg-id="Dangal.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4h8mqrkI.png" group-title="INDIA", DANGAL
-http://mag.trexlive.me:80/Michael88/Michael88/156049
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Enterr10.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Enterr10_logo.png/revision/latest?cb=20200831213148" group-title="INDIA", ENTERR 10
 http://mag.trexlive.me:80/Michael88/Michael88/280834
+
+#EXTINF: -1 tvg-id="Dangal.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4h8mqrkI.png" group-title="INDIA", DANGAL 2 
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF: -1 tvg-id="Dangal.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzcqedNL0VhjUxKedheZFFUBmxKklwS7CeA&usqp=CAU" group-title="INDIA", Nazara Channel 
+https://epiconvh.s.llnwi.net/nazara/master.m3u8
+#EXTINF: -1 tvg-id="Dangal.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest?cb=20171014201547" group-title="INDIA", Zing 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eKNhCAyD.png" group-title="INDIA", SHEMAROO Kids
 https://bdtubelive.xyz/shemaroo.m3u8?id=chumbak-tv
