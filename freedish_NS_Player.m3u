@@ -89,7 +89,10 @@ http://mag.trexlive.me:80/Michael88/Michael88/155780
 http://mag.trexlive.me:80/Michael88/Michael88/155772
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="BENGALI/BANGLA", SUN BANGLA
-http://mag.trexlive.me:80/Michael88/Michael88/1112198
+http://mag.trexlive.me:80/Michael88/Michael88/1112198 
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="BENGALI/BANGLA", SUN BANGLA
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png",T Sports HD [Credit Sajib Bhai]
