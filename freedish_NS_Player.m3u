@@ -172,8 +172,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/280767
 http://mag.trexlive.me:80/Michael88/Michael88/156173
 #EXTINF: -1 tvg-id="StarBharat.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UXQdlYE.png" group-title="INDIA", STAR BHARAT
 http://mag.trexlive.me:80/Michael88/Michael88/280765
-#EXTINF: -1 tvg-id="StarUtsav.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XQMx6uVj.png" group-title="INDIA", STAR UTSAV
-http://mag.trexlive.me:80/Michael88/Michael88/156163
+
 #EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cV57fNkg.png" group-title="INDIA", STAR UTSAV MOVIES
 http://mag.trexlive.me:80/Michael88/Michael88/1112131
 
@@ -182,10 +181,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/156161
 
 #EXTINF: -1 tvg-id="UTVAction.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="INDIA", STAR GOLD THRILLS
 http://mag.trexlive.me:80/Michael88/Michael88/155996
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="INDIA", STAR GOLD THRILLS
-http://mag.trexlive.me:80/Michael88/Michael88/1118072
-#EXTINF: -1 tvg-id="UTV.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="INDIA", STAR GOLD THRILLS
-http://mag.trexlive.me:80/Michael88/Michael88/156005
+
 #EXTINF: -1 tvg-id="UTVMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Star_Gold_Romance.png" group-title="INDIA", STAR GOLD ROMANCE
 http://mag.trexlive.me:80/Michael88/Michael88/156033
 
@@ -205,9 +201,9 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallbac
 
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 
-#EXTINF: -1 tvg-id="Cineplex.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" grohttp://logo.protv.cc/picons/logos/cineplexhd.jpgup-title="INDIA",  Colors CINEPLEX HD
+#EXTINF: -1 tvg-id="Cineplex.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" grohttp://logo.protv.cc/picons/logos/cineplexhd.jpgup-title="INDIA",  Colors Cineplex HD
 http://mag.trexlive.me:80/Michael88/Michael88/156003
-#EXTINF: -1 tvg-id="Cineplex.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="INDIA",  Colors CINEPLEX
+#EXTINF: -1 tvg-id="Cineplex.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="INDIA",  Colors Cineplex
 http://mag.trexlive.me:80/Michael88/Michael88/280749
 
 #EXTINF: -1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="INDIA", MTV BEATS FHD
