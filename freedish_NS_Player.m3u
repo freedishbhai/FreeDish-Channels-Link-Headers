@@ -72,7 +72,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/1118058
 #EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/AAKASH-BANGLA.png" group-title="BENGALI/BANGLA", Akash Aath 
 http://mag.trexlive.me:80/Michael88/Michael88/282065
 #EXTINF: -1 tvg-id="24Ghante.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/24_Ghanta.png/revision/latest?cb=20171123072749" group-title="BENGALI/BANGLA", 24 GHANTA
-http://mag.trexlive.me:80/Michael88/Michael88/155781
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 #EXTINF: -1 tvg-id="ABPAnanda.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ABP_Ananda.jpg/revision/latest?cb=20120724011213" group-title="BENGALI/BANGLA", ABP ANANDA
 http://mag.trexlive.me:80/Michael88/Michael88/155780
 
@@ -85,8 +85,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/1112198
 
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png",T Sports HD [Credit Sajib Bhai]
 https://api.bongohub.pw/apix/tsportsbds.php?m3u8=https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 tvg-name="BTV National" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png",  BTV National 
-https://uniflixbd.xyz/ottbanglas/live.php?id=1f8dba1d7e05&e=.m3u8 
+
 
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png",  Ekushey TV 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -96,6 +95,15 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8 
 
 #EXTINF:-1 tvg-name="ARY Digital Asia HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg", ARY Digital 
+http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuesDRY-nLsrvd1sy5UkOFabbBl7FJuIPuSQ&usqp=CAU", Abp Ananda 
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8 
+
+#EXTNIF:-1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/9/92/Kolkata_TV.svg/revision/latest?cb=20200609063455", Kolkata 
+
+https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
+
 
 
 
