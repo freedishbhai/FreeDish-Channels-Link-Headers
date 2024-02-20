@@ -288,6 +288,8 @@ https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/master.m3u8#De
 
 #EXTINF: -1 tvg-id="258" tvg-name="NDTV India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News", NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF: -1 tvg-id="Pogo.in" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.gif" group-title="INDIA", Hungama Kids 
+http://testing.denver1769.in/51.php?id=7613
 
 
 
@@ -365,10 +367,6 @@ http://mag.trexlive.me:80/Michael88/Michael88/1057243
 http://mag.trexlive.me:80/Michael88/Michael88/281100
 #EXTINF: -1 tvg-id="DDSports.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6_4B_tXPGZdbZfrONNNLsRprCiUEmb3Kbw&usqp=CAU" grouhttp://logo.protv.cc/picons/logos/ddsports.jpgp-title="SPORTS", DD SPORTS
 http://mag.trexlive.me:80/Michael88/Michael88/155983
-
-#EXTINF: -1 tvg-id="Pogo.in" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.gif" group-title="INDIA", Hungama Kids 
-http://testing.denver1769.in/51.php?id=7613
-
 
 #EXTINF: -1 tvg-id="StarSports1.in" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="SPORTS", STAR SPORTS 1  HD
 http://mag.trexlive.me:80/Michael88/Michael88/155968
