@@ -19,11 +19,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 
 #EXTINF: -1 tvg-id="B4UMovies.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="INDIA EU", B4U MOVIES
-http://mag.trexlive.me:80/Michael88/Michael88/42443
+https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF: -1 tvg-id="B4UMusic.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/B4U_MUSIC_2014.png/revision/latest?cb=20190708072015" group-title="INDIA EU", B4U MUSIC
 
 #EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zdkmQbLP.png" group-title="INDIA", B4U KADAK
-http://mag.trexlive.me:80/Michael88/Michael88/280798
+https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
  
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png/revision/latest?cb=20230126170355" group-title="INDIA", GOLDMINES 
@@ -45,14 +45,11 @@ http://mag.trexlive.me:80/Michael88/Michael88/156049
 #EXTINF: -1 tvg-id="Enterr10.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Enterr10_logo.png/revision/latest?cb=20200831213148" group-title="INDIA", ENTERR 10
 http://mag.trexlive.me:80/Michael88/Michael88/280834
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Maha_Movie.jpeg/revision/latest?cb=20191229193638" group-title="INDIA", MAHA MOVIES
-http://mag.trexlive.me:80/Michael88/Michael88/155986
-
-#EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eKNhCAyD.png" group-title="INDIA", SHEMAROO TV
-http://mag.trexlive.me:80/Michael88/Michael88/280897
+#EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eKNhCAyD.png" group-title="INDIA", SHEMAROO Kids
+https://bdtubelive.xyz/shemaroo.m3u8?id=chumbak-tv
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Manoranjan_TV.jpeg/revision/latest?cb=20200103190536" group-title="INDIA", MANORANJAN
-http://mag.trexlive.me:80/Michael88/Michael88/280860 
+https://idvd.multitvsolution.com/idvo/manoranjantv.m3u8 
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Kb5EFnUjY3TGUB49ijNZ8kepTG8jE-XHJg&usqp=CAU" , The Novie Club 
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
