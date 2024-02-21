@@ -97,11 +97,6 @@ http://mag.trexlive.me:80/Michael88/Michael88/1112198
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="BENGALI/BANGLA", Sun  Bangla  Cinema 
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
-
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png",T Sports HD [Credit Sajib Bhai]
-https://api.bongohub.pw/apix/tsportsbds.php?m3u8=https://live-cdn.tsports.com/live-02/index.m3u8
-
-
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png",  Ekushey TV 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
