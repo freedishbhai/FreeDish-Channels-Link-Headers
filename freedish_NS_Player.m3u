@@ -66,6 +66,10 @@ https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg/revision/latest?cb=20200114073641",TV9 Bharatvarsh 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrjgX9QSMMttxi4hBCCorUDKXLxjFRkcFKQ&usqp=CAU", Peace TV
+
+http://82.114.67.178:8081/hls/PeaceTV.m3u8 
+
 
 #EXTINF: -1 tvg-id="ZeeBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Zee_Bangla_HD_2016.jpg/revision/latest?cb=20190707171603" http://logo.protv.cc/picons/logos/ZEE-BANGLA-HD.jpeggroup-title="BENGALI/BANGLA", ZEE BANGLA HD 
 http://mag.trexlive.me:80/Michael88/Michael88/155774
