@@ -210,3 +210,37 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLIV - TVBOOKLIVE",Sony BBC Earth HD
 
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN" ,IN: Sony Sab FHD
+http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2e77ad4.png" group-title="INDIAN" ,IN: Sony Sab FHD.
+http://195.26.87.217/live.ts?channelId=260&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN" ,IN: Sony Sab HD UK
+http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD
+http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD.
+http://195.26.87.217/live.ts?channelId=12356&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD UK
+http://195.26.87.217/live.ts?channelId=194&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png" group-title="INDIAN" ,IN: Sony Wah FHD
+http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png" group-title="INDIAN" ,IN: Star Bharat FHD
+http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
+in.com/panel/imageicon/4833657.png" group-title="INDIAN" ,IN: Star Plus FHD.
+http://195.26.87.217/live.ts?channelId=12357&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png" group-title="INDIAN" ,IN: Star Plus FHD UK
+http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Utsav" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d6ddb63.png" group-title="INDIAN" ,IN: Star Utsav
+http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="BD: TV ONE UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1726717.png" group-title="BENGALI" ,BD: TV ONE UK
+http://195.26.87.217/live.ts?channelId=44164&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="BD: VARENDRA TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/32cc48b.png" group-title="BENGALI" ,BD: VARENDRA TV FHD
+http://195.26.87.217/live.ts?channelId=90305&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="BD: VOICE TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f681c8e.png" group-title="BENGALI" ,BD: VOICE TV FHD
+http://195.26.87.217/live.ts?channelId=90306&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="BD: ZEE 24 GHANTA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/671d049.png" group-title="BENGALI" ,BD: ZEE 24 GHANTA
+http://195.26.87.217/live.ts?channelId=78&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="BD: ZEE BANGLA CINEMA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/eee0e0e.png" group-title="BENGALI" ,BD: ZEE BANGLA CINEMA
+http://195.26.87.217/live.ts?channelId=119&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="BD: ZEE BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8067afa.png" group-title="BENGALI" ,BD: ZEE BANGLA FHD
+http://195.26.87.217/live.ts?channelId=120&uid=7435&deviceMac=00:1A:79:51:4B:3A
