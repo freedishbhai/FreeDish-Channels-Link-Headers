@@ -236,17 +236,17 @@ http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF: -1 tvg-id="DesiChannel.in" tvg-logo="https://i.ibb.co/GkNXcLX/logo.png" group-title="Entertainment", Desi Channel (720p)
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF: -1 tvg-name="TVBOOKLIVE: AAKASH AATH BANGLA" tvg-logo="http://ujm.from-in.com/panel/imageicon/0b3825e.png" group-title="BENGALI", TVBOOKLIVE: AAKASH AATH BANGLA
+#EXTINF: -1 tvg-name=": AAKASH AATH BANGLA" tvg-logo="http://ujm.from-in.com/panel/imageicon/0b3825e.png" group-title="BENGALI", TVBOOKLIVE: AAKASH AATH BANGLA
 http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="TVBOOKLIVE: AAMAR CINEMA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a3ba2a4.png" group-title="BENGALI", TVBOOKLIVE: AAMAR CINEMA
+#EXTINF: -1 tvg-name=": AAMAR CINEMA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a3ba2a4.png" group-title="BENGALI", TVBOOKLIVE: AAMAR CINEMA
 http://195.26.87.217/live.ts?channelId=44163&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="TVBOOKLIVE: ABP ANANDA FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", TVBOOKLIVE: ABP ANANDA FHD
+#EXTINF: -1 tvg-name=": ABP ANANDA FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", TVBOOKLIVE: ABP ANANDA FHD
 http://195.26.87.217/live.ts?channelId=40480&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="TVBOOKLIVE: ABP ANANDA INTERNATIONAL FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", TVBOOKLIVE: ABP ANANDA INTERNATIONAL FHD
+#EXTINF: -1 tvg-name=": ABP ANANDA INTERNATIONAL FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", TVBOOKLIVE: ABP ANANDA INTERNATIONAL FHD
 http://195.26.87.217/live.ts?channelId=44160&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="TVBOOKLIVE: ANANDA TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/8855a16.png" group-title="BENGALI", TVBOOKLIVE: ANANDA TV FHD
+#EXTINF: -1 tvg-name=": ANANDA TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/8855a16.png" group-title="BENGALI", TVBOOKLIVE: ANANDA TV FHD
 http://195.26.87.217/live.ts?channelId=90255&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="TVBOOKLIVE: ASIAN TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/9a53b71.png" group-title="BENGALI", TVBOOKLIVE: ASIAN TV FHD
+#EXTINF: -1 tvg-name=": ASIAN TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/9a53b71.png" group-title="BENGALI", TVBOOKLIVE: ASIAN TV FHD
 http://195.26.87.217/live.ts?channelId=80&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="TVBOOKLIVE: ATN BANGLA FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/9370f9a.png" group-title="BENGALI", TVBOOKLIVE: ATN BANGLA FHD
 http://195.26.87.217/live.ts?channelId=81&uid=7435&deviceMac=00:1A:79:51:4B:3A
