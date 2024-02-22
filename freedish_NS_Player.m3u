@@ -425,16 +425,10 @@ http://195.26.87.217/live.ts?channelId=38625&uid=7435&deviceMac=00:1A:79:51:4B:3
 http://195.26.87.217/live.ts?channelId=40476&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="KID: Sony YAY!" tvg-logo="http://ujm.from-in.com/panel/imageicon/065352c.png" group-title="KIDS", KID: Sony YAY!
 http://195.26.87.217/live.ts?channelId=78849&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="KID: TeleToon" tvg-logo="http://ujm.from-in.com/panel/imageicon/88d83eb.png" group-title="KIDS", KID: TeleToon
-http://195.26.87.217/live.ts?channelId=72428&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="KID: Tiny Pop" tvg-logo="http://ujm.from-in.com/imageicon/5d74c008" group-title="KIDS", KID: Tiny Pop
-http://195.26.87.217/live.ts?channelId=259&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="KID: Treehouse TV" tvg-logo="http://ujm.from-in.com/panel/imageicon/016dcb7.png" group-title="KIDS", KID: Treehouse TV
-http://195.26.87.217/live.ts?channelId=102888&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 #EXTINF: -1 tvg-name="KID: WOW KID" tvg-logo="http://tv.cloudcdn.me/images/af1466fbx.png" group-title="KIDS", KID: WOW KID
 http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="Netflix Disney" group-title="KIDS", Netflix Disney
-http://195.26.87.217/live.ts?channelId=46036&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 #EXTINF: -1 tvg-name="SP: A SPORTS FHD" tvg-logo="http://tv.cloudcdn.me/images/de06576.png" group-title="SPORTS", SP: A SPORTS FHD
 http://195.26.87.217/live.ts?channelId=12217&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="SP: Astro Cricket" tvg-logo="http://tv.cloudcdn.me/images/31821ce.png" group-title="SPORTS", SP: Astro Cricket
@@ -463,50 +457,18 @@ http://195.26.87.217/live.ts?channelId=268&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=269&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="SP: BT Sports 4 FHD" tvg-logo="http://tv.cloudcdn.me/images/0570894.png" group-title="SPORTS", SP: BT Sports 4 FHD
 http://195.26.87.217/live.ts?channelId=270&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: DAZN 1 DE FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/cb170b7.png" group-title="SPORTS", SP: DAZN 1 DE FHD
-http://195.26.87.217/live.ts?channelId=125424&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: DAZN 2 DE FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/89a0a.png" group-title="SPORTS", SP: DAZN 2 DE FHD
-http://195.26.87.217/live.ts?channelId=125425&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 #EXTINF: -1 tvg-name="SP: DD Sports" tvg-logo="http://ujm.from-in.com/panel/imageicon/76354ae.png" group-title="SPORTS", SP: DD Sports
 http://195.26.87.217/live.ts?channelId=74567&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: ESPN US 1 FHD" tvg-logo="http://ujm.from-in.com/imageicon/6f51588c" group-title="SPORTS", SP: ESPN US 1 FHD
-http://195.26.87.217/live.ts?channelId=271&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 #EXTINF: -1 tvg-name="SP: EUROSPORT 1 FHD" tvg-logo="http://ujm.from-in.com/imageicon/2a67b6" group-title="SPORTS", SP: EUROSPORT 1 FHD
 http://195.26.87.217/live.ts?channelId=272&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="SP: EUROSPORT 2 FHD" tvg-logo="http://ujm.from-in.com/imageicon/37bb7740" group-title="SPORTS", SP: EUROSPORT 2 FHD
 http://195.26.87.217/live.ts?channelId=273&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: FIGHT BOX FHD" tvg-logo="http://tv.cloudcdn.me/images/fightbox.png" group-title="SPORTS", SP: FIGHT BOX FHD
-http://195.26.87.217/live.ts?channelId=125426&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: Flow Sports" tvg-logo="http://ujm.from-in.com/panel/imageicon/919df.png" group-title="SPORTS", SP: Flow Sports
-http://195.26.87.217/live.ts?channelId=105348&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: Fox Sports 501 Cricket FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/fdb00f7.png" group-title="SPORTS", SP: Fox Sports 501 Cricket FHD
-http://195.26.87.217/live.ts?channelId=36128&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: WORLD CUP AD FREE" tvg-logo="http://tv.cloudcdn.online/images/iccworldcup.png" group-title="SPORTS", SP: WORLD CUP AD FREE
-http://195.26.87.217/live.ts?channelId=78845&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: FS1 FHD" tvg-logo="http://tv.cloudcdn.me/images/bb98eda.png" group-title="SPORTS", SP: FS1 FHD
-http://195.26.87.217/live.ts?channelId=102480&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 #EXTINF: -1 tvg-name="SP: Geo Super FHD" tvg-logo="http://ujm.from-in.com/imageicon/14f64b64" group-title="SPORTS", SP: Geo Super FHD
 http://195.26.87.217/live.ts?channelId=274&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: Jio Cricket English FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/0ddc256.png" group-title="SPORTS", SP: Jio Cricket English FHD
-http://195.26.87.217/live.ts?channelId=294&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: LIVE CRICKET FHD" tvg-logo="http://tv.cloudcdn.me/images/55c4fd3.png" group-title="SPORTS", SP: LIVE CRICKET FHD
-http://195.26.87.217/live.ts?channelId=102423&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: LIVE CRICKET FHD." tvg-logo="http://tv.cloudcdn.me/images/55c4fd3.png" group-title="SPORTS", SP: LIVE CRICKET FHD.
-http://195.26.87.217/live.ts?channelId=87939&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: Live Kabaddi" tvg-logo="http://ujm.from-in.com/imageicon/76e10fc7.jpg" group-title="SPORTS", SP: Live Kabaddi
-http://195.26.87.217/live.ts?channelId=276&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: LIVE MATCH" tvg-logo="http://tv.cloudcdn.me/images/ad3402b.png" group-title="SPORTS", SP: LIVE MATCH
-http://195.26.87.217/live.ts?channelId=104607&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: MUTV FHD" tvg-logo="http://tv.cloudcdn.me/images/mutv.png" group-title="SPORTS", SP: MUTV FHD
-http://195.26.87.217/live.ts?channelId=125434&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: NBC GOLF FHD" tvg-logo="http://ujm.from-in.com/imageicon/b5bc5c2f.jpg" group-title="SPORTS", SP: NBC GOLF FHD
-http://195.26.87.217/live.ts?channelId=341&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: One Golf TV" tvg-logo="http://ujm.from-in.com/imageicon/48c39d29.jpg" group-title="SPORTS", SP: One Golf TV
-http://195.26.87.217/live.ts?channelId=33163&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: PREMIER SPORTS 1 FHD" tvg-logo="http://tv.cloudcdn.me/images/premiersports1.png" group-title="SPORTS", SP: PREMIER SPORTS 1 FHD
-http://195.26.87.217/live.ts?channelId=91158&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: PREMIER SPORTS 2 FHD" tvg-logo="http://tv.cloudcdn.me/images/premiersports2.png" group-title="SPORTS", SP: PREMIER SPORTS 2 FHD
-http://195.26.87.217/live.ts?channelId=91159&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 #EXTINF: -1 tvg-name="SP: PTV Sports FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="SPORTS", SP: PTV Sports FHD
 http://195.26.87.217/live.ts?channelId=278&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="SP: PTV Sports FHD." tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="SPORTS", SP: PTV Sports FHD.
@@ -561,10 +523,7 @@ http://195.26.87.217/live.ts?channelId=49566&uid=7435&deviceMac=00:1A:79:51:4B:3
 http://195.26.87.217/live.ts?channelId=295&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="SP: Star Sports 1 Hindi." tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="SPORTS", SP: Star Sports 1 Hindi.
 http://195.26.87.217/live.ts?channelId=49569&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: Star Sports 1 Tamil FHD" tvg-logo="http://tv.cloudcdn.me/images/starsports1tamil.png" group-title="SPORTS", SP: Star Sports 1 Tamil FHD
-http://195.26.87.217/live.ts?channelId=275&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="SP: Star Sports 1 Telugu HD" tvg-logo="http://tv.cloudcdn.me/images/starsports1telugu.png" group-title="SPORTS", SP: Star Sports 1 Telugu HD
-http://195.26.87.217/live.ts?channelId=288&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 #EXTINF: -1 tvg-name="SP: Star Sports 2 HD" tvg-logo="http://ujm.from-in.com/imageicon/cc77312d" group-title="SPORTS", SP: Star Sports 2 HD
 http://195.26.87.217/live.ts?channelId=298&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="SP: Star Sports 2 HD." tvg-logo="http://ujm.from-in.com/imageicon/cc77312d" group-title="SPORTS", SP: Star Sports 2 HD.
