@@ -183,35 +183,17 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Star_Movies_HD_India.png/revision/latest?cb=20110928174318" group-title="TVBOOKLIVE ",  Star Movies HD 
 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+Movies Select FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/58a7cb9.png" group-title="INDIAN" ,IN: Star Movies Select FHD
+http://195.26.87.217/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f6bcb3a.png" group-title="INDIAN" ,IN: Star Plus FHD
+http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4833657.png" group-title="INDIAN" ,IN: Star Plus FHD.
+http://195.26.87.217/live.ts?channelId=12357&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png" group-title="INDIAN" ,IN: Star Plus FHD UK
+http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Utsav" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d6ddb63.png" group-title="INDIAN" ,IN: Star Utsav
+http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF: -1 tvg-id="StarGold.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest/scale-to-width-down/250?cb=20110929114319" group-title="INDIA", STAR GOLD
-http://mag.trexlive.me:80/Michael88/Michael88/280766
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1376px-Star_Gold_2.svg.png" group-title="INDIA", STAR GOLD 2
-http://mag.trexlive.me:80/Michael88/Michael88/1112132
-#EXTINF: -1 tvg-id="StarGoldSelect.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iwxMxXyV.png" group-title="INDIA", STAR GOLD SELECT HD
-http://mag.trexlive.me:80/Michael88/Michael88/155970
-#EXTINF: -1 tvg-id="StarGoldSelect.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iwxMxXyV.png" group-title="INDIA", STARGOLD SELECT
-http://mag.trexlive.me:80/Michael88/Michael88/280778
-#EXTINF: -1 tvg-id="StarPlus.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BgWI5SWG.png" group-title="INDIA", STAR PLUS HD
-http://mag.trexlive.me:80/Michael88/Michael88/155971
-#EXTINF: -1 tvg-id="StarPlus.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BgWI5SWG.png" group-title="INDIA", STAR PLUS
-http://mag.trexlive.me:80/Michael88/Michael88/280767
-#EXTINF: -1 tvg-id="StarBharat.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UXQdlYE.png" group-title="INDIA", STAR BHARAT HD
-http://mag.trexlive.me:80/Michael88/Michael88/156173
-#EXTINF: -1 tvg-id="StarBharat.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UXQdlYE.png" group-title="INDIA", STAR BHARAT
-http://mag.trexlive.me:80/Michael88/Michael88/280765
-
-#EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cV57fNkg.png" group-title="INDIA", STAR UTSAV MOVIES
-http://mag.trexlive.me:80/Michael88/Michael88/1112131
-
-#EXTINF: -1 tvg-id="Zoom.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rjKh2jqQ.png" group-title="INDIA", ZOOM Music 
-http://mag.trexlive.me:80/Michael88/Michael88/156161
-
-#EXTINF: -1 tvg-id="UTVAction.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" group-title="INDIA", STAR GOLD THRILLS
-http://mag.trexlive.me:80/Michael88/Michael88/155996
-
-#EXTINF: -1 tvg-id="UTVMovies.in" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Star_Gold_Romance.png" group-title="INDIA", STAR GOLD ROMANCE
-http://mag.trexlive.me:80/Michael88/Michael88/156033
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="VOOT - DD FREE DISH",Sports18 1 HD [Voot]
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
