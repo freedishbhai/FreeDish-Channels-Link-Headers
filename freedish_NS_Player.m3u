@@ -232,14 +232,6 @@ http://195.26.87.217/live.ts?channelId=12357&uid=7435&deviceMac=00:1A:79:51:4B:3
 http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Utsav" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d6ddb63.png" group-title="INDIAN" ,IN: Star Utsav
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: TV ONE UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1726717.png" group-title="BENGALI" ,BD: TV ONE UK
-http://195.26.87.217/live.ts?channelId=44164&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: VARENDRA TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/32cc48b.png" group-title="BENGALI" ,BD: VARENDRA TV FHD
-http://195.26.87.217/live.ts?channelId=90305&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: VOICE TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f681c8e.png" group-title="BENGALI" ,BD: VOICE TV FHD
-http://195.26.87.217/live.ts?channelId=90306&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ZEE 24 GHANTA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/671d049.png" group-title="BENGALI" ,BD: ZEE 24 GHANTA
-http://195.26.87.217/live.ts?channelId=78&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="BD: ZEE BANGLA CINEMA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/eee0e0e.png" group-title="BENGALI" ,BD: ZEE BANGLA CINEMA
 http://195.26.87.217/live.ts?channelId=119&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="BD: ZEE BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8067afa.png" group-title="BENGALI" ,BD: ZEE BANGLA FHD
