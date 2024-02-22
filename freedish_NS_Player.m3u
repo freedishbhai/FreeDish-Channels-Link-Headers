@@ -419,63 +419,16 @@ http://195.26.87.217/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="IN: Star Plus FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/f6bcb3a.png" group-title="INDIAN", IN: Star Plus FHD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Star Plus FHD." tvg-logo="http://ujm.from-in.com/panel/imageicon/4833657.png" group-title="INDIAN", IN: Star Plus FHD.
-http://195.26.87.217/live.ts?channelId=12357&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Star Plus FHD UK" tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png" group-title="INDIAN", IN: Star Plus FHD UK
-http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Star Utsav" tvg-logo="http://ujm.from-in.com/panel/imageicon/d6ddb63.png" group-title="INDIAN", IN: Star Utsav
-http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Swar Shree" tvg-logo="http://ujm.from-in.com/panel/imageicon/b4c4bfd.png" group-title="INDIAN", IN: Swar Shree
-http://195.26.87.217/live.ts?channelId=61658&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Times Now FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/e83cabf.png" group-title="INDIAN", IN: Times Now FHD
-http://195.26.87.217/live.ts?channelId=204&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: TLC World HD" tvg-logo="http://ujm.from-in.com/panel/imageicon/1098de6.png" group-title="INDIAN", IN: TLC World HD
-http://195.26.87.217/live.ts?channelId=205&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: TV NRI" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b43b7a.png" group-title="INDIAN", IN: TV NRI
-http://195.26.87.217/live.ts?channelId=33136&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: WION NEWS FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/bec6fb2.png" group-title="INDIAN", IN: WION NEWS FHD
-http://195.26.87.217/live.ts?channelId=85499&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Action" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f10964.png" group-title="INDIAN", IN: Zee Action
-http://195.26.87.217/live.ts?channelId=207&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Anmol" tvg-logo="http://ujm.from-in.com/panel/imageicon/75016fe.png" group-title="INDIAN", IN: Zee Anmol
-http://195.26.87.217/live.ts?channelId=208&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Anmol Cinema" tvg-logo="http://ujm.from-in.com/panel/imageicon/86b8496.png" group-title="INDIAN", IN: Zee Anmol Cinema
-http://195.26.87.217/live.ts?channelId=209&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Bollywood" tvg-logo="http://ujm.from-in.com/panel/imageicon/597c1ee.png" group-title="INDIAN", IN: Zee Bollywood
-http://195.26.87.217/live.ts?channelId=210&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Business" tvg-logo="http://ujm.from-in.com/panel/imageicon/f37e353.png" group-title="INDIAN", IN: Zee Business
-http://195.26.87.217/live.ts?channelId=211&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Café FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/47ceb8d.png" group-title="INDIAN", IN: Zee Café FHD
-http://195.26.87.217/live.ts?channelId=212&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Cinema FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="INDIAN", IN: Zee Cinema FHD
-http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Cinema HD." tvg-logo="http://ujm.from-in.com/panel/imageicon/c466520.png" group-title="INDIAN", IN: Zee Cinema HD.
-http://195.26.87.217/live.ts?channelId=12359&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Cinema UK" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN", IN: Zee Cinema UK
-http://195.26.87.217/live.ts?channelId=214&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Classic" tvg-logo="http://ujm.from-in.com/panel/imageicon/187b8c7.png" group-title="INDIAN", IN: Zee Classic
-http://195.26.87.217/live.ts?channelId=43379&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee Hindustan" tvg-logo="http://ujm.from-in.com/panel/imageicon/a940f8d.png" group-title="INDIAN", IN: Zee Hindustan
-http://195.26.87.217/live.ts?channelId=25528&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee News" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ece589.png" group-title="INDIAN", IN: Zee News
-http://195.26.87.217/live.ts?channelId=216&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee TV FHD UK" tvg-logo="http://ujm.from-in.com/panel/imageicon/f0673bc.png" group-title="INDIAN", IN: Zee TV FHD UK
-http://195.26.87.217/live.ts?channelId=218&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/550c14d.png" group-title="INDIAN", IN: Zee TV FHD
-http://195.26.87.217/live.ts?channelId=217&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zee TV FHD." tvg-logo="http://ujm.from-in.com/panel/imageicon/6248328.png" group-title="INDIAN", IN: Zee TV FHD.
-http://195.26.87.217/live.ts?channelId=12301&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="IN: Zing TV" tvg-logo="http://ujm.from-in.com/panel/imageicon/d8b8382.png" group-title="INDIAN", IN: Zing TV
-http://195.26.87.217/live.ts?channelId=219&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="BD: AAKASH AATH BANGLA" tvg-logo="http://ujm.from-in.com/panel/imageicon/0b3825e.png" group-title="BENGALI", BD: AAKASH AATH BANGLA
+
+#EXTINF: -1 tvg-name=": AAKASH AATH " tvg-logo="http://ujm.from-in.com/panel/imageicon/0b3825e.png" group-title="BENGALI", BD: AAKASH AATH BANGLA
 http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="BD: AAMAR CINEMA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a3ba2a4.png" group-title="BENGALI", BD: AAMAR CINEMA
+#EXTINF: -1 tvg-name=": AAMAR CINEMA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a3ba2a4.png" group-title="BENGALI", BD: AAMAR CINEMA
 http://195.26.87.217/live.ts?channelId=44163&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="BD: ABP ANANDA FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", BD: ABP ANANDA FHD
+#EXTINF: -1 tvg-name=": ABP ANANDA FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", BD: ABP ANANDA FHD
 http://195.26.87.217/live.ts?channelId=40480&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="BD: ABP ANANDA INTERNATIONAL FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", BD: ABP ANANDA INTERNATIONAL FHD
+#EXTINF: -1 tvg-name=": ABP ANANDA INTERNATIONAL FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", BD: ABP ANANDA INTERNATIONAL FHD
 http://195.26.87.217/live.ts?channelId=44160&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name="BD: ANANDA TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/8855a16.png" group-title="BENGALI", BD: ANANDA TV FHD
+#EXTINF: -1 tvg-name=": ANANDA TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/8855a16.png" group-title="BENGALI", BD: ANANDA TV FHD
 http://195.26.87.217/live.ts?channelId=90255&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="BD: ASIAN TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/9a53b71.png" group-title="BENGALI", BD: ASIAN TV FHD
 http://195.26.87.217/live.ts?channelId=80&uid=7435&deviceMac=00:1A:79:51:4B:3A
