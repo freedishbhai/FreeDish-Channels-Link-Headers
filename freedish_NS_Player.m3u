@@ -115,45 +115,27 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 
+title="INDIAN" ,IN: Sony Sab FHD.
+http://195.26.87.217/live.ts?channelId=260&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN" ,IN: Sony Sab HD UK
+http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD
+http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD.
+http://195.26.87.217/live.ts?channelId=12356&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD UK
+http://195.26.87.217/live.ts?channelId=194&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png" group-title="INDIAN" ,IN: Sony Wah FHD
+http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png" group-title="INDIAN" ,IN: Star Bharat FHD
+http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4b1400a.png" group-title="INDIAN" ,IN: Star Bharat FHD UK
+http://195.26.87.217/live.ts?channelId=305&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold 2 FHD
+http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold FHD
+http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-
-#EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqI6vOVaqZPzrNF7px8Sv1inUEg-tOGJ8uD_be9GzBw&s" group-title="SonyLIV - DDFREEEDISH",SET HD
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009246&e=.m3u8 
-
-#EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/998px-Sony_SAB.svg.png" group-title="SonyLIV - DDFREEEDISH",Sony SAB HD
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009248&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009273" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmiwJy7-mtVLeMElMtDN8HkTy2E7BCPydZQ&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony PAL
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009273&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="SonyLIV - DDFREEEDISH",Sony YAY
-
-https://cdn-tv.co.in/myweb/watch.php?id=100000971&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwMimv_wMXC5rMynSsHuDG7EZ2sE6IcoABJvmvK1W2g&s" group-title="SonyLIV - DDFREEEDISH",Sony AATH
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009255&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkosazvi10qDAuTe1daTuIjUWneOtQDh85BOSCwZcxg&s" group-title="SonyLIV - DDFREEEDISH",Sony MAX HD
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009247&e=.m3u8
-
-
-#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2TazB9MuZECamSWZ02D-f47aIz889JjlxA&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony WAH
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009253&e=.m3u8
-
-#EXTINF:-1 tvg-id="sony1000044878" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SonyLIV - DDFREEEDISH",Sony MAX2
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
-
-
-#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="SonyLIV - DDFREEEDISH",Sony BBC Earth HD 
-
-https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
 
 
 
