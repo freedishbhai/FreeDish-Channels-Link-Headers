@@ -104,6 +104,12 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title=" - DD FREE DISH", Star Bharat 
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67231
+
+
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="VOOT - DD FREE DISH",Sports18 1 HD [Voot]
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
