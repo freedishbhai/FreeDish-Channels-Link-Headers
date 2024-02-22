@@ -214,3 +214,49 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF: -1 tvg-name="SP: T Sports FHD" tvg-logo="http://tv.cloudcdn.me/images/tsports.png" group-title="SPORTS",  T Sports FHD
 http://195.26.87.217/live.ts?channelId=48010&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
+#EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqI6vOVaqZPzrNF7px8Sv1inUEg-tOGJ8uD_be9GzBw&s" group-title="SonyLIV - DDFREEEDISH",SET HD
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000009246&e=.m3u8 
+
+#EXTINF:-1 tvg-id="sony1000009248" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/998px-Sony_SAB.svg.png" group-title="SonyLIV - DDFREEEDISH",Sony SAB HD
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000009248&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009273" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmiwJy7-mtVLeMElMtDN8HkTy2E7BCPydZQ&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony PAL
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000009273&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="SonyLIV - DDFREEEDISH",Sony YAY
+
+https://cdn-tv.co.in/sliv/watch.php?id=100000971&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwMimv_wMXC5rMynSsHuDG7EZ2sE6IcoABJvmvK1W2g&s" group-title="SonyLIV - DDFREEEDISH",Sony AATH
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000009255&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkosazvi10qDAuTe1daTuIjUWneOtQDh85BOSCwZcxg&s" group-title="SonyLIV - DDFREEEDISH",Sony MAX HD
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000009247&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2TazB9MuZECamSWZ02D-f47aIz889JjlxA&usqp=CAU" group-title="SonyLIV - DDFREEEDISH",Sony WAH
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000009253&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000044878" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SonyLIV - DDFREEEDISH",Sony MAX2
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000044878&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="sony1000009252" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="SonyLIV - DDFREEEDISH",Sony BBC Earth HD 
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000009252&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="SonyLIV - DDFREEEDISH",Sony TEN 1
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000009280&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009279" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848" group-title="SonyLIV - DDFREEEDISH",Sony TEN 2
+
+https://cdn-tv.co.in/sliv/watch.php?id=1000009279&e=.m3u8
+
