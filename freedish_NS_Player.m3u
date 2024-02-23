@@ -109,37 +109,81 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png" group-title=" - DD FREE DISH", Star Plus
 
+#EXTM3U 
+#EXTINF: -1 tvg-id="167" tvg-name="ZEE TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", ZEE TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+#EXTINF: -1 tvg-id="1351" tvg-name="ZEE TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment", ZEE TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 #EXTINF: -1 tvg-id="472" tvg-name="And TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-
+#EXTINF: -1 tvg-id="2024" tvg-name="And TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+#EXTINF: -1 tvg-id="1360" tvg-name="Zee Marathi HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment", Zee Marathi HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+#EXTINF: -1 tvg-id="445" tvg-name="Zee Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Entertainment", Zee Marathi
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
+#EXTINF: -1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Entertainment", Zee Tamil
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+#EXTINF: -1 tvg-id="689" tvg-name="Zee Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Entertainment", Zee Kannada
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+#EXTINF: -1 tvg-id="473" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment", Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+#EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Entertainment", Zee Sarthak
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesarthak/default/index.m3u8
+#EXTINF: -1 tvg-id="728" tvg-name="Zee Salaam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Entertainment", Zee Salaam
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
+#EXTINF: -1 tvg-id="685" tvg-name="Zee Bangla Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Movies", Zee Bangla Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF: -1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", And Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF: -1 tvg-id="1839" tvg-name="And Pictures" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", And Pictures
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
-#EXTINF: -1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Zee_Action_2011.png/revision/latest?cb=20111004102019" group-title="Movies", Zee Action
+#EXTINF: -1 tvg-id="488" tvg-name="Zee Action" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies", Zee Action
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-#EXTINF: -1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee-anmol-cinema.jpg/revision/latest?cb=20171015193443" group-title="Movies", Zee Anmol Cinema
+#EXTINF: -1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-
-#EXTINF: -1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Zee_Cinema_2011.png/revision/latest?cb=20110926123841" group-tihttp://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.pngtle="Movies", Zee Cinema
+#EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF: -1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies", Zee Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-
+#EXTINF: -1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies", Zee Cinemalu
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+#EXTINF: -1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies", Zee Talkies HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
+#EXTINF: -1 tvg-id="153" tvg-name="Zee Talkies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Movies", Zee Talkies
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
+#EXTINF: -1 tvg-id="657" tvg-name="Zee Business" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Business", Zee Business
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
+#EXTINF: -1 tvg-id="259" tvg-name="NDTV Profit" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business", NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+#EXTINF: -1 tvg-id="652" tvg-name="Zee Hindustan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News", Zee Hindustan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
+#EXTINF: -1 tvg-id="661" tvg-name="Zee Bihar Jharkhand" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="News", Zee Bihar Jharkhand
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/index.m3u8
 #EXTINF: -1 tvg-id="173" tvg-name="Aaj Tak HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News", Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF: -1 tvg-id="177" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News", ABP News India
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF: -1 tvg-id="504" tvg-name="Zee News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News", Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
-
+#EXTINF: -1 tvg-id="918" tvg-name="Bharat Samachar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" group-title="News", Bharat Samachar
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 #EXTINF: -1 tvg-id="231" tvg-name="News 18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News 18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB/DenverIsAlive.m3u8
-
+#EXTINF: -1 tvg-id="858" tvg-name="Republic English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News", Republic English
+https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.m3u8#DenverIsAlive
 #EXTINF: -1 tvg-id="858" tvg-name="Republic Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News", Republic Hindi
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/master.m3u8#DenverIsAlive
-
+#EXTINF: -1 tvg-id="530" tvg-name="News18 UP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="News", News18 UP
+https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB/DenverIsAlive.m3u8
+#EXTINF: -1 tvg-id="501" tvg-name="News 24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News", News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF: -1 tvg-id="518" tvg-name="Sudarshan News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="News", Sudarshan News
+https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
 #EXTINF: -1 tvg-id="258" tvg-name="NDTV India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News", NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-
+#EXTINF: -1 tvg-id="255" tvg-name="NDTV 24x7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News", NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV - TVBOOKLIVE",SET HD
 
