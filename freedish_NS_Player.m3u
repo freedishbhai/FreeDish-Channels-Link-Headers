@@ -347,27 +347,6 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallbac
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Gujarati_Cinema_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="VOOT - ",Colors Oriya
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
- <html>
-	<head>
-	<title>ALL IN ONE</title>
-		<script>
-			window.location.replace("https://t.me/allinonereborn/");
-		</script>
-	</head>
-</html>
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AuoV47Z6yCW8uuGtlDAgWg","kid":"zK4F9UHxXnmSfw2SLNjYSA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="372" group-title="AS MALAYALAM" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12323-jaa5pzxs-v1/imageContent-12323-jaa5pzxs-m1.png",Jeevan TV
-https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wFiF5mmXY2ADTlC7pgjSDw","kid":"Ng3aqwt8VDKYuoD/jC70Ew"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="436" group-title="AS MALAYALAM" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11709-j9kt6bg0-v1/imageContent-11709-j9kt6bg0-m1.png",Safari TV
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd
-
-#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png" group-title="AS INDIA",IN-UK: STAR PLUS HD
-#EXTINF:-1 tvg-ID="" tvg-name="===== INDIA UK =====" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",===== INDIA UK =====
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100797
 #EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png" group-title="AS INDIA",IN-UK: STAR PLUS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100798
 #EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR PLUS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png" group-title="AS INDIA",IN-UK: STAR PLUS
