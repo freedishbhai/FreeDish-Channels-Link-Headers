@@ -13,10 +13,10 @@ https://video.frdp6-1.fna.fbcdn.net/v/t42.1790-2/426021528_25061476380110217_647
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Star Sports 1 HD 
-
+http://103.142.80.22:8080/star-sports-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Star Sports 2 HD 
-
+http://103.142.80.22:8080/star-sports-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Star Sports 1 Hindi 
 
@@ -25,10 +25,10 @@ https://video.frdp6-1.fna.fbcdn.net/v/t42.1790-2/426021528_25061476380110217_647
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Star Sports Select 2 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", T Sports HD 
-
+http://103.142.80.22:8080/t-sports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Gazi TV 
-
+http://103.142.80.22:8080/GAZI/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", T Sports 
 
@@ -36,11 +36,11 @@ https://video.frdp6-1.fna.fbcdn.net/v/t42.1790-2/426021528_25061476380110217_647
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", PTV Sports 
-
+http://103.142.80.22:8080/ptv-sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Sony Ten 1 
-
+http://103.142.80.22:8080/sony-ten-1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Sony Ten 2 
-
+http://103.142.80.22:8080/sony-ten-2-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Sony Ten 3 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Sony Ten 4 
