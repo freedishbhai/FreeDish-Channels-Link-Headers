@@ -1,16 +1,26 @@
 #EXTINF: -1 tvg-id="TVBOOKLIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg" group-title="TVBOOKLIVE", DD FREE DISH 
 https://video.frdp6-1.fna.fbcdn.net/v/t42.1790-2/426021528_25061476380110217_6473437616220883173_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjMwMCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_ohc=xawBy46zyjsAX_Y7aMr&_nc_rml=0&_nc_ht=video.frdp6-1.fna&oh=00_AfBIoenwH_czjIEAa3OLN3dIwsEDuxk2INg1gvA78JjawQ&oe=65D5C080
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Jio Cinema Hindi 1
+
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvseng_test04day02240224/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Sports 18 1 HD [VOOT]
+
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Sports 18 1 HD 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Jio Cinema Bengali 1
 
+https://prod-sports-north-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_indvseng_test04day02240224/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Star Sports 1 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93724
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", DD Sports 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93722 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Star Sports 1 HD 
 http://103.142.80.22:8080/star-sports-1/index.m3u8
@@ -19,11 +29,11 @@ http://103.142.80.22:8080/star-sports-1/index.m3u8
 http://103.142.80.22:8080/star-sports-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Star Sports 1 Hindi 
-
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93725 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Star Sports Select 1 
-
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93729
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Star Sports Select 2 
-
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93730
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", T Sports HD 
 http://103.142.80.22:8080/t-sports/video.m3u8
 
@@ -46,3 +56,44 @@ http://103.142.80.22:8080/sony-ten-2-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Sony Ten 4 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Sony Ten 5 
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", A Sports HD 
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", BPL LIVE 1
+http://himelop-back.ddns.net/live/GaziTV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", BPL LIVE 2
+http://himelop-back.ddns.net/live/TSports/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", PSL LIVE 
+
+http://himelop-bd.ddns.net/f2/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", TNT Sports 1 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", TNT Sports 2 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", TNT SPORTS 3 
+
+#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 1 HD
+
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="SonyLIV - TVBOOKLIVE",SonyÂ  TEN 2 HD
+
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 3 HD
+
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 4 HD
+
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 5 HD 
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028", Sports LIVE 
