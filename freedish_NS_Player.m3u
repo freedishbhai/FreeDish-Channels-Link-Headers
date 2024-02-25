@@ -347,9 +347,6 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallbac
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Gujarati_Cinema_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="VOOT - ",Colors Oriya
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png" group-title="AS INDIA",STAR PLUS HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100798
-#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR PLUS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png" group-title="AS INDIA", STAR PLUS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100799
 #EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR GOLD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/UTSAV_GOLD_HD.png" group-title="AS INDIA", STAR GOLD HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100800
@@ -363,10 +360,6 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100803
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100804
 #EXTINF:-1 tvg-ID="" tvg-name="IN-UK: ZEE CINEMA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Zee_Cinema_IN.png" group-title="AS INDIA",ZEE CINEMA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100805
-#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: SONY ASIA HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY ASIA HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100806
-#EXTINF:-1 tvg-ID="" tvg-name="IN-UK: SONY ASIA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",SONY ASIA
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100807
 #EXTINF:-1 tvg-ID="" tvg-name="IN-UK: SONY MAX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/SET_Max_IN.png" group-title="AS INDIA",SONY MAX HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100808
 #EXTINF:-1 tvg-ID="" tvg-name="IN-UK: SONY MAX" tvg-logo="http://vodkom.com:25461/Logo/INDIA/SET_Max_IN.png" group-title="AS INDIA", SONY MAX
@@ -418,111 +411,111 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100831
 #EXTINF:-1 tvg-ID="" tvg-name="IN-UK: KTV" tvg-logo="http://vodkom.com:25461/Logo/INDIA/KTV_IN.png" group-title="AS INDIA",KTV
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100832
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DESI PLUS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DESI PLUS
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DESI PLUS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DESI PLUS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96168
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ACTION" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: ZEE ACTION
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ACTION" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZEE ACTION
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96169
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE TV HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: ZEE TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE TV HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZEE TV HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96170
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE CINEMA HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: ZEE CINEMA HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE CINEMA HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZEE CINEMA HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96171
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZING" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: ZING
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZING" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZING
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96172
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR BHARAT HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: STAR BHARAT HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR BHARAT HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", STAR BHARAT HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96173
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: STAR GOLD HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", STAR GOLD HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96174
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: STAR GOLD SELECT HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",STAR GOLD SELECT HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96175
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: STAR PLUS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",STAR PLUS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96176
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: STAR UTSAV
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", STAR UTSAV
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96177
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: STAR UTSAV MOVIES
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", STAR UTSAV MOVIES
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96178
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: SONY HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",SONY HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96179
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: SONY MAX HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY MAX HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96180
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX 2" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: SONY MAX 2
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX 2" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY MAX 2
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96181
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PIX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: SONY PIX HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PIX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",SONY PIX HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96182
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY BBC EARTH HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: SONY BBC EARTH HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY BBC EARTH HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",SONY BBC EARTH HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96183
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY SAB HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: SONY SAB HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY SAB HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY SAB HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PAL" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: SONY PAL
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PAL" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",SONY PAL
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96185
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY WAH" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: SONY WAH
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY WAH" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY WAH
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96186
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY YAY" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: SONY YAY
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY YAY" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY YAY
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96187
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: B4U MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: B4U MOVIES
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: B4U MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", B4U MOVIES
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96189
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: COLORS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: COLORS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: COLORS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", COLORS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96190
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: 9X JALWA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: 9X JALWA
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: 9X JALWA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", 9X JALWA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96191
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AAJ TAK HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: AAJ TAK HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AAJ TAK HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", AAJ TAK HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96192
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AAJ TAK TEZ" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: AAJ TAK TEZ
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AAJ TAK TEZ" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", AAJ TAK TEZ
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96193
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AASTHA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: AASTHA
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AASTHA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", AASTHA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96194
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AASTHA BHAJAN" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: AASTHA BHAJAN
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AASTHA BHAJAN" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",AASTHA BHAJAN
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96195
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ABP NEWS INDIA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: ABP NEWS INDIA
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ABP NEWS INDIA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ABP NEWS INDIA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96196
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND PICTURES HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: AND PICTURES HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND PICTURES HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", AND PICTURES HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96197
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND TV HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: AND TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND TV HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",AND TV HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96198
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ANIMAL PLANET HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/ANIMAL_PLANET_HD.png" group-title="AS INDIA",HINDI: ANIMAL PLANET HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ANIMAL PLANET HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/ANIMAL_PLANET_HD.png" group-title="AS INDIA",ANIMAL PLANET HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96199
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ARIHANT" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: ARIHANT
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ARIHANT" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ARIHANT
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96200
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: BABY TV HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: BABY TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: BABY TV HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",BABY TV HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96201
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: BIG MAGIC HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: BIG MAGIC HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: BIG MAGIC HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",BIG MAGIC HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96202
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: BINDAS MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: BINDAS MOVIES
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: BINDAS MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", BINDAS MOVIES
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96203
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CINEPLEX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: CINEPLEX HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CINEPLEX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",CINEPLEX HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96204
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: COMEDY ACTIVE" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: COMEDY ACTIVE
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: COMEDY ACTIVE" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", COMEDY ACTIVE
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96205
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NATIONAL HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD NATIONAL HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NATIONAL HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD NATIONAL HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96206
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD RAJASTHAN" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD RAJASTHAN
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD RAJASTHAN" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD RAJASTHAN
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96207
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD BHARATI" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD BHARATI
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD BHARATI" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD BHARATI
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96208
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD BIHAR" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD BIHAR
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD BIHAR" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD BIHAR
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96209
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD INDIA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD INDIA
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD INDIA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD INDIA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96210
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NEWS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD NEWS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NEWS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD NEWS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96211
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD SPORTS
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD SPORTS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96212
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD ORIYA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD ORIYA
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD ORIYA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",DD ORIYA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96213
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD UP" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD UP
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD UP" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",DD UP
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96214
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD URDU" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD URDU
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD URDU" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD URDU
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96215
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD MP" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD MP
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD MP" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD MP
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96216
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD BHARTI" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DD BHARTI
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD BHARTI" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD BHARTI
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96217
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY JEET HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DISCOVERY JEET HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY JEET HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DISCOVERY JEET HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96218
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY WORLD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DISCOVERY WORLD HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY WORLD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DISCOVERY WORLD HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96219
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: E 24" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: E 24
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: E 24" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",E 24
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96220
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ENTER 10 MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: ENTER 10 MOVIES
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ENTER 10 MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",ENTER 10 MOVIES
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96221
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: EPIC HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: EPIC HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96222
