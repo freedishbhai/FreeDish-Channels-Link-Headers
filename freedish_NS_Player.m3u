@@ -52,7 +52,7 @@ https://bdtubelive.xyz/shemaroo.m3u8?id=chumbak-tv
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Manoranjan_TV.jpeg/revision/latest?cb=20200103190536" group-title="INDIA", MANORANJAN
 https://idvd.multitvsolution.com/idvo/manoranjantv.m3u8 
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Kb5EFnUjY3TGUB49ijNZ8kepTG8jE-XHJg&usqp=CAU" , The Novie Club 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Kb5EFnUjY3TGUB49ijNZ8kepTG8jE-XHJg&usqp=CAU" , The Movie Club 
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Tv9bangla.png/revision/latest?cb=20210509173815",TV9 Bangla 
@@ -77,7 +77,7 @@ http://himelop-back.ddns.net/live/GaziTV/index.m3u8
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png",  Ekushey TV 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://cdn.ottbangla.com/uploads/tv_image/depto-tv.png",  Deepto 
+#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://cdn.ottbangla.com/uploads/tv_image/depto-tv.png",  Deepto Tv HD
 
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8 
 
@@ -112,26 +112,16 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title=" - DD FREE DISH", Star Bharat 
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png" group-title=" - DD FREE DISH", Star Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title=" - DD FREE DISH", Star Plus
 
 #EXTINF: -1 tvg-id="472" tvg-name="And TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF: -1 tvg-id="2024" tvg-name="And TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
-#EXTINF: -1 tvg-id="1360" tvg-name="Zee Marathi HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment", Zee Marathi HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
-#EXTINF: -1 tvg-id="445" tvg-name="Zee Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Entertainment", Zee Marathi
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
-#EXTINF: -1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Entertainment", Zee Tamil
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
-#EXTINF: -1 tvg-id="689" tvg-name="Zee Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Entertainment", Zee Kannada
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+ 
 #EXTINF: -1 tvg-id="473" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment", Zee Anmol
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
-#EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Entertainment", Zee Sarthak
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesarthak/default/index.m3u8
-#EXTINF: -1 tvg-id="728" tvg-name="Zee Salaam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Entertainment", Zee Salaam
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
+
 #EXTINF: -1 tvg-id="685" tvg-name="Zee Bangla Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Movies", Zee Bangla Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF: -1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", And Pictures HD
@@ -146,23 +136,17 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF: -1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies", Zee Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-#EXTINF: -1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies", Zee Cinemalu
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
-#EXTINF: -1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies", Zee Talkies HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
-#EXTINF: -1 tvg-id="153" tvg-name="Zee Talkies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Movies", Zee Talkies
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
+
 #EXTINF: -1 tvg-id="657" tvg-name="Zee Business" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Business", Zee Business
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
 #EXTINF: -1 tvg-id="259" tvg-name="NDTV Profit" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business", NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
 #EXTINF: -1 tvg-id="652" tvg-name="Zee Hindustan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News", Zee Hindustan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
-#EXTINF: -1 tvg-id="661" tvg-name="Zee Bihar Jharkhand" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="News", Zee Bihar Jharkhand
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/index.m3u8
+
 #EXTINF: -1 tvg-id="173" tvg-name="Aaj Tak HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News", Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF: -1 tvg-id="177" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News", ABP News India
+#EXTINF: -1 tvg-id="177" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News", ABP News 
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF: -1 tvg-id="504" tvg-name="Zee News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News", Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
@@ -200,10 +184,6 @@ https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 #EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLIV - TVBOOKLIVE",Sony YAY
 
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-
-#EXTINF:-1 tvg-id="sony1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLIV - TVBOOKLIVE",Sony Marathi
-
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
 
 #EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLIV - TVBOOKLIVE",Sony AATH
 
@@ -257,7 +237,7 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",SonyÂ  TEN 2 HD
+#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony  TEN 2 HD
 
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
@@ -326,138 +306,123 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallba
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="VOOT - ",Colors Bangla Cinema
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Bangla_Cinema_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ACTION" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZEE ACTION
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96169
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE TV HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZEE TV HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96170
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE CINEMA HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZEE CINEMA HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96171
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZING" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZING
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96172
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR BHARAT HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", STAR BHARAT HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR BHARAT HD" tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title="AS INDIA", STAR BHARAT HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96173
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", STAR GOLD HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035" group-title="AS INDIA", STAR GOLD HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96174
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",STAR GOLD SELECT HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title="AS INDIA",STAR GOLD SELECT HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96175
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",STAR PLUS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnqUWFPwF26U2V83UUBop1Wcp8zkIjI1pkQ&s" group-title="AS INDIA",STAR PLUS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96176
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", STAR UTSAV
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zQBeW2F_Zs6FCMLNR-hOfT_NnE5vN-Vmcg&s" group-title="AS INDIA", STAR UTSAV
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96177
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", STAR UTSAV MOVIES
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zQBeW2F_Zs6FCMLNR-hOfT_NnE5vN-Vmcg&s" group-title="AS INDIA", STAR UTSAV MOVIES
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96178
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",SONY HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTipB7-XcaSJa_KRfjOaXwjH17VhBlj1GjA&s" group-title="AS INDIA",SONY HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96179
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY MAX HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRK3n6RW94Q64gmg6FJTbJ324W9HOA2v-3_g&s" group-title="AS INDIA", SONY MAX HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96180
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX 2" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY MAX 2
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY MAX 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5x-cGmQZt5xGWq3itRHuyckK4DJiZKxb31d1cusnBrQ&s" group-title="AS INDIA", SONY MAX 2
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96181
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PIX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",SONY PIX HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PIX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrMgV5vuXaID8A6_N4Cqm0hS5KeV_isH_DtW0GsarMA&s" group-title="AS INDIA",SONY PIX HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96182
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY BBC EARTH HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",SONY BBC EARTH HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY BBC EARTH HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQweMEHJA1Nqyb51HJdShOXJ8kQS8By0ij-BOdylIBuVQ&s" group-title="AS INDIA",SONY BBC EARTH HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96183
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY SAB HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY SAB HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY SAB HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlc02rnT1T3JAHtPXhpTFWCA4PTZvwwe_8W2e3l1w0Eg&s" group-title="AS INDIA", SONY SAB HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PAL" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",SONY PAL
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY PAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHCG3GdJPdQsPub3enP1fMqQuTC35Twp8fZyS76TnKLQ&s" group-title="AS INDIA",SONY PAL
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96185
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY WAH" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY WAH
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY WAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHCG3GdJPdQsPub3enP1fMqQuTC35Twp8fZyS76TnKLQ&s" group-title="AS INDIA", SONY WAH
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96186
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY YAY" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", SONY YAY
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY YAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImQbY_rnmMdT3tYn0-socqDUEyMvMXK1OGA31HVUGQg&s" group-title="AS INDIA", SONY YAY
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96187
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: COLORS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", COLORS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: COLORS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLlvXUf5tYHsIlsA0j0CXoA4E0s27UnrZww&s" group-title="AS INDIA", COLORS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96190
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: 9X JALWA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", 9X JALWA
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: 9X JALWA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmu7YDrsU91Lk9LAY2zMfbND1AqS1pK6O3Yw&s" group-title="AS INDIA", 9X JALWA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96191
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND PICTURES HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", AND PICTURES HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96197
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND TV HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",AND TV HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96198
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ANIMAL PLANET HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/ANIMAL_PLANET_HD.png" group-title="AS INDIA",ANIMAL PLANET HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ANIMAL PLANET HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsKPogkXhNdz4s-hY-sS8T4A_D4vG3KOosqwpf6QSrQ&s" group-title="AS INDIA",ANIMAL PLANET HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96199
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CINEPLEX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", Colors Cineplex HD 
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CINEPLEX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rMqc6RsgZiQbObrIzYe2BAw-XX7GJclggg&s" group-title="AS INDIA", Colors Cineplex HD 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96204
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NATIONAL HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD NATIONAL HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NATIONAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjUFG6tmuIKQtZLZmbEvMY4-PDeJVtHR5N5Q&s" group-title="AS INDIA", DD NATIONAL HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96206
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NEWS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD NEWS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3n7u03ctt3CRLGRpBAaSe4ceJ-AXm6U2KyA&s" group-title="AS INDIA", DD NEWS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96211
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DD SPORTS
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Y0e3jardEIAmpLOR2NJRIGcpaKcCev_WAg&s" group-title="AS INDIA", DD SPORTS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96212
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY WORLD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DISCOVERY WORLD HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY WORLD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMW9u75tcOia_WC0R7-0S3wKB2c8tp6GALg&s" group-title="AS INDIA", DISCOVERY WORLD HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96219
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ENTER 10 MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",ENTER 10 
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ENTER 10 MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmF8pmO5fpZ2prdq3sVBJ-KKyimGKdslbig&s" group-title="AS INDIA",ENTER 10 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96221
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: EPIC HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", EPIC HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: EPIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Epic_Television_Logo.jpg" group-title="AS INDIA", EPIC HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96222
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: FOX LIFE HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", FOX LIFE HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: FOX LIFE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdQXNa-uY_M9C0_B5L1nv1qiu_YsVROAZTw&s" group-title="AS INDIA", FOX LIFE HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96223
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HISTORY TV18 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", HISTORY TV18 HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: HISTORY TV18 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr3UFLfgZi1ZRvC6jt-HUqpw0qh7VHIerg3g&s" group-title="AS INDIA", HISTORY TV18 HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96224
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MTV BEATS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", MTV BEATS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MTV BEATS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BjoEqsgbitNt-j6NvXUOMZ8AxwPdJ5HxkA&s" group-title="AS INDIA", MTV BEATS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96236
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MTV PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", MTV PLUS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MTV PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BjoEqsgbitNt-j6NvXUOMZ8AxwPdJ5HxkA&s" group-title="AS INDIA", MTV PLUS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96237
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: MUSIC INDIA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",MUSIC INDIA
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96238
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NAT GEO WILD HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/NATIONAL_GEOGRAPHIC_WILD_HD.png" group-title="AS INDIA", NAT GEO WILD HD
+
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NAT GEO WILD HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/national-geographic.gif" group-title="AS INDIA", NAT GEO WILD HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96239
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NATIONAL GEOGRAPHIC HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/national-geographic.gif" group-title="AS INDIA", NATIONAL GEOGRAPHIC HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96240
  
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS 18 INDIA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", NEWS 18 INDIA
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: NEWS 18 INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxS8SHRW8rREsxu4pXK-QX6-b-rt9oJocnAQ&s" group-title="AS INDIA", NEWS 18 INDIA
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE CLASSICS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZEE CLASSICS
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE CLASSICS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjqPJebwHNucQ3X6qZdXE3oGi70_4wRH3SvQ&s" group-title="AS INDIA", Tata Sky CLASSICS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96252
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TATA SKY BOLLYWOOD PREMIERE HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",TATA SKY BOLLYWOOD PREMIERE HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TATA SKY BOLLYWOOD PREMIERE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjqPJebwHNucQ3X6qZdXE3oGi70_4wRH3SvQ&s" group-title="AS INDIA",TATA SKY BOLLYWOOD PREMIERE HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96253
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ANMOL" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Zee_Anmol_IN.png" group-title="AS INDIA",ZEE ANMOL
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ANMOL" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/zee-anmol.gif" group-title="AS INDIA",ZEE ANMOL
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96258
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ANMOL CINEMA" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", ZEE ANMOL CINEMA
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ANMOL CINEMA" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/zee-anmol.gif" group-title="AS INDIA", ZEE ANMOL CINEMA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96259
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE NEWS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Zee_News_IN.png" group-title="AS INDIA", ZEE NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P-hIPD9CcYzLFMLArEnnQyMPXxoWYu4ufQ&s" group-title="AS INDIA", ZEE NEWS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96261
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: POGO KIDS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",POGO 
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: POGO KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzUPDEfJZ1XosjkWUfMC4MY-4h0B4LDKTNA&s" group-title="AS INDIA",POGO 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96270
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: POGO KIDS" tvg-logo="" group-title="AS INDIA", Hungama Multi Audio
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: POGO KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxpN65JMMY0NFV6JYy1nbHveIiIbfkkCc57A&s" group-title="AS INDIA", Hungama Multi Audio
 http://starshare.live:8080/live/Mxu9EqjNoU/yQ7iTIBira/18456.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND FLIX HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", AND FLIX HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND FLIX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLUPVP-cMBTlkIpr5bk38bNvgn9bn2NlBV4K2hPEfcQ&s" group-title="AS INDIA", AND FLIX HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96274
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY INTERNATIONAL HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", DISNEY INTERNATIONAL HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY INTERNATIONAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEdh3-ddDnL5Td7ajcSzk8rPkQc_wOprgQY3S9EWY7g&s" group-title="AS INDIA", DISNEY INTERNATIONAL HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96284
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TATA SKY BOLLYWOOD HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", TATA SKY BOLLYWOOD HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: TATA SKY BOLLYWOOD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjqPJebwHNucQ3X6qZdXE3oGi70_4wRH3SvQ&s" group-title="AS INDIA", TATA SKY BOLLYWOOD HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96285
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CN PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",CN PLUS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CN PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YRc51mbhsQUdXb-u37a97DeLYYBh9dFSb8Bq3arOVQ&s" group-title="AS INDIA",CN PLUS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96286
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY XD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/DISNEY_XD.png" group-title="AS INDIA", DISNEY XD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96288
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CARTOON NETWORK" tvg-logo="http://vodkom.com:25461/Logo/PICONS/CARTOON_NETWORK..png" group-title="AS INDIA", CARTOON NETWORK
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CARTOON NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YRc51mbhsQUdXb-u37a97DeLYYBh9dFSb8Bq3arOVQ&s" group-title="AS INDIA", CARTOON NETWORK
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96290
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY KIDS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",DISCOVERY KIDS
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY KIDS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iXAOtfAy.png" group-title="AS INDIA",DISCOVERY KIDS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96341
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD 2" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",STAR GOLD 2
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD 2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Vx9kgJX7.png" group-title="AS INDIA",STAR GOLD 2
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96343
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND EXPLORER HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA", AND EXPLORER HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96344
-
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: COLORS BANGLA HD" tvg-logo="" group-title="AS SOUTH INDIA", COLORS BANGLA HD
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: COLORS BANGLA HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BYIoUPvd.png", COLORS BANGLA HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/95766
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: NAT GEO HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/NATIONAL_GEO.png" group-title="AS SOUTH INDIA", National Geo Bangla HD
+#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: NAT GEO HD" tvg-logo="", National Geo Bangla HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/95767
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: SANGEET BANGLA" tvg-logo="" group-title="AS SOUTH INDIA", SANGEET BANGLA
+#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: SANGEET BANGLA" tvg-logo="", SANGEET BANGLA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/95768
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: STAR JALSHA HD" tvg-logo="" group-title="AS SOUTH INDIA", STAR JALSHA HD
+#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: STAR JALSHA HD" tvg-logo="", STAR JALSHA HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/95769
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: STAR JALSHA MOVIES HD" tvg-logo="" group-title="AS SOUTH INDIA",STAR JALSHA MOVIES HD
+#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: STAR JALSHA MOVIES HD" tvg-logo="",STAR JALSHA MOVIES HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/95770
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: TATA SKY BANGLA HD" tvg-logo="" group-title="AS SOUTH INDIA",TATA SKY BANGLA HD
+#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: TATA SKY BANGLA HD" tvg-logo="" group-title=",TATA SKY BANGLA HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/95771
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: DD BANGLA" tvg-logo="" group-title="AS SOUTH INDIA", DD BANGLA
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/95772
