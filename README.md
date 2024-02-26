@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm TVBOOKLIVE</h1>
+<h1 align="center">Hi, I'm Free Dish Bhai</h1>
 <h3 align="center">DD FREE DISH M3U8 PLAYLIST FTA CHANNELS</h3>
 
 <p img align="right" alt="Coding" width="400" src="https://selectra.in/sites/selectra.in/files/dth/logo/dd-free-dish.png" ></p>
