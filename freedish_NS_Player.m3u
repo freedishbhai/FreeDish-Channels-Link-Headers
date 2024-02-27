@@ -565,5 +565,8 @@ http://testing.denver1769.in/51.php?id=11217
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8NJvDjfev-8yAmHp2WQWPqBlx8inFfwnfHctd6-UTNg&s", PSL 
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8 
 
-
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="AS SPORTS",STAR SPORTS 1 
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="AS SPORTS",STAR SPORTS 2 
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 
