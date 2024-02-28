@@ -86,7 +86,8 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 
 #EXTINF:-1 tvg-name="ARY Digital Asia HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg", ARY Digital HD
 http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOIvpybfn7e_ncu_cNnrKgcMFzyrZj_rOo2E_U2uscQ&s", Har Pal Geo 
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhyt2egQgE9RuABZ8vP-YM40s7lvSmMLEJYIJcjlYgj85ngfh0Jf6cZRI&s", Abp Ananda 
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8 
 
