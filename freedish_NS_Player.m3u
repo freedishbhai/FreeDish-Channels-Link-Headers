@@ -28,13 +28,9 @@ https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/0769bb08-fe18-4211-918b-5cabad36229b/0.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908" group-title="TVBOOKLIVE ", Music India 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDx-orSMas_iMvzvYpbJptq-m56un2b9IPTXpn-d1bA&s",  yrf music 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDx-orSMas_iMvzvYpbJptq-m56un2b9IPTXpn-d1bA&s", YRF MUSIC HD
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Jiosaavn2018.jpg/revision/latest?cb=20230430114544",  Music 
-
-http://xtv.ooo:8080/shahz18/18usman/270509
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="TVBOOKLIVE ", Sangeet Bangla 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Showbox.jpeg/revision/latest?cb=20200117200016" group-title="TVBOOKLIVE ",  ShowBox 
