@@ -395,18 +395,28 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96261
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: POGO KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzUPDEfJZ1XosjkWUfMC4MY-4h0B4LDKTNA&s" group-title="AS INDIA",POGO 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96270
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: POGO KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxpN65JMMY0NFV6JYy1nbHveIiIbfkkCc57A&s" group-title="AS INDIA", Hungama Multi Audio
-http://starshare.live:8080/live/Mxu9EqjNoU/yQ7iTIBira/18456.ts
+
+
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/pogo.gif", Pogo TEST
+
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/nick.gif", Nick Hindi TEST
+
+http://mag.trexlive.me:80/Michael88/Michael88/281135 
+
+
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cartoon-network.gif", Cartoon Network TEST
+
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: AND FLIX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLUPVP-cMBTlkIpr5bk38bNvgn9bn2NlBV4K2hPEfcQ&s" group-title="AS INDIA", AND FLIX HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96274
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY INTERNATIONAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEdh3-ddDnL5Td7ajcSzk8rPkQc_wOprgQY3S9EWY7g&s" group-title="AS INDIA", DISNEY INTERNATIONAL HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96284
+
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: TATA SKY BOLLYWOOD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjqPJebwHNucQ3X6qZdXE3oGi70_4wRH3SvQ&s" group-title="AS INDIA", TATA SKY BOLLYWOOD HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96285
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: CN PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YRc51mbhsQUdXb-u37a97DeLYYBh9dFSb8Bq3arOVQ&s" group-title="AS INDIA",CN PLUS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96286
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISNEY XD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/DISNEY_XD.png" group-title="AS INDIA", DISNEY XD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96288
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: CARTOON NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YRc51mbhsQUdXb-u37a97DeLYYBh9dFSb8Bq3arOVQ&s" group-title="AS INDIA", CARTOON NETWORK
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96290
