@@ -3,7 +3,7 @@
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
 
 #EXTINF: -1 tvg-id="DDNational.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQRjW7Nx7jvkwYqJ8E22DV_egz4d1UBPCjw&s" group-title="INDIA", DD NATIONAL
-http://195.26.87.217/live.ts?channelId=163&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
 #EXTINF: -1 tvg-id="DDSports.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlbE6kaFohq7NH2umT6sJOqrh_P7G5u19iQ&s" group-title="INDIA", DD SPORTS
  
@@ -14,7 +14,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Tashan_Logo_GOLD0010_0010.png/revision/latest?cb=20210508151227" group-title="TVBOOKLIVE ",  9x Tashan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/9X_Jalwa_2012.jpg/revision/latest?cb=20180603135659" group-title="TVBOOKLIVE ", 9x Jalwa
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/ydzGr4yP/9X-Jalwa.png" group-title="TVBOOKLIVE ", 9x Jalwa
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 
 #EXTINF: -1 tvg-id="B4UMovies.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="INDIA EU", B4U MOVIES
