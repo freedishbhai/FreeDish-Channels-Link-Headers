@@ -575,8 +575,3 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="AS SPORTS",STAR SPORTS 2 
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8 
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" ,STAR GOLD 2 [ DishTV]
-http://mag.trexlive.me:80/Michael88/Michael88/1112132
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://logo.protv.cc/picons/logos/starbharat.png" tvg-id="StarBharat.in" ,STAR BHARAT UHD 
-http://mag.trexlive.me:80/Michael88/Michael88/280765 
- 
