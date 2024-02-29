@@ -583,5 +583,9 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSieNx2iHlqzLK4gqsjF8OQVqyriJjp2dK8giFhmo6cA&s", T Sports HD
 http://tgaadi-web.tech/Tg_aadi.php?id=6919
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQraAy092f6Lkre_Eem-7wXGpe-FlI2R-IG7sbzyQGlxw&s", Gazi TV 
+
+http://tgaadi-web.tech/Aadi.php?tv=11169  
+
 
 
