@@ -272,7 +272,7 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96211
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Y0e3jardEIAmpLOR2NJRIGcpaKcCev_WAg&s" group-title="AS INDIA", DD SPORTS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96212
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY WORLD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMW9u75tcOia_WC0R7-0S3wKB2c8tp6GALg&s" group-title="AS INDIA", DISCOVERY WORLD HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMW9u75tcOia_WC0R7-0S3wKB2c8tp6GALg&s" group-title="AS INDIA", DISCOVERY HD
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/national-geographic.gif" group-title="AS INDIA", NATIONAL GEOGRAPHIC HD
 http://195.26.87.217/live.ts?channelId=4236&uid=7435&deviceMac=00:1A:79:51:4B:3A 
@@ -365,7 +365,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallba
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8 
 
 #EXTINF:-1 tvg-id="872" tvg-name="SONY YAY{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONYLIV",SONY YAY BANGLA 
- 
+https://cdn-tv.co.in/sliv/watch.php?id=1000001971&e=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png, NICK BANGLA 
 
 
@@ -383,9 +383,8 @@ https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMW9u75tcOia_WC0R7-0S3wKB2c8tp6GALg&s" group-title="AS INDIA", DISCOVERY BANGLA 
+https://mhdtvmax.net/delta/discovery/api/Discovery_Bangla.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: DD BANGLA" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ctednvb6.png" group-title="AS SOUTH INDIA", DD BANGLA
  
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: AAKASH BANGLA" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EUl6Mr75.png" group-title="AS SOUTH INDIA", AKASH AATH 
@@ -444,8 +443,8 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/national-geographic.gif" group-title="AS INDIA", NATIONAL GEOGRAPHIC HD
 http://xtv.ooo:8080/shahz18/18usman/109976 
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMW9u75tcOia_WC0R7-0S3wKB2c8tp6GALg&s" group-title="AS INDIA", DISCOVERY HD
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_18.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: DD SPORTS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/33a51469-decc-4dfc-bc47-3542fdc68e63_180x180_dd-sports-logo.jpg", DD SPORTS
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93722
 
