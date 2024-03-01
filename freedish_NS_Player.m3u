@@ -240,7 +240,7 @@ http://xtv.ooo:8080/shahz18/18usman/109951
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title=" - DD FREE DISH", STAR PLUS 
  
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR BHARAT HD" tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title="AS INDIA", STAR BHARAT HD
-http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035" group-title="AS INDIA", STAR GOLD HD
 http://xtv.ooo:8080/shahz18/18usman/109959
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title="AS INDIA",STAR GOLD SELECT HD
@@ -278,12 +278,12 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: CINEPLEX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rMqc6RsgZiQbObrIzYe2BAw-XX7GJclggg&s" group-title="AS INDIA", COLORS CINEPLEX HD 
  
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NATIONAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjUFG6tmuIKQtZLZmbEvMY4-PDeJVtHR5N5Q&s" group-title="AS INDIA", DD NATIONAL HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96206
+ 
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3n7u03ctt3CRLGRpBAaSe4ceJ-AXm6U2KyA&s" group-title="AS INDIA", DD NEWS HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96211
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Y0e3jardEIAmpLOR2NJRIGcpaKcCev_WAg&s" group-title="AS INDIA", DD SPORTS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96212
+ 
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMW9u75tcOia_WC0R7-0S3wKB2c8tp6GALg&s" group-title="AS INDIA", DISCOVERY HD
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
@@ -463,7 +463,7 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: DD SPORTS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/33a51469-decc-4dfc-bc47-3542fdc68e63_180x180_dd-sports-logo.jpg", DD SPORTS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93722
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgQqi63J-ftRoaYCeMo8z238MlpBmPNCETi4CTkPxrQ&s" group-title="AS SPORTS",SONY SIX HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93723
