@@ -235,7 +235,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title=" - DD FREE DISH", STAR BHARAT 
-http://xtv.ooo:8080/shahz18/18usman/109951
+ 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title=" - DD FREE DISH", STAR PLUS 
  
@@ -302,7 +302,7 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 http://mag.trexlive.me:80/Michael88/Michael88/281135 
 
 
-#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cartoon-network.gif", Cartoon NETWORK TEST
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cartoon-network.gif", CARTOON NETWORK TEST
 
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
@@ -386,8 +386,6 @@ https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
  
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: NAT GEO HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/h7ZNatNF.png", National GEO BANGLA HD
  
-#EXTINF:-1 tvg-ID="" tvg-name="BENGALI: SANGEET BANGLA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/89ad8138-b397-4f95-831a-4b2e77e7843c_180x180_songit-bangla.jpg", SANGEET BANGLA
- 
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: STAR JALSHA HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", STAR JALSHA HD
  
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: STAR JALSHA MOVIES HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/8pjig5P8.png",STAR JALSHA MOVIES HD
@@ -408,43 +406,14 @@ https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaCinema.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: ZEE BANGLA HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gDlssGTE.png" group-title="AS SOUTH INDIA", ZEE BANGLA HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/95778
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA-UK: NTV" tvg-logo="https://seeklogo.com/images/N/ntv-channel-logo-D930884934-seeklogo.com.png" group-title="AS BANGLA", NTV
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA-UK: ATN BANGLA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" group-title="AS BANGLA", ATN BANGLA
- 
-
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png" group-title="AS BANGLA",ATN NEWS
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN ISLAMIC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawjOLTpI9CRuK9_zasN-wJKJbIr0jUtrLlFHeh4KnCA&s" group-title="AS BANGLA", ATN ISLAMIC TV
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BOISHAKHI TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" group-title="AS BANGLA",BOISHAKHI TV
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV WORLD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" group-title="AS BANGLA", BTV WORLD
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" group-title="AS BANGLA",BTV 
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL I" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" group-title="AS BANGLA", CHANNEL I
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DBC NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" group-title="AS BANGLA",DBC NEWS
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESHI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSq59_J2XqIVIBfytT6XY_e65e6N4uG4UC6j6tsRvCCwaDYusqnD8-zgE&s" group-title="AS BANGLA", DESHI TV
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: EKATTOR TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png" group-title="AS BANGLA",EKATTOR TV
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: INDEPENDENT TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7Z-pTFx13gXmdz7gr9cOHXRXPfJ3pzXAND5xiJT5Kw&s" group-title="AS BANGLA",INDEPENDENT TV
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NTV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" group-title="AS BANGLA", NTV
- 
- 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SOMOY NEWS TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png" group-title="AS BANGLA", SOMOY 
- 
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SONY AATH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5aff8a6a-d664-4292-b4e8-8319e42f77a6_180x180_sony-8.jpg" group-title="AS BANGLA",SONY AATH
- http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A 
+http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A 
 
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Zee_Bangla_HD_2016.jpg/revision/latest?cb=20190707171603" group-title="AS BANGLA",ZEE BANGLA
- 
+http://176.119.29.52/live.ts?channelId=120&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Zee_Bangla_HD_2016.jpg/revision/latest?cb=20190707171603" group-title="AS BANGLA",ZEE BANGLA HD
-
+http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NANDAN TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFZKagi25iXPjLpmBYMMRsTSfrh-LT7ysn7uy18_5Ag&s" group-title="AS BANGLA",NANDAN TV HD
 https://web.nandansyst.com/hls/nandan.m3u8
 
