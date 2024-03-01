@@ -555,3 +555,52 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV - TVBOOKLIVE",Sony TEN 5 HD [SONY LIV]
 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+
+ 
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png", DISCOVERY HINDI 
+
+
+https://mhdtvmax.net/delta/discovery/api/Discovery_Hindi.m3u8
+
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png", DISCOVERY HINDI
+
+
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_18.m3u8
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png", DISCOVERY BENGALI
+
+https://mhdtvmax.net/delta/discovery/api/Discovery_Bangla.m3u8
+ 
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png", DISCOVERY BENGALI
+
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_18.m3u8
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png", ANIMAL PLANET HINDI
+
+
+https://mhdtvmax.net/delta/discovery/api/Animal_Planettv_Hindi.m3u8
+ 
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tlc.png",TLC  HINDI 
+
+
+https://mhdtvmax.net/delta/discovery/api/TLC_Hindi.m3u8 
+
+
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png", DISCOVERY KIDS HINDI
+
+https://mhdtvmax.net/delta/discovery/api/Discovery_Kids_Hindi.m3u8
+
+
+
+
+
+
+
+
+
+
