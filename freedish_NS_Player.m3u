@@ -480,6 +480,14 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 
 http://176.119.29.52/live.ts?channelId=98&deviceMac=00:1A:79:0A:CA:4F  
 
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png", TNT SPORTS 1
+https://catowrap.live/mrgamingbtsport1.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png",TNT SPORTS 2
+https://catowrap.live/mrgamingbtsport2.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png",TNT SPORTS 3
+https://catowrap.live/mrgamingbtsport3.m3u8
+#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png", TNT SPORTS 4
+https://catowrap.live/mrgamingbtsport4.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONYLIV",SONY TEN 1
 https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SONYLIV",SONY TEN 2
@@ -494,7 +502,6 @@ https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONYLIV",SONY TEN 3 HD
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-
 #EXTINF:-1 tvg-id="144" tvg-name="SONY SIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SONYLIV",SONY SIX HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
