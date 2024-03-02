@@ -224,37 +224,75 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_M
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="VOOT - ", COLORS HD [VOOT]
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 
-
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnqUWFPwF26U2V83UUBop1Wcp8zkIjI1pkQ&s" group-title="INDIA",STAR PLUS HD
 http://xtv.ooo:8080/shahz18/18usman/109949
-
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest/scale-to-width-down/250?cb=20110929114319" group-title="TVBOOKLIVE ",  STAR GOLD HD 
- 
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/INDIA/UTSAV_GOLD_HD.png", STAR GOLD HD 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8 
-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5BBO7IZUSMamBMI_2YBdKpBdLauJc5EYVog&s" group-title="TVBOOKLIVE ",  STAR GOLD SELECT 
-
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title=" - DD FREE DISH", STAR BHARAT 
- 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title=" - DD FREE DISH", STAR PLUS 
- 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR BHARAT HD" tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title="AS INDIA", STAR BHARAT HD
- 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035" group-title="AS INDIA", STAR GOLD HD
 http://xtv.ooo:8080/shahz18/18usman/109959
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title="AS INDIA",STAR GOLD SELECT HD
- 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnqUWFPwF26U2V83UUBop1Wcp8zkIjI1pkQ&s" group-title="AS INDIA",STAR PLUS HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zQBeW2F_Zs6FCMLNR-hOfT_NnE5vN-Vmcg&s" group-title="AS INDIA", STAR UTSAV
- 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-utsav-movies.gif" group-title="AS INDIA", STAR UTSAV MOVIES
- 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-utsav-movies.gif" group-title="INDIA", STAR UTSAV MOVIES
- 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg?20210123000634" , STAR PLUS HD 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100798 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg?20210123000634" , STAR PLUS 
+
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100799 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7WmMfEbhJEhUKs03bbo65rCizZ8f5jIqbyJ0cWQWrTw&s", STAR GOLD HD 
+
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100800 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7WmMfEbhJEhUKs03bbo65rCizZ8f5jIqbyJ0cWQWrTw&s", STAR GOLD 
+
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100801 
+
+
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS.png" , COLORS  
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100811 
+
+
+#EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS_HD.png",  COLORS HD 
+
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100812 
+
+
+#EXTINF:-1  tvg-logo="http://vodkom.com:25461, B4U PLUS 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100818 
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFgfSNnGidTRmUnoEOMvGClZZORh8V3_5-lsU3OrarBAPhSWV0NS0nAWY&s, STAR BHARAT HD 
+
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96173 
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7WmMfEbhJEhUKs03bbo65rCizZ8f5jIqbyJ0cWQWrTw&s, STAR GOLD HD 
+
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96174
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5BBO7IZUSMamBMI_2YBdKpBdLauJc5EYVog&s, STAR GOLD SELECT HD 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96175 
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg?20210123000634, STAR PLUS HD 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96176 
+
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest?cb=20210520175932, STAR UTSAV 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96177 
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAJqL-QG7DxOIULJu2EYy7s3D-86cB1JUDjaeKicptQ&s, STAR UTSAV MOVIES 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96178 
+
+
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHCG3GdJPdQsPub3enP1fMqQuTC35Twp8fZyS76TnKLQ&s" group-title="AS INDIA",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
