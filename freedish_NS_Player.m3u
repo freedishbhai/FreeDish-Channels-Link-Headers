@@ -10,8 +10,6 @@ https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Y0e3jardEIAmpLOR2NJRIGcpaKcCev_WAg&s" group-title="AS INDIA", DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8 
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Y0e3jardEIAmpLOR2NJRIGcpaKcCev_WAg&s" group-title="AS INDIA", DD BHARTI 
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96217
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz1iuWETJIPT1IGv1oKp4YJc1aTW1FMlm2wyKISaVpg&s",DESI CHANNEL 
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
