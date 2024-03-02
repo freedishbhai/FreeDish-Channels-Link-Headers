@@ -582,6 +582,16 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsYQYeo2rNveIEXwg6Vd6AuEB6jYCn8AT7lZYaG7s3w&s" , PTV SPORTS
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93416
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsYQYeo2rNveIEXwg6Vd6AuEB6jYCn8AT7lZYaG7s3w&s" , PTV SPORTS HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93417
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwFxX_KAyRRKecyME0zv2WovqPCvKQrzWtZ18zQhDJg&s" , TEN SPORTS HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93418
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVX4-Uf7624f46lEsiupZhxT5F4LxeBz1pMtnRI9YDQQ&s" , GEO SUPER
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93419
+
+
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/discovery-channel.gif", DISCOVERY HINDI 
 https://mhdtvmax.net/delta/discovery/api/Discovery_Hindi.m3u8
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/discovery-channel.gif", DISCOVERY HINDI
