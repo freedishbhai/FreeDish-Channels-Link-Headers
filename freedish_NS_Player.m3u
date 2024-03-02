@@ -78,6 +78,14 @@ http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOIvpybfn7e_ncu_cNnrKgcMFzyrZj_rOo2E_U2uscQ&s", HAR PAL GEO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=986
+#EXTINF:-1 tvg-id="986" tvg-logo="https://tatalogo.pages.dev/986.png" group-title="None",Tata Play Zindagi
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/manifest.mpd
+
+
+
+
 
 #EXTINF: -1 tvg-id="472" tvg-name="And TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", AND TV HD
 
