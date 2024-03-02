@@ -460,7 +460,12 @@ https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SUN BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OE57t2p-3ikht3UfMjRmPxU0Dveisf0ckxvgx1P223dbyG0eoQSwNn8&s" group-title="AS BANGLA",SUN BANGLA
 http://148.113.5.31:8106/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Colors-Bangla-320x280.jpg/revision/latest?cb=20171125150548" group-title="BANGLA", COLORS BANGLA HD 
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUajiOaHwHCo0cl2yoR9hmhW5lWxkxzkJ4EMwQex7P5A&s" REPUBLIC BANGLA 
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+
+
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/national-geographic.gif" group-title="AS INDIA", NATIONAL GEOGRAPHIC HD
 http://xtv.ooo:8080/shahz18/18usman/109976 
