@@ -16,7 +16,11 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz1iuWETJIPT1IGv1oKp4YJc1aTW1FMlm2wyKISaVpg&s",DESI CHANNEL 
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
- 
+
+#EXTNIF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsrdz3Xuyu8daxtmT66I41NABuJtEYsz6k4kJQ-Ja9Uw&s", ONLY MUSIC HD
+https://dai.google.com/linear/hls/pb/event/hcIPjoWFR9WL9zEMRg-mcQ/stream/4fe42fd9-9669-4f23-a0a7-535a2ffd7e80:SIN/master.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434" group-title="TVBOOKLIVE ", 9XM MUSIC 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
@@ -28,9 +32,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrWlYVbTihCMZCYQq3eQcFxgrGPDIkDAqgTmGbE87sQ&s",7S MUSIC 
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTNIF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsrdz3Xuyu8daxtmT66I41NABuJtEYsz6k4kJQ-Ja9Uw&s", ONLY MUSIC HD
-https://dai.google.com/linear/hls/pb/event/hcIPjoWFR9WL9zEMRg-mcQ/stream/4fe42fd9-9669-4f23-a0a7-535a2ffd7e80:SIN/master.m3u8
-
 
 #EXTINF: -1 tvg-id="B4UMovies.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="INDIA EU", B4U MOVIES
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
