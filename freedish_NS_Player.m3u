@@ -82,7 +82,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrjgX9QSMMttxi4hBCCorUDKXLxjFRkcFKQ&usqp=CAU", PEACE TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFH6hsEM-j4ovDFGXAbNK-2O_AwAGYWsYqcPoIYZ7fQ&s", PEACE TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8 
 
 #EXTINF:-1 tvg-name="ARY Digital Asia HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg", ARY DIGITAL HD
