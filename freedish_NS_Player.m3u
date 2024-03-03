@@ -69,14 +69,19 @@ https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/zoom.gif", ZOOM MUSIC 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/shemaroo-tv.gif", SHEMAROO FILMY GANE [TEST]
 https://dai.google.com/linear/hls/pb/event/GoIv9LpoTcWbRvzufQCQTQ/stream/aa03bd7e-4f71-4f17-901f-ff626bc865ef:TPE/master.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVYCmAx9L1ANzXtg7ShjaQKaN3KvkTW4aaMn7VHVFwpA&s", SHEMAROO BOLLYWOOD [TEST]
+
+#EXTINF:-1 tvg-logo=" https://www.tataplay.com/s3-api/v1/assets/channels/shemaroo-tv.gif", SHEMAROO BOLLYWOOD [TEST]
 https://dai.google.com/linear/hls/pb/event/PmecVGowRyC_gF5gRxy6zw/stream/493a684c-b08a-43e1-9043-28aae790b641:TPE2/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/shemaroo-umang.gif", SHEMAROO UMANG [TEST]
+
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/shemaroo-tv.gif", SHEMAROO UMANG [TEST]
 https://dai.google.com/linear/hls/pb/event/1FTmFXC8Q5qFG7CZ0oaJXA/stream/6b3758ea-7088-4f2c-be32-6e2124222a38:SIN2/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4N4AwyyPqlzxV4yP17DtLEJtQnpjCMMqLtroxM-0&s", KIDS TV INDIA [TEST]
-dai.google.com/linear/hls/pb/event/7Y6iShyTR0qpBWit9u7MYw/stream/8d2e4f73-e210-49eb-9365-c72bf857f787:SIN/master.m3u8
+https://dai.google.com/linear/hls/pb/event/7Y6iShyTR0qpBWit9u7MYw/stream/8d2e4f73-e210-49eb-9365-c72bf857f787:SIN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cartoon-network.gif", CARTOON NETWORK [TEST]
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 
