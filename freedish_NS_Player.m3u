@@ -627,6 +627,68 @@ https://mhdtvmax.net/delta/discovery/api/TLC_Hindi.m3u8
 https://mhdtvmax.net/delta/discovery/api/Discovery_Kids_Hindi.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" ,BTV NATIONAL 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100659
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" , BTV 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100659
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png", CHANNEL I
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100663
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" ,NTV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100687
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" , ATN BANGLA 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100648
+
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" , BOISHAKHI TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100657 
+ 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" , DESH TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100668
+ 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png" ,ATN NEWS 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100650
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" , MOHONA TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100681
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" , BIJOY TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100655
+#EXTINF:-1   tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png" , SOMOY NEWS TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100695
+ 
+ 
+
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" , GAZI TV HD
+ 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" , CHANNEL 9
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100661
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a6ad6ed-400c-45a2-91e0-c98e36546b6b_180x180_29254c7a-99b4-4c0a-b861-3cbebaadfcfc.png" , CHANNEL 24
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100706 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" , GAAN BANGLA 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100676
+#EXTINF:-1   tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png" tvg-id="18", EKATTOR TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100673
+ 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/84a0fb8c-85cf-4d12-8504-8f9050437def_180x180_dbfdc900-49fd-4129-9575-ad0f08105fd4.png",SA TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100693
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png , JAMUNA TV
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100710
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" ,T Sports HD
+ 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" ,DBC NEWS 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100666
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f31caca9-3389-4331-a693-ac83c42b4a35_180x180_51796aab-e2a7-4290-b7b3-f0c3870de87a.png", NEWS 24
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100706
+ 
+ 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg" , AAKASH 8
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100643 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg" , DHOOM MUSIC BANGLA 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100671 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/58ad7be2-5d80-4cb1-8da1-20182abecd4d_180x180_News_Time_new_logo.png" , NEWS TIME 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100685
+ 
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" , RUPOSHI BANGLA 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100691
+ 
+ 
 
 
 
