@@ -17,7 +17,8 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz1iuWETJIPT1IGv1oKp4YJc1aTW1FMlm2wyKISaVpg&s",DESI CHANNEL 
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTNIF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsrdz3Xuyu8daxtmT66I41NABuJtEYsz6k4kJQ-Ja9Uw&s", ONLY MUSIC HD
+#EXTNIF:-1 
+tvg-logo="", ONLY MUSIC HD
 https://dai.google.com/linear/hls/pb/event/hcIPjoWFR9WL9zEMRg-mcQ/stream/4fe42fd9-9669-4f23-a0a7-535a2ffd7e80:SIN/master.m3u8
 
 
