@@ -260,19 +260,6 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100800
 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100801 
 
-
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS.png" , COLORS  
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100811 
-
-
-#EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS_HD.png",  COLORS HD 
-
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100812 
-
-
-#EXTINF:-1  tvg-logo="https://b4uplus.com/images/logo.png", B4U PLUS 
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100818 
-
 #EXTINF:-1  tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-bharat.gif", STAR BHARAT HD 
 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96173 
@@ -319,12 +306,12 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY YAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImQbY_rnmMdT3tYn0-socqDUEyMvMXK1OGA31HVUGQg&s" group-title="AS INDIA", SONY YAY
 
- 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: COLORS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLlvXUf5tYHsIlsA0j0CXoA4E0s27UnrZww&s" group-title="AS INDIA", COLORS HD
- 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: CINEPLEX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rMqc6RsgZiQbObrIzYe2BAw-XX7GJclggg&s" group-title="AS INDIA", COLORS CINEPLEX HD 
- 
-#EXTINF:-1 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC", MTV BEATS HD
+
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS.png" , COLORS SD 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100811 
+#EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS_HD.png",  COLORS HD 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100812 
+#EXTINF:-1 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC", MTV BEATS SD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMW9u75tcOia_WC0R7-0S3wKB2c8tp6GALg&s" group-title="AS INDIA", DISCOVERY HD
@@ -523,11 +510,8 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93734
 
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: WILLOW CRICKET HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" group-title="AS SPORTS",WILLOW HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93735
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png", T SPORTS HD
-http://testing.denver1769.in/51.php?id=6919
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi TV  
-
  
+
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="AS SPORTS",STAR SPORTS 1 SD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="AS SPORTS",STAR SPORTS 2 SD
