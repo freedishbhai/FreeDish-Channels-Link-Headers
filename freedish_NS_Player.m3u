@@ -527,26 +527,12 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93735
 http://testing.denver1769.in/51.php?id=6919
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi TV  
 
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg", A SPORTS HD 
-http://testing.denver1769.in/51.php?id=11217
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGqgtuybJE7A3N7iTNOflSrd4uo_JRVr8_QXK8DjTgLspXpawoYDVaA&s", TEN SPORTS HD 
-
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="AS SPORTS",STAR SPORTS 1 SD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="AS SPORTS",STAR SPORTS 2 SD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8 
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GAZI TV 
-
-http://176.119.29.52/live.ts?channelId=98&deviceMac=00:1A:79:0A:CA:4F  
-
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png", TNT SPORTS 1
-https://catowrap.live/mrgamingbtsport1.m3u8
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png",TNT SPORTS 2
-https://catowrap.live/mrgamingbtsport2.m3u8
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png",TNT SPORTS 3
-https://catowrap.live/mrgamingbtsport3.m3u8
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png", TNT SPORTS 4
 https://catowrap.live/mrgamingbtsport4.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONYLIV",SONY TEN 1
 https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
@@ -605,15 +591,6 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsYQYeo2rNveIEXwg6Vd6AuEB6jYCn8AT7lZYaG7s3w&s" , PTV SPORTS
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93416
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsYQYeo2rNveIEXwg6Vd6AuEB6jYCn8AT7lZYaG7s3w&s" , PTV SPORTS HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93417
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwFxX_KAyRRKecyME0zv2WovqPCvKQrzWtZ18zQhDJg&s" , TEN SPORTS HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93418
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVX4-Uf7624f46lEsiupZhxT5F4LxeBz1pMtnRI9YDQQ&s" , GEO SUPER
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93419
 
 
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/discovery-channel.gif", DISCOVERY HINDI 
