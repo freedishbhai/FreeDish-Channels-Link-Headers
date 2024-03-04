@@ -307,8 +307,6 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY YAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImQbY_rnmMdT3tYn0-socqDUEyMvMXK1OGA31HVUGQg&s" group-title="AS INDIA", SONY YAY
 
 
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS.png" , COLORS SD 
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100811 
 #EXTINF:-1  tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS_HD.png",  COLORS HD 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100812 
 #EXTINF:-1 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC", MTV BEATS SD 
@@ -328,9 +326,7 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/nick.gif", NICK HINDI TEST
 
-http://mag.trexlive.me:80/Michael88/Michael88/281135 
-
-
+ 
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cartoon-network.gif", CARTOON NETWORK TEST
 
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
@@ -353,12 +349,11 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96290
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DISCOVERY KIDS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iXAOtfAy.png" group-title="AS INDIA",DISCOVERY KIDS
 http://103.131.214.129:9985/stream/channelid/1666515958?ticket=ADB7529A58A8C25B5FD6FD9B5FE26806CC0184B0&profile=pass
 
-
+#EXTINF: -1 tvg-id="24Ghante.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/24_Ghanta.png/revision/latest?cb=20171123072749" group-title="BENGALI/BANGLA", 24 GHANTA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA", AMAR BANGLA FTA
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-
-
 
 #EXTINF: -1 tvg-id="DDBangla.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7leiUenrDhYX8j9rvi_khhJMZaiO4gbC2R1PADpzOQ&s" group-title="BENGALI/BANGLA", DD BANGLA
 
@@ -367,9 +362,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Tv9bangla.png/revision/latest?cb=20210509173815",TV9 BANGLA 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-
-#EXTINF: -1 tvg-id="24Ghante.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/24_Ghanta.png/revision/latest?cb=20171123072749" group-title="BENGALI/BANGLA", 24 GHANTA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="BENGALI/BANGLA", SUN BANGLA CINEMA 
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
