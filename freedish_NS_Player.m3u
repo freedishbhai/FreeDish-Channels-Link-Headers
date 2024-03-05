@@ -73,8 +73,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cartoon-network.gif", CARTOON NETWORK 
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
-#EXTNIF:-1 
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DbTeiM7gnALx83EL-z-znm7Y0gjccXbUMovkeiqmdg&s" , RONGEEN TV 
+
+
+#EXTNIF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DbTeiM7gnALx83EL-z-znm7Y0gjccXbUMovkeiqmdg&s" , RONGEEN TV 
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8 
 
 
@@ -131,9 +132,9 @@ https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 #EXTINF: -1 tvg-id="231" tvg-name="News 18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="", NEWS 18 INDIA 
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB/DenverIsAlive.m3u8
 #EXTINF: -1 tvg-id="858" tvg-name="Republic English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="", REPUBLIC ENGLISH 
-https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.m3u8#DenverIsAlive
+https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.m3u8
 #EXTINF: -1 tvg-id="858" tvg-name="Republic Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="", REPUBLIC HINDI 
-https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/master.m3u8#DenverIsAlive
+https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/master.m3u8
 #EXTINF: -1 tvg-id="530" tvg-name="News18 UP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="", NEWS18 UP
 https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB/DenverIsAlive.m3u8
 #EXTINF: -1 tvg-id="501" tvg-name="News 24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="", NEWS 24
@@ -230,7 +231,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallba
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_SD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="", COLORS CINEPLEX HD [VOOT]
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="VOOT - ", COLORS CINEPLEX BOLLYWOOD [VOOT]
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title=" ", COLORS CINEPLEX BOLLYWOOD [VOOT]
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title=" ", COLORS HD [VOOT]
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
@@ -356,7 +357,7 @@ http://103.131.214.129:9985/stream/channelid/1666515958?ticket=ADB7529A58A8C25B5
 #EXTINF: -1 tvg-id="24Ghante.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/24_Ghanta.png/revision/latest?cb=20171123072749" group-title="", 24 GHANTA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA", AMAR BANGLA FTA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="", AMAR BANGLA FTA
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 #EXTINF: -1 tvg-id="DDBangla.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7leiUenrDhYX8j9rvi_khhJMZaiO4gbC2R1PADpzOQ&s" group-title="", DD BANGLA
