@@ -12,7 +12,7 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEitk0X-bIAhmbw5dMnVGgNEAaJUfYke1zUvZjjQ7dyg&s" , DD BANGLA
  
-#EXTINF:1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC8Nf-ALGdIerKbuv6mLEU9y30Y-A8ErlfUXHBCyR8PvVZ0i9rCV8ujgw&s", THE Q 
+#EXTINF:1 tvg-logo=https://cloudtv.akamaized.net/anyott/images/CMS_BD/0b3396bb-5c04-4d7c-bec0-21f586183d54_180x180_TheQ.jpg", THE Q 
 https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/9750c1d5-0ca6-4ad4-a87a-6d62e308e36d/1.m3u8
 #EXTINF:1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/e/eb/Naaptol_new_logo.jpeg/revision/latest?cb=20200102062310", NAAPTOL HINDI 
 https://naaptol.livebox.co.in/Naaptolbluehls/bluehindi.m3u8 
