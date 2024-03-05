@@ -12,6 +12,10 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEitk0X-bIAhmbw5dMnVGgNEAaJUfYke1zUvZjjQ7dyg&s" , DD BANGLA
  
+#EXTINF:1 tvg-logo=https://www.tataplay.com/s3-api/v1/assets/channels/the-q.gif", THE Q 
+https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/9750c1d5-0ca6-4ad4-a87a-6d62e308e36d/1.m3u8
+#EXTINF:1 tvg-logo=https://www.tataplay.com/s3-api/v1/assets/channels/tamil-naaptol---free.gif", NAAPTOL HINDI 
+https://naaptol.livebox.co.in/Naaptolbluehls/bluehindi.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz1iuWETJIPT1IGv1oKp4YJc1aTW1FMlm2wyKISaVpg&s",DESI CHANNEL 
