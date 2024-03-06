@@ -20,7 +20,7 @@ https://naaptol.livebox.co.in/Naaptolbluehls/bluehindi.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HISTORY TV18 HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/history-tv18.gif", HISTORY TV 18 HINDI 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96224
 
-#EXTINF:-1 ,MBC BOLLYWOOD 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH--vRbQp4C5rd1Z5dsTW6UHycdpxep-r7ZKc5mglidg&s", MBC BOLLYWOOD 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
 
