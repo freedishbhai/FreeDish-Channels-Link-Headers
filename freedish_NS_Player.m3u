@@ -20,6 +20,20 @@ https://naaptol.livebox.co.in/Naaptolbluehls/bluehindi.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HISTORY TV18 HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/history-tv18.gif", HISTORY TV 18 HINDI 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96224
 
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/MBC_Bollywood_HD.png" tvg-id="mbcbollywood.ae" ,MBC BOLLYWOOD 
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+
+#EXTNIF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQOXT71Bk7YmINhbmxjwwwexpCSY-gP6wWC4nPWRMyg&s", ZEE AFLAM 
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz1iuWETJIPT1IGv1oKp4YJc1aTW1FMlm2wyKISaVpg&s",DESI CHANNEL 
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
@@ -590,13 +604,6 @@ https://mhdtvmax.net/delta/discovery/api/Animal_Planettv_Hindi.m3u8
 https://mhdtvmax.net/delta/discovery/api/TLC_Hindi.m3u8 
 #EXTINF:-1 group-title="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/discovery-channel.gif", DISCOVERY KIDS HINDI
 https://mhdtvmax.net/delta/discovery/api/Discovery_Kids_Hindi.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/MBC_Bollywood_HD.png" tvg-id="mbcbollywood.ae" ,MBC BOLLYWOOD HD
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-
-#EXTNIF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQOXT71Bk7YmINhbmxjwwwexpCSY-gP6wWC4nPWRMyg&s", ZEE AFLAM 
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8
-
 
 
 
