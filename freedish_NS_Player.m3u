@@ -41,7 +41,9 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF: -1 tvg-id="B4UMovies.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545", B4U MOVIES
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
  
-#EXTNIF:1 , tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0cd5jJQtCehvNMiwZLJr25F_MhzdD1gngHOv2ZiTjA&s",ZEE AFLAM SD
+
+#EXTNIF:1 ,tvg-id="zeeaflam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0cd5jJQtCehvNMiwZLJr25F_MhzdD1gngHOv2ZiTjA&s", ZEE AFLAM 
+
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zdkmQbLP.png", B4U KADAK
