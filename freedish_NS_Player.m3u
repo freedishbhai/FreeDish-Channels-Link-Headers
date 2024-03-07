@@ -2,25 +2,25 @@
 #EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="NOTICE",FREE DISH BHAI 
 https://video.fccu9-4.fna.fbcdn.net/v/t39.25447-2/429588423_1924976627904825_778907961611402260_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfZ2VuMmh3YmFzaWNfaHEyX2ZyYWdfMl92aWRlbyJ9&_nc_ohc=qWhH-FNRHVAAX9KIXak&_nc_rml=0&_nc_ht=video.fccu9-4.fna&oh=00_AfCuUWcffAukQAOUL-jms8ejIs1Ml2BfiF2N9K7-OrG63g&oe=65EB42DC
 
-#EXTINF: -1 tvg-id="DDNational.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQRjW7Nx7jvkwYqJ8E22DV_egz4d1UBPCjw&s" group-title="FREEDISH-DD", DD NATIONAL
+#EXTINF: -1 tvg-id="DDNational.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQRjW7Nx7jvkwYqJ8E22DV_egz4d1UBPCjw&s" group-title="", DD NATIONAL
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3n7u03ctt3CRLGRpBAaSe4ceJ-AXm6U2KyA&s" group-title="FREEDISH-DD", DD NEWS HD
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3n7u03ctt3CRLGRpBAaSe4ceJ-AXm6U2KyA&s" group-title="", DD NEWS HD
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Y0e3jardEIAmpLOR2NJRIGcpaKcCev_WAg&s" group-title="FREEDISH-DD", DD SPORTS
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Y0e3jardEIAmpLOR2NJRIGcpaKcCev_WAg&s" group-title="", DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEitk0X-bIAhmbw5dMnVGgNEAaJUfYke1zUvZjjQ7dyg&s" group-title="FREEDISH-DD" , DD BANGLA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEitk0X-bIAhmbw5dMnVGgNEAaJUfYke1zUvZjjQ7dyg&s" group-title="" , DD BANGLA
  
 #EXTINF:1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0b3396bb-5c04-4d7c-bec0-21f586183d54_180x180_TheQ.jpg" group-title="FREEDISH-HINDI", THE Q 
 https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/9750c1d5-0ca6-4ad4-a87a-6d62e308e36d/1.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8rsekgbOtX__DCWYhsnE2f04THqGSMLIePQwS-HloQ&s" group-title="FREEDISH-TELESHOPING", NAAPTOL HINDI 
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8rsekgbOtX__DCWYhsnE2f04THqGSMLIePQwS-HloQ&s" group-title="", NAAPTOL HINDI 
 https://naaptol.livebox.co.in/Naaptolbluehls/bluehindi.m3u8 
 
 #EXTINF:-1 tvg-ID="" tvg-name="HISTORY TV18 HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/history-tv18.gif" group-title="", HISTORY TV 18 HINDI 
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96224
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH--vRbQp4C5rd1Z5dsTW6UHycdpxep-r7ZKc5mglidg&s"group-title="FREEDISH-BOLLYWOOD", MBC BOLLYWOOD 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH--vRbQp4C5rd1Z5dsTW6UHycdpxep-r7ZKc5mglidg&s"group-title="", MBC BOLLYWOOD 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
 
@@ -42,7 +42,7 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
  
 
-#EXTNIF:1 ,tvg-id="zeeaflam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0cd5jJQtCehvNMiwZLJr25F_MhzdD1gngHOv2ZiTjA&s"group-title="FREEDISH-BOLLYWOOD", ZEE AFLAM 
+#EXTNIF:1 ,tvg-id="zeeaflam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0cd5jJQtCehvNMiwZLJr25F_MhzdD1gngHOv2ZiTjA&s"group-title="", ZEE AFLAM 
 
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8
 
@@ -84,24 +84,24 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cartoon-network.gif" group-title="FREEDISH-KIDS", CARTOON NETWORK 
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cartoon-network.gif" group-title="KIDS", CARTOON NETWORK 
 
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 
 
-#EXTNIF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DbTeiM7gnALx83EL-z-znm7Y0gjccXbUMovkeiqmdg&s" group-title="FREEDISH-KIDS", RONGEEN TV 
+#EXTNIF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DbTeiM7gnALx83EL-z-znm7Y0gjccXbUMovkeiqmdg&s" group-title="KIDS", RONGEEN TV 
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFH6hsEM-j4ovDFGXAbNK-2O_AwAGYWsYqcPoIYZ7fQ&s"group-title="FREEDISH-ISLAMIC", PEACE TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFH6hsEM-j4ovDFGXAbNK-2O_AwAGYWsYqcPoIYZ7fQ&s"group-title="", PEACE TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8 
 
-#EXTINF:-1 tvg-name="ARY Digital Asia HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg"group-title="FREEDISH-PK", ARY DIGITAL HD
+#EXTINF:-1 tvg-name="ARY Digital Asia HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg"group-title="", ARY DIGITAL HD
 http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOIvpybfn7e_ncu_cNnrKgcMFzyrZj_rOo2E_U2uscQ&s" group-title="FREEDISH-PK", HAR PAL GEO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOIvpybfn7e_ncu_cNnrKgcMFzyrZj_rOo2E_U2uscQ&s" group-title="", HAR PAL GEO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU160QiZSJjVMlY1wr3r1yItFDyUt19JTYZudZQOoYEP4NyX0CrbSFUKA&s"group-title="FREEDISH-MOVIES", ZEE ACTION
@@ -141,7 +141,7 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m
 
 #EXTINF: -1 tvg-id="173" tvg-name="Aaj Tak HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="FREEDISH-NEWS", AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF: -1 tvg-id="177" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="FRERDISH-NEWS", ABP NEWS 
+#EXTINF: -1 tvg-id="177" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="FREEDISH-NEWS", ABP NEWS 
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF: -1 tvg-id="504" tvg-name="Zee News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="FREEDISH-NEWS", ZEE NEWS 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
@@ -215,7 +215,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="FREEDISH-DD" ,DD BHARTI 
 https://daem.short.gy/DD-Bharati/CCL(2024)/FreeDishBhai.m3u8 
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/U_Bangla.png" group-title="FREEDISH-BANGLA",U BANGLA 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/U_Bangla.png" group-title="BANGLA",U BANGLA 
 https://ubangla.akamaized.net/hls/ubangla.m3u8 
 
 
