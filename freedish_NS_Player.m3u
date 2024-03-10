@@ -114,6 +114,11 @@ http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOIvpybfn7e_ncu_cNnrKgcMFzyrZj_rOo2E_U2uscQ&s" group-title="", HAR PAL GEO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
+#EXTNIF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSURZNCygugcmMvA95jmUvMu5NlMrikf959uQ&s",HUM TV HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93342
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU160QiZSJjVMlY1wr3r1yItFDyUt19JTYZudZQOoYEP4NyX0CrbSFUKA&s", ZEE ACTION
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96169
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: ZEE TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/ZeeHD2011.jpg/revision/latest/scale-to-width-down/250?cb=20171020175316" ,ZEE TV HD
