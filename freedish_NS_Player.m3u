@@ -23,6 +23,12 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96224
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH--vRbQp4C5rd1Z5dsTW6UHycdpxep-r7ZKc5mglidg&s"group-title="", MBC BOLLYWOOD 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
+#EXTINF:-1 tvg-id="611" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png",7X MUSIC 
+https://stream.e2is.in/hls/7xMusic.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz1iuWETJIPT1IGv1oKp4YJc1aTW1FMlm2wyKISaVpg&s" group-title="FREEDISH-MUSIC",DESI CHANNEL 
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
