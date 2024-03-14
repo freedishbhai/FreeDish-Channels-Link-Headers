@@ -685,30 +685,10 @@ http://mag.trexlive.me:80/Michael88/Michael88/280745
 #EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" , AND TV 
 http://mag.trexlive.me:80/Michael88/Michael88/157160
 
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ddnews.jpg" tvg-id="DDNews.in" , DD NEWS HD
-http://mag.trexlive.me:80/Michael88/Michael88/155978
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/DD-BIHAR.jpg" tvg-id="DDBihar.in" , DD BIHAR
-http://mag.trexlive.me:80/Michael88/Michael88/156092
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ddindia.png" tvg-id="DDIndia.in" , DD INDIA
-http://mag.trexlive.me:80/Michael88/Michael88/156095
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/DD-MP.jpeg" tvg-id="DDManipur.in" , DD MP
-http://mag.trexlive.me:80/Michael88/Michael88/156093
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ddnationalhd.jpg" tvg-id="DDNational.in" , DD NATIONAL HD
-http://mag.trexlive.me:80/Michael88/Michael88/155977
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ddrajashtan.jpg" tvg-id="DDRajasthan.in" , DD RAJASTHAN
-http://mag.trexlive.me:80/Michael88/Michael88/156091
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/DD-UP.png" tvg-id="DDUttarPradesh.in" , DD UP
-http://mag.trexlive.me:80/Michael88/Michael88/156090
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/DD-URDU.png" tvg-id="DDUrdu.in" , DD URDU
-http://mag.trexlive.me:80/Michael88/Michael88/280827
+ 
 #EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ddsports.jpg" tvg-id="DDSports.in" , DD SPORTS
 http://mag.trexlive.me:80/Michael88/Michael88/280825
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/DD-KISAN.jpg" tvg-id="DDKisan.in" , DD KISAN
-http://mag.trexlive.me:80/Michael88/Michael88/280820
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/DD-BHARTI.png" tvg-id="DDBharati.in" , DD BHARTI
-http://mag.trexlive.me:80/Michael88/Michael88/156126
-
-
+ 
 #EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" , NAT GEO HD
 http://mag.trexlive.me:80/Michael88/Michael88/156011
 #EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" tvg-id="NatGeoWild.in" , NAT GEO WILD HD
@@ -737,7 +717,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/281100
 http://mag.trexlive.me:80/Michael88/Michael88/155983
 #EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/astrotv.png" tvg-id="StarCricket.sg" , ASTRO CRICKET HD
 http://mag.trexlive.me:80/Michael88/Michael88/315181
-#EXTINF:-1 group-title=" SPORTS" , TSPORTS
+#EXTINF:-1 group-title=" SPORTS" , T SPORTS HD 
 http://mag.trexlive.me:80/Michael88/Michael88/156016
 
 #EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" tvg-id="StarSports1.in" , STAR SPORTS 1 ENGLISH HD
@@ -813,7 +793,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/1118058
 http://mag.trexlive.me:80/Michael88/Michael88/155770
 #EXTINF:-1 group-title=" BENGALI/BANGLA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARJALSHA.png" , STAR JALSHA
 http://mag.trexlive.me:80/Michael88/Michael88/1118057
-#EXTINF:-1 group-title=" BENGALI/BANGLA" tvg-logo="http://logo.protv.cc/picons/logos/RPLUS-.jpeg" , RPLUS
+#EXTINF:-1 group-title=" BENGALI/BANGLA" tvg-logo="http://logo.protv.cc/picons/logos/RPLUS-.jpeg" , R PLUS
 http://mag.trexlive.me:80/Michael88/Michael88/282082
 #EXTINF:-1 group-title=" BENGALI/BANGLA" tvg-logo="http://logo.protv.cc/picons/logos/ENTER-10-BANGLA.jpeg" , ENTER 10 BANGLA
 http://mag.trexlive.me:80/Michael88/Michael88/282074
