@@ -822,10 +822,7 @@ http://xtv.ooo:8080/03155515900TG/03155515900TG/150482
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" tvg-id="pogo.in" , POGO
 http://xtv.ooo:8080/03155515900TG/03155515900TG/150483
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" , SONIC 
-http://xtv.ooo:8080/03155515900TG/03155515900TG/34011
-
+ 
 #EXTINF:-1  tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" tvg-id="sonyten3hd.in" ,NICK HD+
 http://xtv.ooo:8080/03155515900TG/03155515900TG/76722
 
@@ -838,4 +835,6 @@ http://xtv.ooo:8080/03155515900TG/03155515900TG/167551
 
 #EXTINF:-1 , HUNGAMA KIDS
 http://xtv.ooo:8080/03155515900TG/03155515900TG/150480
- 
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png",SONIC 
+http://xtv.ooo:8080/03155515900TG/03155515900TG/34011
