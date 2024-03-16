@@ -823,9 +823,7 @@ http://xtv.ooo:8080/03155515900TG/03155515900TG/150482
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" tvg-id="pogo.in" , POGO
 http://xtv.ooo:8080/03155515900TG/03155515900TG/150483
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" tvg-id="0" , SONY YAY
-http://xtv.ooo:8080/03155515900TG/03155515900TG/26187
- tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" , SONIC 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" , SONIC 
 http://xtv.ooo:8080/03155515900TG/03155515900TG/34011
 
 #EXTINF:-1  tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" tvg-id="sonyten3hd.in" ,NICK HD+
