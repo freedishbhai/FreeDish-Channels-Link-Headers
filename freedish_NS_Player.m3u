@@ -17,8 +17,7 @@ https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8rsekgbOtX__DCWYhsnE2f04THqGSMLIePQwS-HloQ&s" group-title="", NAAPTOL HINDI 
 https://naaptol.livebox.co.in/Naaptolbluehls/bluehindi.m3u8 
 
-#EXTINF:-1 tvg-ID="" tvg-name="HISTORY TV18 HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/history-tv18.gif" group-title="", HISTORY TV 18 HINDI 
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96224
+ 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/MBCBollywood.png/revision/latest?cb=20191207101130"group-title="", MBC BOLLYWOOD 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
@@ -816,4 +815,29 @@ http://mag.trexlive.me:80/Michael88/Michael88/1112198
 http://mag.trexlive.me:80/Michael88/Michael88/1112197
 #EXTINF:-1 group-title=" BENGALI/BANGLA" tvg-logo="http://logo.protv.cc/picons/logos/SANGEET-BANGLA.png" tvg-id="SangeetBangla.in" , SANGEET BANGLA
 http://mag.trexlive.me:80/Michael88/Michael88/155777
+
+ 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" tvg-id="nick.in" , NICK 
+http://xtv.ooo:8080/03155515900TG/03155515900TG/150482
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" tvg-id="pogo.in" , POGO
+http://xtv.ooo:8080/03155515900TG/03155515900TG/150483
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" tvg-id="0" , SONY YAY
+http://xtv.ooo:8080/03155515900TG/03155515900TG/26187
+ tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" , SONIC 
+http://xtv.ooo:8080/03155515900TG/03155515900TG/34011
+
+#EXTINF:-1  tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" tvg-id="sonyten3hd.in" ,NICK HD+
+http://xtv.ooo:8080/03155515900TG/03155515900TG/76722
+
+ 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" , DISNEY 
+http://xtv.ooo:8080/03155515900TG/03155515900TG/153175
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" tvg-id="disneychannel.in" , DISNEY HD
+http://xtv.ooo:8080/03155515900TG/03155515900TG/167551
+
+#EXTINF:-1 , HUNGAMA KIDS
+http://xtv.ooo:8080/03155515900TG/03155515900TG/150480
  
