@@ -2,7 +2,7 @@
 #EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_of_DD_Free_Dish.jpg/revision/latest?cb=20190306041028" group-title="NOTICE",FREE DISH BHAI 
 https://video.fccu9-4.fna.fbcdn.net/v/t39.25447-2/429588423_1924976627904825_778907961611402260_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfZ2VuMmh3YmFzaWNfaHEyX2ZyYWdfMl92aWRlbyJ9&_nc_ohc=qWhH-FNRHVAAX9KIXak&_nc_rml=0&_nc_ht=video.fccu9-4.fna&oh=00_AfCuUWcffAukQAOUL-jms8ejIs1Ml2BfiF2N9K7-OrG63g&oe=65EB42DC
 
-#EXTINF: -1 tvg-id="DDNational.in" tvg-logo="https://i.ibb.co/tYtK12y/In-Shot-20240318-032351817.jpg" group-title="", DD NATIONAL
+#EXTINF: -1 tvg-id="DDNational.in" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", DD NATIONAL
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3n7u03ctt3CRLGRpBAaSe4ceJ-AXm6U2KyA&s" group-title="", DD NEWS HD
@@ -696,185 +696,185 @@ https://mhdtvmax.net/delta/discovery/api/TLC_Hindi.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/discovery-channel.gif" group-title="KIDS", DISCOVERY KIDS HINDI
 https://mhdtvmax.net/delta/discovery/api/Discovery_Kids_Hindi.m3u8
 
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" tvg-id="AndTV.in" , AND TV HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="AndTV.in" , AND TV HD
 http://mag.trexlive.me:80/Michael88/Michael88/809740
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/zeeaction.jpg" tvg-id="ZeeAction.in" , ZEE ACTION
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ZeeAction.in" , ZEE ACTION
 http://mag.trexlive.me:80/Michael88/Michael88/156139
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" tvg-id="ZeeTV.in" , ZEE TV HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ZeeTV.in" , ZEE TV HD
 http://mag.trexlive.me:80/Michael88/Michael88/155974
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" tvg-id="ZeeTV.in" , ZEE TV
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ZeeTV.in" , ZEE TV
 http://mag.trexlive.me:80/Michael88/Michael88/280773
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/zeetvhd.png" , TEST 
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , TEST 
 http://mag.trexlive.me:80/Michael88/Michael88/157155
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.zeetv.png" , GOLDMINES 
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , GOLDMINES 
 http://mag.trexlive.me:80/Michael88/Michael88/157158
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.zeecinema.png" tvg-id="ZeeCinema.in" , ZEE CINEMA HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ZeeCinema.in" , ZEE CINEMA HD
 http://mag.trexlive.me:80/Michael88/Michael88/155975
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.zeecinema.png" tvg-id="ZeeCinema.in" , ZEE CINEMA
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ZeeCinema.in" , ZEE CINEMA
 http://mag.trexlive.me:80/Michael88/Michael88/280772
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/zeebollywood.jpg" tvg-id="ZETCBollywood.in" , ZEE BOLLWOOD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ZETCBollywood.in" , ZEE BOLLWOOD
 http://mag.trexlive.me:80/Michael88/Michael88/311859
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/zeeclassic.jpg" tvg-id="ZeeClassic.in" , ZEE CLASSIC
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ZeeClassic.in" , ZEE CLASSIC
 http://mag.trexlive.me:80/Michael88/Michael88/311858
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.zing.png" tvg-id="Zing.in" , ZING
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="Zing.in" , ZING
 http://mag.trexlive.me:80/Michael88/Michael88/156046
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/colorshd.png" tvg-id="Colors.in" , COLORS
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="Colors.in" , COLORS
 http://mag.trexlive.me:80/Michael88/Michael88/156172
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.colors.png" tvg-id="Colors.in" , COLORS TV HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="Colors.in" , COLORS TV HD
 http://mag.trexlive.me:80/Michael88/Michael88/280774
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/AAPKA-COLORS.png" , AAPKA COLORS HD USA
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , APKA COLORS HD USA
 http://mag.trexlive.me:80/Michael88/Michael88/157161
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/stargoldhd.png" tvg-id="StarGold.in" , STAR GOLD HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarGold.in" , STAR GOLD HD
 http://mag.trexlive.me:80/Michael88/Michael88/155969
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.stargold.png" tvg-id="StarGold.in" , STAR GOLD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarGold.in" , STAR GOLD
 http://mag.trexlive.me:80/Michael88/Michael88/280766
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STARGOLDHD.png" , STAR GOLD 2
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , STAR GOLD 2
 http://mag.trexlive.me:80/Michael88/Michael88/1112132
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/stargoldselect.png" tvg-id="StarGoldSelect.in" , STAR GOLD SELECT HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarGoldSelect.in" , STAR GOLD SELECT HD
 http://mag.trexlive.me:80/Michael88/Michael88/155970
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/stargoldselect.png" tvg-id="StarGoldSelect.in" , STARGOLD SELECT
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarGoldSelect.in" , STARGOLD SELECT
 http://mag.trexlive.me:80/Michael88/Michael88/280778
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/starplushd.png" tvg-id="StarPlus.in" , STAR PLUS HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarPlus.in" , STAR PLUS HD
 http://mag.trexlive.me:80/Michael88/Michael88/155971
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.starplus.png" tvg-id="StarPlus.in" , STAR PLUS
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarPlus.in" , STAR PLUS
 http://mag.trexlive.me:80/Michael88/Michael88/280767
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/starbharathd.jpg" tvg-id="StarBharat.in" , STAR BHARAT HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarBharat.in" , STAR BHARAT HD
 http://mag.trexlive.me:80/Michael88/Michael88/156173
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/starbharat.png" tvg-id="StarBharat.in" , STAR BHARAT
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarBharat.in" , STAR BHARAT
 http://mag.trexlive.me:80/Michael88/Michael88/280765
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/starutsav.png" tvg-id="StarUtsav.in" , STAR UTSAV
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarUtsav.in" , STAR UTSAV
 http://mag.trexlive.me:80/Michael88/Michael88/156163
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/STAR-UTSAV-MOVIES.png" , STAR UTSAV MOVIES
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , STAR UTSAV MOVIES
 http://mag.trexlive.me:80/Michael88/Michael88/1112131
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.sonytvhd.png" tvg-id="Sony.in" , SONY HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="Sony.in" , SONY HD
 http://mag.trexlive.me:80/Michael88/Michael88/156170
 
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/in.sonymaxhd.png" tvg-id="SonyMax.in" , SONY MAX HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonyMax.in" , SONY MAX HD
 http://mag.trexlive.me:80/Michael88/Michael88/156013
 
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/sonymax2.png" tvg-id="SonyMax2.in" , SONY MAX 2 HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonyMax2.in" , SONY MAX 2 HD
 http://mag.trexlive.me:80/Michael88/Michael88/280780
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/sonymax2.png" tvg-id="SonyMax2.in" , SONY MAX 2
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonyMax2.in" , SONY MAX 2
 http://mag.trexlive.me:80/Michael88/Michael88/156118
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/sonysabhd.jpg" tvg-id="SonySAB.in" , SONY SAB HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonySAB.in" , SONY SAB HD
 http://mag.trexlive.me:80/Michael88/Michael88/156014
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/sonysab.png" tvg-id="SonySAB.in" , SONY SAB
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonySAB.in" , SONY SAB
 http://mag.trexlive.me:80/Michael88/Michael88/280764
 
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/starbharat.png" , STAR BHARAT 
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , STAR BHARAT 
 http://mag.trexlive.me:80/Michael88/Michael88/945579
 
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-ANMOL.jpg" , ZEE ANMOL
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , ZEE ANMOL
 http://mag.trexlive.me:80/Michael88/Michael88/156165
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-ANMOL-CINEMA.jpg" tvg-id="ZeeAnmolCinema.in" , ZEE ANMOL CINEMA
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ZeeAnmolCinema.in" , ZEE ANMOL CINEMA
 http://mag.trexlive.me:80/Michael88/Michael88/156146
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/zeebusiness.jpg" tvg-id="ZeeBusiness.in" , ZEE BUSINESS
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ZeeBusiness.in" , ZEE BUSINESS
 http://mag.trexlive.me:80/Michael88/Michael88/156122
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-ETC-BOLLYWOOD.png" , ZEE ETC BOLLYWOOD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , ZEE ETC BOLLYWOOD
 http://mag.trexlive.me:80/Michael88/Michael88/156166
 
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/AND-FLIX.png" tvg-id="AndFlix.in" , AND FLIX HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="AndFlix.in" , AND FLIX HD
 http://mag.trexlive.me:80/Michael88/Michael88/155990
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/andpicture.jpg" tvg-id="AndPictures.in" , AND PICTURES HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="AndPictures.in" , AND PICTURES HD
 http://mag.trexlive.me:80/Michael88/Michael88/155997
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/andpicture.jpg" , AND PICTURES
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , AND PICTURES
 http://mag.trexlive.me:80/Michael88/Michael88/280744
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" tvg-id="AndTV.in" , AND TV HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="AndTV.in" , AND TV HD
 http://mag.trexlive.me:80/Michael88/Michael88/155992
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/andtv.png" , AND TV
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , AND TV
 http://mag.trexlive.me:80/Michael88/Michael88/280745
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/andtvhd.png" , AND TV 
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , AND TV 
 http://mag.trexlive.me:80/Michael88/Michael88/157160
 
  
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ddsports.jpg" tvg-id="DDSports.in" , DD SPORTS
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="DDSports.in" , DD SPORTS
 http://mag.trexlive.me:80/Michael88/Michael88/280825
  
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" , NAT GEO HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , NAT GEO HD
 http://mag.trexlive.me:80/Michael88/Michael88/156011
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" tvg-id="NatGeoWild.in" , NAT GEO WILD HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="NatGeoWild.in" , NAT GEO WILD HD
 http://mag.trexlive.me:80/Michael88/Michael88/155989
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" tvg-id="UTVAction.in" , STAR GOLD THRILLS
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="UTVAction.in" , STAR GOLD THRILLS
 http://mag.trexlive.me:80/Michael88/Michael88/155996
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" , STAR GOLD THRILLS
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , STAR GOLD THRILLS
 http://mag.trexlive.me:80/Michael88/Michael88/1118072
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/star-gold-thrills-removebg-preview.png" tvg-id="UTV.in" , STAR GOLD THRILLS
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="UTV.in" , STAR GOLD THRILLS
 http://mag.trexlive.me:80/Michael88/Michael88/156005
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/Star_Gold_Romance.png" tvg-id="UTVMovies.in" , STAR GOLD ROMANCE
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="UTVMovies.in" , STAR GOLD ROMANCE
 http://mag.trexlive.me:80/Michael88/Michael88/156033
 
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/historytv18.jpg" tvg-id="HistoryTV18.in" , HISTORY TV 18 HD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="HistoryTV18.in" , HISTORY TV 18 HD
 http://mag.trexlive.me:80/Michael88/Michael88/156018
-#EXTINF:-1 group-title=" INDIA" tvg-logo="http://logo.protv.cc/picons/logos/historytv18.jpg" , HISTORY TV 18 FHD
+#EXTINF:-1 group-title=" INDIA" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , HISTORY TV 18 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1118065
 
 
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/SPORTS-18-WCUP.png" , SPORTS 18 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , SPORTS 18 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1057243
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/a-sport.png" tvg-id="ARYFamily.pk" , A SPORTS HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="ARYFamily.pk" , A SPORTS HD
 http://mag.trexlive.me:80/Michael88/Michael88/281100
 
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/ddsports.jpg" tvg-id="DDSports.in" , DD SPORTS
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="DDSports.in" , DD SPORTS
 http://mag.trexlive.me:80/Michael88/Michael88/155983
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/astrotv.png" tvg-id="StarCricket.sg" , ASTRO CRICKET HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarCricket.sg" , ASTRO CRICKET HD
 http://mag.trexlive.me:80/Michael88/Michael88/315181
 #EXTINF:-1 group-title=" SPORTS" , T SPORTS HD 
 http://mag.trexlive.me:80/Michael88/Michael88/156016
 
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" tvg-id="StarSports1.in" , STAR SPORTS 1 ENGLISH HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSports1.in" , STAR SPORTS 1 ENGLISH HD
 http://mag.trexlive.me:80/Michael88/Michael88/155968
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" , STAR SPORTS HINDI 1 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , STAR SPORTS HINDI 1 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114582
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" tvg-id="StarSports1Hindi.in" , STAR SPORTS 1 HINDI HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSports1Hindi.in" , STAR SPORTS 1 HINDI HD
 http://mag.trexlive.me:80/Michael88/Michael88/155967
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" tvg-id="StarSports1Hindi.in" , STAR SPORTS HINDI 1
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSports1Hindi.in" , STAR SPORTS HINDI 1
 http://mag.trexlive.me:80/Michael88/Michael88/282674
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.png" , STAR SPORTS 1 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , STAR SPORTS 1 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114580
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HD.jpg" tvg-id="StarSports1.in" , STAR SPORTS 1
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSports1.in" , STAR SPORTS 1
 http://mag.trexlive.me:80/Michael88/Michael88/282677
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" , STAR SPORTS 2 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , STAR SPORTS 2 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114581
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" tvg-id="StarSports2.in" , STAR SPORTS 2 HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSports2.in" , STAR SPORTS 2 HD
 http://mag.trexlive.me:80/Michael88/Michael88/155966
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-2-HD.jpeg" tvg-id="StarSports2.in" , STAR SPORTS 2
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSports2.in" , STAR SPORTS 2
 http://mag.trexlive.me:80/Michael88/Michael88/282673
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-3.jpeg" tvg-id="StarSports3.in" , STAR SPORTS 3
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSports3.in" , STAR SPORTS 3
 http://mag.trexlive.me:80/Michael88/Michael88/155976
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-3-HD.jpeg" tvg-id="StarSports3.in" , STAR SPORTS 3
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSports3.in" , STAR SPORTS 3
 http://mag.trexlive.me:80/Michael88/Michael88/282678
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" , STAR SPORTS SELECT 1 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , STAR SPORTS SELECT 1 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114583
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" tvg-id="StarSportsSelect1.in" , STAR SPORTS SELECT 1 HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSportsSelect1.in" , STAR SPORTS SELECT 1 HD
 http://mag.trexlive.me:80/Michael88/Michael88/155972
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg" tvg-id="StarSportsSelect1.in" , STAR SPORTS SELECT 1
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSportsSelect1.in" , STAR SPORTS SELECT 1
 http://mag.trexlive.me:80/Michael88/Michael88/282675
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" , STAR SPORTS SELECT 2 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , STAR SPORTS SELECT 2 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114584
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" tvg-id="StarSportsSelect2.in" , STAR SPORTS SELECT 2 HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png"  , STAR SPORTS SELECT 2 HD
 http://mag.trexlive.me:80/Michael88/Michael88/155973
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" tvg-id="StarSportsSelect2.in" , STAR SPORTS SELECT 2
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="StarSportsSelect2.in" , STAR SPORTS SELECT 2
 http://mag.trexlive.me:80/Michael88/Michael88/282676
 
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-1.png" , TEN 1 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , TEN 1 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114576
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/TEN-1-HD.png" tvg-id="SonyTEN1.in" , TEN 1 HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonyTEN1.in" , TEN 1 HD
 http://mag.trexlive.me:80/Michael88/Michael88/156017
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/TEN-1-HD.png" tvg-id="SonyTEN1.in" , TEN 1
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonyTEN1.in" , TEN 1
 http://mag.trexlive.me:80/Michael88/Michael88/282670
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-2.jpeg" , TEN 2 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , TEN 2 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114577
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/TEN-2-HD.png" tvg-id="SonyTEN2.in" , TEN 2 HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonyTEN2.in" , TEN 2 HD
 http://mag.trexlive.me:80/Michael88/Michael88/156010
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/TEN-2-HD.png" tvg-id="SonyTEN2.in" , TEN 2
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonyTEN2.in" , TEN 2
 http://mag.trexlive.me:80/Michael88/Michael88/282671
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-3.png" , TEN 3 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , TEN 3 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114578
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/TEN-3-HD.jpeg" tvg-id="SonyTEN3.in" , TEN 3 HD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonyTEN3.in" , TEN 3 HD
 http://mag.trexlive.me:80/Michael88/Michael88/156024
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/TEN-3-HD.jpeg" tvg-id="SonyTEN3.in" , TEN 3
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" tvg-id="SonyTEN3.in" , TEN 3
 http://mag.trexlive.me:80/Michael88/Michael88/282672
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/SONY-TEN-4.jpeg" , TEN 4 FHD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" , TEN 4 FHD
 http://mag.trexlive.me:80/Michael88/Michael88/1114579 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" tvg-id="nick.in" , NICK 
 http://xtv.ooo:8080/03155515900TG/03155515900TG/150482
