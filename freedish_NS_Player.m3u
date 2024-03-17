@@ -906,4 +906,11 @@ http://195.26.87.217/live.ts?channelId=119&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name=" ZEE BANGLA FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/8067afa.png" group-title=,  ZEE BANGLA FHD
 http://195.26.87.217/live.ts?channelId=120&uid=7435&deviceMac=00:1A:79:51:4B:3A 
 
-
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/277cbc3.png" group-title=,  STAR JALSHA MOVIES FHD
+http://195.26.87.217/live.ts?channelId=117&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-name=" THE CHANNEL TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/12a2d5c.png" group-title=,  THE CHANNEL TV FHD
+http://195.26.87.217/live.ts?channelId=90304&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-name=" TIME TELEVISION USA FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/c2be9da.png" group-title=,  TIME TELEVISION USA FHD
+http://195.26.87.217/live.ts?channelId=118&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-name=" TV9 BANGLA FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/1638604.png" group-title=,  TV9 BANGLA FHD
+http://195.26.87.217/live.ts?channelId=90234&uid=7435&deviceMac=00:1A:79:51:4B:3A
