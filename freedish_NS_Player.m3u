@@ -593,6 +593,16 @@ http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NANDAN TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFZKagi25iXPjLpmBYMMRsTSfrh-LT7ysn7uy18_5Ag&s" group-title="BANGLA",NANDAN TV HD
 https://web.nandansyst.com/hls/nandan.m3u8
 
+#EXTINF: -1 tvg-name=" GAZI TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/2c1cf9a.png" group-title=,  GAZI TV HD
+http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A 
+#EXTINF: -1 tvg-name=" T Sports FHD" tvg-logo="http://tv.cloudcdn.me/images/tsports.png" ,  T SPORTS HD
+http://195.26.87.217/live.ts?channelId=48010&uid=7435&deviceMac=00:1A:79:51:4B:3A
+ 
+
+
+
+
+
  
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SUN BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OE57t2p-3ikht3UfMjRmPxU0Dveisf0ckxvgx1P223dbyG0eoQSwNn8&s" group-title="BANGLA",SUN BANGLA
 http://148.113.5.31:8106/play/a00z/index.m3u8
@@ -888,15 +898,5 @@ http://xtv.ooo:8080/03155515900TG/03155515900TG/150480
 http://xtv.ooo:8080/03155515900TG/03155515900TG/34011
 
  
-#EXTINF: -1 tvg-name=" ZEE BANGLA CINEMA" tvg-logo="http://ujm.from-in.com/panel/imageicon/eee0e0e.png" group-title=,  ZEE BANGLA CINEMA
-http://195.26.87.217/live.ts?channelId=119&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-name=" ZEE BANGLA FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/8067afa.png" group-title=,  ZEE BANGLA FHD
-http://195.26.87.217/live.ts?channelId=120&uid=7435&deviceMac=00:1A:79:51:4B:3A 
-
-#EXTINF: -1 tvg-name=" GAZI TV FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/2c1cf9a.png" group-title=,  GAZI TV HD
-http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A 
-
-#EXTINF: -1 tvg-name=" T Sports FHD" tvg-logo="http://tv.cloudcdn.me/images/tsports.png" ,  T SPORTS HD
-http://195.26.87.217/live.ts?channelId=48010&uid=7435&deviceMac=00:1A:79:51:4B:3A
  
 
