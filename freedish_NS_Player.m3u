@@ -510,10 +510,6 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="", GAZI TV  
  
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/SonyAath.png" , SONY AATH [BACKUP]
-http://mag.trexlive.me:80/Michael88/Michael88/1112197
-
-
 
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" group-title="BANGLA",  EKUSHEY TV 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -589,7 +585,7 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100691
  
 
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SONY AATH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5aff8a6a-d664-4292-b4e8-8319e42f77a6_180x180_sony-8.jpg" group-title="BANGLA",SONY AATH
-http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A 
+http://mag.trexlive.me:80/Michael88/Michael88/1112197 
 
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Zee_Bangla_HD_2016.jpg/revision/latest?cb=20190707171603" group-title="BANGLA",ZEE BANGLA
 http://176.119.29.52/live.ts?channelId=120&uid=5060&deviceMac=00:1A:79:73:9C:A1
