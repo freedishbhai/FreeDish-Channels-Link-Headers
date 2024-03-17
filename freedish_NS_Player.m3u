@@ -27,6 +27,68 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 tvg-id="611" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png",7X MUSIC 
 https://stream.e2is.in/hls/7xMusic.m3u8
 
+#EXTINF: -1 tvg-id="DDBharati.in" tvg-logo="https://i.imgur.com/4tfUIEo.png", DD BHARTI 
+https://ythls.armelin.one/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8
+
+#EXTINF: -1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/45uptR8.png", DD INDIA 
+https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+#EXTINF: -1 tvg-id="DDKashir.in" tvg-logo="https://i.imgur.com/1EI4LOf.png", DD KASHIR 
+https://ythls.armelin.one/channel/UCOqU-HfQxoyImaCW2tCDxJA.m3u8
+#EXTINF: -1 tvg-id="DDKisan.in" tvg-logo="https://i.imgur.com/x56WJEa.png", DD KISAN 
+https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8 
+#EXTINF: -1 tvg-id="DDUrdu.in" tvg-logo="https://i.imgur.com/OiQPS34.png" , DD URDU 
+https://ythls.armelin.one/channel/UCu9Fj9QRAg26ZY9DhF8HSrQ.m3u8
+
+
+#EXTINF: -1 tvg-id="GeoKahani.pk" tvg-logo="https://i.imgur.com/uKYH0IM.png", GEO KAHANI 
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-id="PTCChakde.in" tvg-logo="https://i.imgur.com/4lUwdME.png" , PTC CHADKE 
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="PTCPunjabi.in" tvg-logo="https://i.imgur.com/nbUMvaR.png", PTC PUNJABI 
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="PTCPunjabiGold.in" tvg-logo="https://i.imgur.com/g88pV3L.png", PTC PUNJABI GOLD 
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -47,11 +109,16 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
 #EXTINF: -1 tvg-id="B4UMovies.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545", B4U MOVIES
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
- 
 
-#EXTNIF:1 ,tvg-id="zeeaflam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0cd5jJQtCehvNMiwZLJr25F_MhzdD1gngHOv2ZiTjA&s"group-title="", ZEE AFLAM 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTSMxPVx5b0ibZZBiWb3rR_-Chl5J7gx-AfQ&s",GUBBARE KIDS 
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEYYoYSnIh0fsGDJnL3tRSVUicFjLLIrVNJIQcttyiA&s", ISHARA TV
+https://epiconvh.s.llnwi.net/ishaara/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcFuY11N6iO85YXIJ0wSEH-024emumyYaxXFKHVquWaw&s", EPIC  
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.showboxchannel.com/wp-content/uploads/2020/08/mobile-logo.png", SHOWBOX 
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zdkmQbLP.png", B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
@@ -115,8 +182,30 @@ http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOIvpybfn7e_ncu_cNnrKgcMFzyrZj_rOo2E_U2uscQ&s" group-title="", HAR PAL GEO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
-#EXTNIF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSURZNCygugcmMvA95jmUvMu5NlMrikf959uQ&s",HUM TV HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93342
+ 
+
+#EXTINF: -1 tvg-id="SanskarUK.in" tvg-logo="https://i.imgur.com/AU5vSPF.png" , SANSKAR UK 
+https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
+#EXTINF: -1 tvg-id="SanskarUSA.in" tvg-logo="https://i.imgur.com/5WBWruX.png", SANSKAR USA 
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+#EXTINF: -1 tvg-id="SanskarWebTV.in" tvg-logo="https://i.imgur.com/mu2B6hw.png", SANSKAR TV 
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+#EXTINF: -1 tvg-id="SatsangTV.in" tvg-logo="https://i.imgur.com/jnsaMrJ.png", SATSANG TV 
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF: -1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png", SATSANG 
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
