@@ -1,5 +1,10 @@
 #EXTM3U
- 
+
+#EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://i.ibb.co/0Gz2gLd/pngimg-com-telegram-PNG28.png" group-title="",FREE DISH BHAI
+https://drive.usercontent.google.com/download?id=1-Lh0OoYgbeflgQeA6CB7UY2-1rGKMLe0&export=download
+
+
+
 #EXTINF:-1 group-title="MBC GROUP" tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/ZEE_ALWAN.png" tvg-id="zeealwan.ae" , ZEE ALWAN
 http://sansat.net:88/02029761595924/9d089925dc60a821/164096
 #EXTINF:-1 group-title="MBC GROUP" tvg-logo="http://www.vodkom.com:25461/Logo/ARABSAUDIA/ZEE_AFLAM.png" tvg-id="zeeaflam.ae" , ZEE AFLAM
@@ -501,6 +506,13 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/93336
 http://sansat.net:88/02029761595924/9d089925dc60a821/93337
 #EXTINF:-1 group-title="AS PAKISTAN" ,PK-VIP: ARY DIGITAL
 http://sansat.net:88/02029761595924/9d089925dc60a821/93338
+
+#EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://i.ibb.co/0Gz2gLd/pngimg-com-telegram-PNG28.png" group-title="",FREE DISH BHAI
+https://drive.usercontent.google.com/download?id=1-Lh0OoYgbeflgQeA6CB7UY2-1rGKMLe0&export=download
+
+
+
+
 #EXTINF:-1 group-title="AS PAKISTAN" ,PK-VIP: ARY NEWS
 http://sansat.net:88/02029761595924/9d089925dc60a821/93339
 #EXTINF:-1 group-title="AS PAKISTAN" ,PK-VIP: ARY FAMILY
@@ -708,6 +720,11 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/93448
 http://sansat.net:88/02029761595924/9d089925dc60a821/93449
 #EXTINF:-1 group-title="AS PAKISTAN" ,PK-VIP: KAY-2
 http://sansat.net:88/02029761595924/9d089925dc60a821/93450
+
+#EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://i.ibb.co/0Gz2gLd/pngimg-com-telegram-PNG28.png" group-title="",FREE DISH BHAI
+https://drive.usercontent.google.com/download?id=1-Lh0OoYgbeflgQeA6CB7UY2-1rGKMLe0&export=download
+
+
 
 #EXTINF:-1 group-title="AS SOUTH INDIA" ,BENGALI: COLORS BANGLA HD
 http://sansat.net:88/02029761595924/9d089925dc60a821/95766
