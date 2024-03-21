@@ -9,18 +9,26 @@ https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png", IPL LIVE 01
-https://drive.usercontent.google.com/uc?id=1EKvLZBOVSciEoO6gm9h69RKjbmpjK-1t&export=download
-
+https://daem.short.gy/IPL2024LIVE_FreeDishBhai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png", IPL LIVE 02
-https://drive.usercontent.google.com/uc?id=1EKvLZBOVSciEoO6gm9h69RKjbmpjK-1t&export=download
-
+https://daem.short.gy/IPL2024LIVE_FreeDishBhai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png", IPL LIVE 03
-https://drive.usercontent.google.com/uc?id=1EKvLZBOVSciEoO6gm9h69RKjbmpjK-1t&export=download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png", IPL LIVE 04
+https://drive.usercontent.google.com/uc?id=1EKvLZBOVSciEoO6gm9h69RKjbmpjK-1t&export=download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png", IPL LIVE 05
 http://103.120.172.74:4600
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png", IPL LIVE 06
+http://ddh2.nnotoplay.click/premium65/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png", IPL LIVE 07
+https://catowrap.live/mrgamingsscric.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png", IPL LIVE 08
 
 
 
@@ -476,7 +484,7 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY WAH" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY YAY" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="KIDS", SONY YAY
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI: SONY YAY" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title=" ", SONY YAY
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png",  COLORS HD 
@@ -632,9 +640,9 @@ http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
 https://web.nandansyst.com/hls/nandan.m3u8
 
 #EXTINF: -1 tvg-name=" GAZI TV FHD" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title=,  GAZI TV HD
-http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A 
+  
 #EXTINF: -1 tvg-name=" T Sports FHD" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" ,  T SPORTS HD
-http://195.26.87.217/live.ts?channelId=48010&uid=7435&deviceMac=00:1A:79:51:4B:3A
+ 
  
 
 
@@ -661,7 +669,7 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", T SPORTS 
-http://103.109.56.116/live/skyfeed1005/index.m3u8 
+  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", TNT SPORTS 1
 https://catowrap.live/mrgamingbtsport1.m3u8
 
@@ -673,7 +681,7 @@ https://catowrap.live/mrgamingbtsport3.m3u8
 https://catowrap.live/mrgamingbtsport4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", SKY SPORTS CRICKET 
 http://ddh2.nnotoplay.click/premium65/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="",  S CRICKET 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="",  SUPER SPORT CRICKET 
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="",  
 
@@ -755,7 +763,7 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 https://mhdtvmax.net/delta/discovery/api/Discovery_Hindi.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png", DISCOVERY HINDI
  
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="BANGLA", DISCOVERY BENGALI
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", DISCOVERY BENGALI
 https://mhdtvmax.net/delta/discovery/api/Discovery_Bangla.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png", DISCOVERY BENGALI
  
@@ -763,6 +771,6 @@ https://mhdtvmax.net/delta/discovery/api/Discovery_Bangla.m3u8
 https://mhdtvmax.net/delta/discovery/api/Animal_Planettv_Hindi.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png",TLC  HINDI 
 https://mhdtvmax.net/delta/discovery/api/TLC_Hindi.m3u8 
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="KIDS", DISCOVERY KIDS HINDI
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", DISCOVERY KIDS HINDI
 https://mhdtvmax.net/delta/discovery/api/Discovery_Kids_Hindi.m3u8
 
