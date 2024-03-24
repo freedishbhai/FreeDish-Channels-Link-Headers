@@ -10,7 +10,7 @@ https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T SPORTS HD
-https://daem.short.gy/TSports_FreeDishBhaiHD
+ 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" , Gazi TV
 https://daem.short.gy/GaziTV_FreeDishBhaiHD
 
@@ -187,7 +187,8 @@ http://5dd3981940faa.streamlock.net:1935/abnews/abnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MKA51IDlpXxLjr5b10GOTFQqdJOGPFW8uUrwLr2hnw&s" group-title="", CHANNEL VISION BANGLA 
 https://channelvision.livebox.co.in/channelvisionhls/live.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTV7JttP0I-adyJXqoE-DWaoSPcO3O5xV0SRw4c-DQw&s",ZEE CINEMA HD 
+http://103.99.249.139/zeecinema/index.m3u8
 
 
 
@@ -492,7 +493,7 @@ https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: COLORS BANGLA HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title=" ", COLORS BANGLA HD
  
 
-#EXTINF:-1 tvg-logo=" http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title=" ", ENTERR 10 BANGLA 
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcs6xXJN57Lasqi8jOr194fZLaxKR2tFkWr1zgDIukw&s" group-title=" ", ENTERR 10 BANGLA 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 
@@ -657,7 +658,7 @@ https://mhdtvmax.net/delta/discovery/api/Discovery_Hindi.m3u8
 https://mhdtvmax.net/delta/discovery/api/Discovery_Bangla.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_Q1uFNwnT1oedvky6Fryk1M6laynv9hRSC6yHKKdyw&s", DISCOVERY BENGALI
  
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png", ANIMAL PLANET HINDI
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvZJrOL_hk8nWxhzVMRU_DK9I3XcYRCY7EZJ9jZq_xA&s", ANIMAL PLANET HINDI
 https://mhdtvmax.net/delta/discovery/api/Animal_Planettv_Hindi.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92_ENvb98nPez-Lz3cxSuepuIUpNJBrjhLzZhWn727w&s",TLC  HINDI 
 https://mhdtvmax.net/delta/discovery/api/TLC_Hindi.m3u8 
