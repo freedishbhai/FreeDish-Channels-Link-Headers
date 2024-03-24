@@ -9,6 +9,11 @@ https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DD SPORTS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="", DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T SPORTS HD
+https://daem.short.gy/TSports_FreeDishBhaiHD
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png",IPL BANGLA HD 
 https://daem.short.gy/IPLBangla_FreeDishBhaiHD
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png", IPL LIVE 01
