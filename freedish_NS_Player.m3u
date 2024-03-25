@@ -41,7 +41,7 @@ https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://lhttps://encryptedhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrxySo2ljk5ukoI2bIcofMBDBzXMScmicPcsPqGu5g_A&s" group-title="" , T SERIES MUSIC 
+#EXTINF:-1 tvg-logo="https://lhttps://encryptedhttps://dhoom4u.me/stalker_portal/misc/logos/320/6152.png" group-title="" , T SERIES MUSIC 
 https://daem.short.gy/T-SeriesMusic_FreeDishBhai.m3u8
 #EXTINF:1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-150-j5frd0jc-v3/imageContent-150-j5frd0jc-m5.png", THE Q 
 https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/9750c1d5-0ca6-4ad4-a87a-6d62e308e36d/1.m3u8
@@ -212,8 +212,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF: -1 tvg-id="504" tvg-name="Zee News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Zee_News.jpeg/revision/latest?cb=20200413065103" group-title="", ZEE NEWS 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
-#EXTINF: -1 tvg-id="918" tvg-name="Bharat Samachar" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", BHARAT SAMACHAR 
-https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+ 
 #EXTINF: -1 tvg-id="231" tvg-name="News 18 India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKOKavPa9wGR_UdDeHxzbtgZj-6oeO59IlZgMWtebsyw&s" group-title="", NEWS 18 INDIA 
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB/DenverIsAlive.m3u8
 #EXTINF: -1 tvg-id="858" tvg-name="Republic English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUyb2VNLnAnjD80Z2BgfjNlb0E9snbW8ftWso0fIqiNVGQDhSYiSCDTxU&s=10" group-title="", REPUBLIC ENGLISH 
@@ -221,10 +220,6 @@ https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.
 #EXTINF: -1 tvg-id="858" tvg-name="Republic Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUyb2VNLnAnjD80Z2BgfjNlb0E9snbW8ftWso0fIqiNVGQDhSYiSCDTxU&s=10" group-title="", REPUBLIC HINDI 
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/master.m3u8
  
-#EXTINF: -1 tvg-id="501" tvg-name="News 24" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", NEWS 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-#EXTINF: -1 tvg-id="518" tvg-name="Sudarshan News" tvg-logo="https://i.ibb.co/r0q0VXN/Picsart-24-03-18-04-09-12-048.png" group-title="", SUDARSHAN NEWS 
-https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
 #EXTINF: -1 tvg-id="258" tvg-name="NDTV India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibcprtb4LLvm4lzmEqYa9VDuaVtVxyrhI-arlVA5bYA&s" group-title="", NDTV INDIA 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF: -1 tvg-id="255" tvg-name="NDTV 24x7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibcprtb4LLvm4lzmEqYa9VDuaVtVxyrhI-arlVA5bYA&s" group-title="", NDTV 24x7
