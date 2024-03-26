@@ -10,9 +10,21 @@ https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T SPORTS HD
+https://daem.short.gy/TSports_FreeDishBhaiHD
  
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" , Gazi TV
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" , GAZI TV HD 
 https://daem.short.gy/GaziTV_FreeDishBhaiHD
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T SPORTS 
+https://daem.short.gy/TSports_Dhoom_FreeDishBhai.m3u8 
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png", SPORTS 18 1 HD 
+https://daem.short.gy/Sports181HD_FreeDishBhai.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2tMnrv/Picsart-24-03-21-13-18-26-782.png",IPL BANGLA HD 
 https://daem.short.gy/IPLBangla_FreeDishBhaiHD
