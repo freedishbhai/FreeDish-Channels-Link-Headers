@@ -433,6 +433,10 @@ http://103.131.214.129:9985/stream/channelid/952379108?ticket=F9788485A4BE9B20D5
 
 http://103.131.214.129:9985/stream/channelid/387666878?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu01jffvzOvERuk0uyAx6KfczRzAubmW27rPfUsOJitQ&s" group-title="", HUNGAMA KIDS 
+https://daem.short.gy/HungamaKids_FreeDishBhai.m3u8
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: CN PLUS HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="",CN PLUS HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96286
 
@@ -500,7 +504,7 @@ https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: COLORS BANGLA HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title=" ", COLORS BANGLA HD
  
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcs6xXJN57Lasqi8jOr194fZLaxKR2tFkWr1zgDIukw&s" group-title=" ", ENTERR 10 BANGLA 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcs6xXJN57Lasqi8jOr194fZLaxKR2tFkWr1zgDIukw&s" group-title=", ENTERR 10 BANGLA 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 
