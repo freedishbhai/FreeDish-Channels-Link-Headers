@@ -692,28 +692,23 @@ https://mhdtvmax.net/delta/discovery/api/Discovery_Kids_Hindi.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA06ct4rKEbStohRl-llP9O4roRf-YZwletpQabQLJcw&s" group-title="", SPOTIFY BOLLYWOOD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA06ct4rKEbStohRl-llP9O4roRf-YZwletpQabQLJcw&s" group-title="", SPOTIFY 1
 https://drive.uber.radio/uber/sportifybollywood/icecast.audio
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA06ct4rKEbStohRl-llP9O4roRf-YZwletpQabQLJcw&s" group-title="", SPOTIFY TRENDING 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA06ct4rKEbStohRl-llP9O4roRf-YZwletpQabQLJcw&s" group-title="", SPOTIFY 2
 https://drive.uber.radio/uber/sportifytrending/icecast.audio
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v13M03c/df368715-67d6-4e57-a5a6-29544383e17e.png" group-title="", ALL INDIA RADIO 
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00664kbps.m3u8
-
  
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yRKQz7Y/203f62fb-4641-4580-b063-a24d67107252.png" group-title="", BOLLYWOOD MIX 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA06ct4rKEbStohRl-llP9O4roRf-YZwletpQabQLJcw&s" group-title="", BOLLYWOOD MIX 
 https://stream.beyondradio.co.uk/radio/8000/high
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qDC0sLx/21d24912-6480-4cfb-89c3-fff498687d45.png" group-title="", BOLLYWOOD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA06ct4rKEbStohRl-llP9O4roRf-YZwletpQabQLJcw&s" group-title="", SPOTIFY BOLLYWOOD 
 https://stream-145.zeno.fm/rqqps6cbe3quv?zs=ud6ItwI9QqKYmzMiFGBSzQ
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZM8nYwq/11fa5df8-020a-4d9c-bf54-ffe96e60009e.png" group-title="", BOLLYWOOD SUPER COOL HITS 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA06ct4rKEbStohRl-llP9O4roRf-YZwletpQabQLJcw&s" group-title="", BOLLYWOOD SUPER COOL HITS 
 https://stream-161.zeno.fm/zs3m3yxjr7buv?zs=2El3hFqkQou6ediu1mOECg
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xSY5DkK/1dec500b-083d-434e-8c4e-40124b961803.png" group-title="", LOVE PLAYLIST 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA06ct4rKEbStohRl-llP9O4roRf-YZwletpQabQLJcw&s" group-title="", SPOTIFY LOVE PLAYLIST 
 https://drive.uber.radio/uber/bollywoodlove/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1622K3R/1d6e709d-5518-4902-be0c-2c82513db75b.png" , BOLLYWOOD DANCE SONGS 
