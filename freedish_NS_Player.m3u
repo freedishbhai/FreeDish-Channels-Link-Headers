@@ -59,6 +59,18 @@ https://daem.short.gy/T-SeriesMusic_FreeDishBhai.m3u8
 https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/9750c1d5-0ca6-4ad4-a87a-6d62e308e36d/1.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqjILSCxHFQ_gPvS0uNojwjGJSmLwZNP29KRMSVipeQ&s" group-title="", NAAPTOL HINDI 
 https://naaptol.livebox.co.in/Naaptolbluehls/bluehindi.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQJyq9z/3f0fef6f-7922-46bc-8e56-9e11787e5251.png" , SHEMAROO UMANG PLUS 
+https://dai.google.com/linear/hls/event/1FTmFXC8Q5qFG7CZ0oaJXA/master.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/brBwwhN/In-Shot-20240304-112427094.png", ZEE WORLD HD
+https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" , SHEMAROO BOLLYWOOD 
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bs1Q0bx/Picsart-24-02-29-19-06-41-393.png" , CLASSIC BOLLYWOOD HD
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolgyjxzgRJmZpSnvua-V-BUbynLQL7AW3IQgrOiAB-g&s", SRISTI TV
 http://sristi1.livebox.co.in/sristihls/live.m3u8
@@ -675,4 +687,48 @@ https://mhdtvmax.net/delta/discovery/api/Animal_Planettv_Hindi.m3u8
 https://mhdtvmax.net/delta/discovery/api/TLC_Hindi.m3u8 
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQx3dnD3hhSbjvbjsI34H_AuLXH4UMlbR4rPpZPtsT0w&s" group-title="", DISCOVERY KIDS HINDI
 https://mhdtvmax.net/delta/discovery/api/Discovery_Kids_Hindi.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hybJ1K8/Picsart-24-02-07-17-40-58-366.png" group-title="", SPOTIFY DANCE 
+https://drive.uber.radio/uber/sportifypop/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tcjvz0y/Picsart-24-02-07-17-42-43-485.png" group-title="", SPOTIFY BOLLYWOOD 
+https://drive.uber.radio/uber/sportifybollywood/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0MwMTQH/Picsart-24-02-07-17-43-04-557.png" group-title="", SPOTIFY TRENDING 
+https://drive.uber.radio/uber/sportifytrending/icecast.audio
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v13M03c/df368715-67d6-4e57-a5a6-29544383e17e.png" group-title="", ALL INDIA RADIO 
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00664kbps.m3u8
+
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yRKQz7Y/203f62fb-4641-4580-b063-a24d67107252.png" group-title="", BOLLYWOOD MIX 
+https://stream.beyondradio.co.uk/radio/8000/high
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qDC0sLx/21d24912-6480-4cfb-89c3-fff498687d45.png" group-title="", BOLLYWOOD 
+https://stream-145.zeno.fm/rqqps6cbe3quv?zs=ud6ItwI9QqKYmzMiFGBSzQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZM8nYwq/11fa5df8-020a-4d9c-bf54-ffe96e60009e.png" group-title="", BOLLYWOOD SUPER COOL HITS 
+https://stream-161.zeno.fm/zs3m3yxjr7buv?zs=2El3hFqkQou6ediu1mOECg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xSY5DkK/1dec500b-083d-434e-8c4e-40124b961803.png" group-title="", LOVE PLAYLIST 
+https://drive.uber.radio/uber/bollywoodlove/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1622K3R/1d6e709d-5518-4902-be0c-2c82513db75b.png" , BOLLYWOOD DANCE SONGS 
+https://drive.uber.radio/uber/bollywooddance/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jJxcqpb/In-Shot-20240207-082118065.png" , BOLLYWOOD PLUS
+https://drive.uber.radio/uber/bollywoodnow/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vs5181D/1a2810d0-6036-4256-82a7-593b2ccc6a1d.png" , BOLLYWOOD PARTY SONGS 
+https://drive.uber.radio/uber/bollywooddiwali/icecast.audio
+
+
+
+
 
