@@ -10,6 +10,6 @@
 
 <h1 align="center">🎬 How To Play ? </h1>
 
-**Use Ns Player Download On Play Store**  
+**Use Ns Player (Network Stream) Video Player**  
 
 
