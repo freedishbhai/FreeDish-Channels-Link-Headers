@@ -10,9 +10,6 @@
 
 <h1 align="center">🎬 How To Play ? </h1>
 
-**Use Ns Player Download On Play Store** 
-https://play.google.com/store/apps/details?id=com.genuine.leone 
-
-**Use This Short Playlist**  https://daem.short.gy/ddfreedish 
+**Use Ns Player Download On Play Store**  
 
 
